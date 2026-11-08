@@ -1,0 +1,13 @@
+StoreID,StoreName,Channel,City,Province,Region,StoreManager
+STR-01,"Jakarta Flagship - Grand Indonesia","Offline Retail","Jakarta Pusat","DKI Jakarta","Greater Jakarta","Budi Santoso"
+STR-02,"South Quarter Experience Store","Offline Retail","Jakarta Selatan","DKI Jakarta","Greater Jakarta","Siti Rahmawati"
+STR-03,"Bandung Paris Van Java Store","Offline Retail","Bandung","Jawa Barat","West Java","Rian Pratama"
+STR-04,"Surabaya Tunjungan Plaza Store","Offline Retail","Surabaya","Jawa Timur","East Java & Bali","Dewi Lestari"
+STR-05,"Bali Beachwalk Kuta Store","Offline Retail","Denpasar","Bali","East Java & Bali","I Made Wijaya"
+STR-06,"Medan Deli Park Store","Offline Retail","Medan","Sumatera Utara","Sumatra","Farhan Siregar"
+STR-07,"Official Webstore (Direct)","Online DTC","Jakarta Pusat","DKI Jakarta","Digital","Aulia Putri"
+STR-08,"Brand Mobile App Storefront","Online DTC","Jakarta Pusat","DKI Jakarta","Digital","Aulia Putri"
+STR-09,"Tokopedia Official Store","Marketplace","Tangerang","Banten","Digital","Kevin Chandra"
+STR-10,"Shopee Mall Official Store","Marketplace","Tangerang","Banten","Digital","Kevin Chandra"
+STR-11,"TikTok Shop Official Live","Marketplace","Jakarta Barat","DKI Jakarta","Digital","Nadia Safitri"
+STR-12,"B2B Corporate & Distribution","B2B Wholesale","Bekasi","Jawa Barat","Corporate","Hendra Gunawan"

@@ -1,0 +1,32 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,BaseUnitPrice,StandardMarginPct
+PRD-E01,"UltraBook Pro 14"","Electronics","Laptops & Computers",742.50,949.00,21.8
+PRD-E02,"Workstation Creator 16"","Electronics","Laptops & Computers",1210.00,1499.00,19.3
+PRD-E03,"Slim Tablet 11" 256GB","Electronics","Laptops & Computers",415.00,549.00,24.4
+PRD-E04,"ANC Wireless Headphones V2","Electronics","Audio & Wearables",118.00,219.00,46.1
+PRD-E05,"Hi-Fi TWS Earbuds","Electronics","Audio & Wearables",58.50,119.00,50.8
+PRD-E06,"Smart Fitness Tracker Gen 3","Electronics","Audio & Wearables",84.00,159.00,47.2
+PRD-E07,"Mechanical Ergonomic Keyboard","Electronics","Accessories & Peripherals",42.00,99.00,57.6
+PRD-E08,"Precision Wireless Mouse","Electronics","Accessories & Peripherals",19.50,54.00,63.9
+PRD-E09,"Multiport USB-C Hub 8-in-1","Electronics","Accessories & Peripherals",14.80,39.90,62.9
+PRD-E10,"StreamCam 4K UHD Webcam","Electronics","Accessories & Peripherals",36.00,79.00,54.4
+PRD-H01,"Ergonomic Task Chair - High Back","Home & Living","Furniture",135.00,269.00,49.8
+PRD-H02,"Motorized Standing Desk 140x70","Home & Living","Furniture",215.00,419.00,48.7
+PRD-H03,"Modular 4-Tier Bookshelf","Home & Living","Furniture",82.00,169.00,51.5
+PRD-H04,"Compact Espresso Machine 15-Bar","Home & Living","Kitchen & Appliances",165.00,319.00,48.3
+PRD-H05,"Digital Air Fryer 5.5L","Home & Living","Kitchen & Appliances",48.00,99.00,51.5
+PRD-H06,"Gooseneck Smart Kettle 1.0L","Home & Living","Kitchen & Appliances",26.50,59.00,55.1
+PRD-H07,"Ultrasonic Aroma Diffuser 500ml","Home & Living","Home Decor",13.50,39.00,65.4
+PRD-H08,"Dimmable LED Smart Floor Lamp","Home & Living","Home Decor",32.00,79.00,59.5
+PRD-A01,"DryFit Technical Polo Shirt","Apparel & Fashion","Activewear",12.80,34.00,62.4
+PRD-A02,"Packable Windbreaker Shell","Apparel & Fashion","Activewear",28.50,75.00,62.0
+PRD-A03,"Training Jogger Pants","Apparel & Fashion","Activewear",16.50,42.00,60.7
+PRD-A04,"Classic Oxford Button-Down","Apparel & Fashion","Casual Wear",15.00,39.00,61.5
+PRD-A05,"Slim-Fit Stretch Chinos","Apparel & Fashion","Casual Wear",19.00,52.00,63.5
+PRD-A06,"Breathable Knit Everyday Runners","Apparel & Fashion","Footwear",34.00,85.00,60.0
+PRD-A07,"Full-Grain Leather Chelsea Boots","Apparel & Fashion","Footwear",52.00,135.00,61.5
+PRD-B01,"Hydrating Ceramide Barrier Cream","Beauty & Wellness","Skincare",9.80,28.00,65.0
+PRD-B02,"Pure Niacinamide 10% Serum","Beauty & Wellness","Skincare",11.20,32.00,65.0
+PRD-B03,"Invisible Mineral Sunscreen SPF50","Beauty & Wellness","Skincare",7.50,22.00,65.9
+PRD-B04,"Citrus & Amber Eau De Parfum 50ml","Beauty & Wellness","Fragrance",20.00,68.00,70.6
+PRD-B05,"Smoky Vetiver Extrait 50ml","Beauty & Wellness","Fragrance",24.00,79.00,69.6
+PRD-B06,"Micro-Pulse Facial Cleansing Brush","Beauty & Wellness","Personal Care Devices",22.50,65.00,65.4

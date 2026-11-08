@@ -1,0 +1,10 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Power BI auto-recovery
+*.pbix.temp

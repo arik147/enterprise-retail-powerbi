@@ -1,0 +1,2501 @@
+CustomerID,CustomerName,Segment,City,CustomerSinceDate
+CUST-00001,"Fitri Pranata","Consumer","Bekasi",2023-09-17
+CUST-00002,"PT Cipta Karya","Corporate","Surabaya",2025-05-25
+CUST-00003,"Reza Saputra","Consumer","Medan",2022-03-22
+CUST-00004,"Rina Gunawan","Consumer","Jakarta Selatan",2024-01-13
+CUST-00005,"PT Nusantara Solusindo","Corporate","Palembang",2024-01-05
+CUST-00006,"Wahyu Saputra","Consumer","Bekasi",2022-03-02
+CUST-00007,"PT Nusantara Teknologi","Corporate","Denpasar",2023-10-07
+CUST-00008,"Fajar Nugroho","Consumer","Bandung",2024-12-13
+CUST-00009,"Fitri Kusuma","Consumer","Denpasar",2024-07-13
+CUST-00010,"PT Mega Teknologi","Corporate","Jakarta Barat",2023-08-19
+CUST-00011,"Reza Surya","Consumer","Jakarta Barat",2024-08-17
+CUST-00012,"Agus Lestari","Consumer","Yogyakarta",2025-03-25
+CUST-00013,"PT Sentosa Makmur","Corporate","Semarang",2022-05-15
+CUST-00014,"Wahyu Hartanto","Consumer","Denpasar",2024-02-05
+CUST-00015,"CV Jaya Rina","Small Business","Surabaya",2024-06-04
+CUST-00016,"PT Sinar Media","Corporate","Bekasi",2025-06-11
+CUST-00017,"Dina Firmansyah","Consumer","Jakarta Barat",2023-09-14
+CUST-00018,"Wahyu Firmansyah","Consumer","Bandung",2023-06-02
+CUST-00019,"Rio Yuliana","Consumer","Makassar",2024-03-09
+CUST-00020,"Dina Siregar","Consumer","Bandung",2025-12-23
+CUST-00021,"CV Mitra Tania","Small Business","Palembang",2024-08-12
+CUST-00022,"Tania Yuliana","Consumer","Semarang",2023-04-21
+CUST-00023,"Rina Utami","Consumer","Medan",2022-10-17
+CUST-00024,"Citra Siregar","Consumer","Tangerang Selatan",2024-08-03
+CUST-00025,"Citra Kusuma","Consumer","Surabaya",2024-06-15
+CUST-00026,"Agus Pranata","Consumer","Denpasar",2023-07-26
+CUST-00027,"PT Global Karya","Corporate","Palembang",2025-09-26
+CUST-00028,"Gita Nugroho","Consumer","Bekasi",2025-07-04
+CUST-00029,"CV Kreatif Rina","Small Business","Medan",2023-05-26
+CUST-00030,"PT Nusantara Abadi","Corporate","Semarang",2022-08-27
+CUST-00031,"CV Sukses Wahyu","Small Business","Jakarta Barat",2023-05-28
+CUST-00032,"Maya Utami","Consumer","Bandung",2024-04-16
+CUST-00033,"Tania Gunawan","Consumer","Jakarta Selatan",2023-06-10
+CUST-00034,"Lani Firmansyah","Consumer","Yogyakarta",2022-06-17
+CUST-00035,"Tania Surya","Consumer","Denpasar",2025-05-08
+CUST-00036,"Bella Gunawan","Consumer","Surabaya",2022-10-09
+CUST-00037,"Dina Yuliana","Consumer","Tangerang Selatan",2023-05-02
+CUST-00038,"Arif Gunawan","Consumer","Medan",2024-04-17
+CUST-00039,"CV Berkah Lani","Small Business","Jakarta Selatan",2023-11-18
+CUST-00040,"PT Sentosa Solusindo","Corporate","Surabaya",2023-06-16
+CUST-00041,"Lani Nugroho","Consumer","Palembang",2024-11-27
+CUST-00042,"CV Jaya Rio","Small Business","Bandung",2022-07-05
+CUST-00043,"Citra Hartanto","Consumer","Bekasi",2023-06-16
+CUST-00044,"PT Cipta Makmur","Corporate","Semarang",2024-07-06
+CUST-00045,"Rina Kusuma","Consumer","Denpasar",2025-07-06
+CUST-00046,"Hadi Wibowo","Consumer","Jakarta Barat",2023-04-20
+CUST-00047,"Wahyu Hidayat","Consumer","Jakarta Selatan",2022-01-03
+CUST-00048,"Dina Surya","Consumer","Yogyakarta",2022-05-22
+CUST-00049,"Bella Lestari","Consumer","Bekasi",2023-12-17
+CUST-00050,"Dimas Siregar","Consumer","Jakarta Barat",2022-08-20
+CUST-00051,"CV Sukses Tania","Small Business","Bandung",2023-02-08
+CUST-00052,"PT Cipta Teknologi","Corporate","Tangerang Selatan",2022-08-28
+CUST-00053,"PT Global Niaga","Corporate","Jakarta Selatan",2022-03-25
+CUST-00054,"Agus Wibowo","Consumer","Makassar",2023-07-01
+CUST-00055,"PT Nusantara Niaga","Corporate","Jakarta Barat",2023-01-24
+CUST-00056,"Gita Santoso","Consumer","Jakarta Selatan",2023-02-13
+CUST-00057,"CV Jaya Hadi","Small Business","Semarang",2025-10-11
+CUST-00058,"Rio Lestari","Consumer","Jakarta Barat",2023-06-15
+CUST-00059,"Andi Lestari","Consumer","Surabaya",2022-07-19
+CUST-00060,"CV Sukses Eko","Small Business","Jakarta Barat",2025-04-17
+CUST-00061,"Sarah Lestari","Consumer","Jakarta Barat",2023-12-09
+CUST-00062,"PT Sinar Makmur","Corporate","Yogyakarta",2023-07-11
+CUST-00063,"Eko Gunawan","Consumer","Denpasar",2025-03-15
+CUST-00064,"PT Global Niaga","Corporate","Makassar",2022-03-09
+CUST-00065,"Lani Saputra","Consumer","Semarang",2025-08-02
+CUST-00066,"Tania Saputra","Consumer","Bandung",2024-04-05
+CUST-00067,"Eko Siregar","Consumer","Jakarta Selatan",2024-09-02
+CUST-00068,"Tania Gunawan","Consumer","Bandung",2022-11-22
+CUST-00069,"Fitri Yuliana","Consumer","Medan",2025-11-02
+CUST-00070,"Sarah Wibowo","Consumer","Jakarta Barat",2022-01-06
+CUST-00071,"Dimas Yuliana","Consumer","Jakarta Selatan",2024-11-02
+CUST-00072,"CV Maju Sarah","Small Business","Bandung",2023-08-24
+CUST-00073,"Wahyu Santoso","Consumer","Bandung",2024-07-18
+CUST-00074,"Agus Firmansyah","Consumer","Jakarta Selatan",2023-04-05
+CUST-00075,"Maya Gunawan","Consumer","Makassar",2022-02-11
+CUST-00076,"CV Berkah Reza","Small Business","Yogyakarta",2022-10-20
+CUST-00077,"Rina Hartanto","Consumer","Surabaya",2023-04-02
+CUST-00078,"PT Cipta Abadi","Corporate","Tangerang Selatan",2023-07-19
+CUST-00079,"Maya Santoso","Consumer","Denpasar",2023-06-01
+CUST-00080,"CV Jaya Dimas","Small Business","Palembang",2024-04-24
+CUST-00081,"PT Global Media","Corporate","Semarang",2023-01-07
+CUST-00082,"CV Berkah Gita","Small Business","Palembang",2023-04-27
+CUST-00083,"CV Mitra Arif","Small Business","Bekasi",2025-10-05
+CUST-00084,"Citra Yuliana","Consumer","Makassar",2023-04-06
+CUST-00085,"Bella Lestari","Consumer","Jakarta Selatan",2022-08-11
+CUST-00086,"CV Maju Bella","Small Business","Denpasar",2025-10-02
+CUST-00087,"CV Maju Dina","Small Business","Semarang",2022-05-09
+CUST-00088,"CV Maju Rio","Small Business","Denpasar",2022-05-10
+CUST-00089,"Fajar Hartanto","Consumer","Surabaya",2023-08-26
+CUST-00090,"CV Kreatif Bella","Small Business","Yogyakarta",2024-07-06
+CUST-00091,"PT Bina Karya","Corporate","Denpasar",2025-07-21
+CUST-00092,"PT Global Abadi","Corporate","Jakarta Barat",2025-06-01
+CUST-00093,"Arif Siregar","Consumer","Medan",2024-12-11
+CUST-00094,"Eko Utami","Consumer","Denpasar",2022-05-13
+CUST-00095,"Sarah Surya","Consumer","Yogyakarta",2025-09-02
+CUST-00096,"CV Sukses Dimas","Small Business","Tangerang Selatan",2023-10-12
+CUST-00097,"Tania Surya","Consumer","Medan",2023-10-03
+CUST-00098,"Rina Hartanto","Consumer","Jakarta Barat",2025-03-19
+CUST-00099,"CV Maju Citra","Small Business","Palembang",2022-07-06
+CUST-00100,"PT Bina Karya","Corporate","Yogyakarta",2022-02-14
+CUST-00101,"CV Berkah Fitri","Small Business","Jakarta Selatan",2025-07-04
+CUST-00102,"PT Sentosa Solusindo","Corporate","Denpasar",2025-08-02
+CUST-00103,"CV Kreatif Lani","Small Business","Jakarta Selatan",2023-12-08
+CUST-00104,"Dimas Firmansyah","Consumer","Palembang",2024-01-23
+CUST-00105,"CV Jaya Arif","Small Business","Medan",2024-01-05
+CUST-00106,"Fitri Firmansyah","Consumer","Semarang",2022-12-18
+CUST-00107,"PT Sentosa Media","Corporate","Jakarta Barat",2025-01-19
+CUST-00108,"CV Mitra Dina","Small Business","Bekasi",2025-09-06
+CUST-00109,"Arif Hartanto","Consumer","Denpasar",2023-07-06
+CUST-00110,"Rio Hartanto","Consumer","Bandung",2024-02-16
+CUST-00111,"CV Jaya Tania","Small Business","Jakarta Selatan",2023-12-08
+CUST-00112,"Reza Siregar","Consumer","Makassar",2024-06-22
+CUST-00113,"Fajar Nugroho","Consumer","Medan",2025-09-11
+CUST-00114,"PT Cipta Solusindo","Corporate","Tangerang Selatan",2022-09-27
+CUST-00115,"Dimas Pranata","Consumer","Makassar",2024-10-23
+CUST-00116,"Fajar Gunawan","Consumer","Makassar",2024-08-06
+CUST-00117,"Dimas Kusuma","Consumer","Medan",2024-03-22
+CUST-00118,"Sarah Surya","Consumer","Jakarta Selatan",2023-03-09
+CUST-00119,"PT Global Teknologi","Corporate","Tangerang Selatan",2023-05-02
+CUST-00120,"Lani Hidayat","Consumer","Denpasar",2023-04-09
+CUST-00121,"Eko Santoso","Consumer","Jakarta Barat",2023-06-18
+CUST-00122,"Dina Kusuma","Consumer","Bekasi",2024-10-24
+CUST-00123,"CV Mitra Reza","Small Business","Bekasi",2025-09-03
+CUST-00124,"PT Bina Solusindo","Corporate","Surabaya",2025-02-21
+CUST-00125,"CV Maju Gita","Small Business","Bandung",2023-05-03
+CUST-00126,"Sarah Gunawan","Consumer","Tangerang Selatan",2022-04-15
+CUST-00127,"Gita Santoso","Consumer","Palembang",2023-11-03
+CUST-00128,"PT Nusantara Abadi","Corporate","Tangerang Selatan",2022-05-09
+CUST-00129,"Dimas Gunawan","Consumer","Tangerang Selatan",2025-05-12
+CUST-00130,"Andi Hidayat","Consumer","Medan",2024-11-09
+CUST-00131,"Maya Hidayat","Consumer","Semarang",2024-12-03
+CUST-00132,"CV Jaya Reza","Small Business","Bandung",2024-06-28
+CUST-00133,"PT Nusantara Teknologi","Corporate","Surabaya",2025-01-27
+CUST-00134,"CV Berkah Hadi","Small Business","Yogyakarta",2025-07-19
+CUST-00135,"Tania Kusuma","Consumer","Yogyakarta",2024-05-26
+CUST-00136,"Maya Siregar","Consumer","Palembang",2024-02-14
+CUST-00137,"Tania Nugroho","Consumer","Medan",2024-08-21
+CUST-00138,"CV Jaya Sarah","Small Business","Makassar",2022-04-01
+CUST-00139,"Arif Gunawan","Consumer","Yogyakarta",2023-10-26
+CUST-00140,"Agus Surya","Consumer","Makassar",2023-06-21
+CUST-00141,"Bella Pranata","Consumer","Bekasi",2023-07-16
+CUST-00142,"Maya Yuliana","Consumer","Palembang",2024-12-25
+CUST-00143,"CV Sukses Hadi","Small Business","Makassar",2023-11-20
+CUST-00144,"CV Jaya Dimas","Small Business","Tangerang Selatan",2022-08-19
+CUST-00145,"Gita Gunawan","Consumer","Surabaya",2022-05-01
+CUST-00146,"Bella Nugroho","Consumer","Palembang",2024-04-14
+CUST-00147,"CV Berkah Rio","Small Business","Tangerang Selatan",2024-07-03
+CUST-00148,"CV Jaya Eko","Small Business","Makassar",2025-03-10
+CUST-00149,"Andi Kusuma","Consumer","Semarang",2025-09-21
+CUST-00150,"PT Cipta Niaga","Corporate","Surabaya",2023-03-08
+CUST-00151,"PT Mega Media","Corporate","Palembang",2023-06-19
+CUST-00152,"CV Berkah Reza","Small Business","Surabaya",2022-12-02
+CUST-00153,"Agus Santoso","Consumer","Bekasi",2022-05-04
+CUST-00154,"CV Maju Fajar","Small Business","Bekasi",2024-11-05
+CUST-00155,"CV Sukses Eko","Small Business","Bekasi",2024-07-24
+CUST-00156,"Citra Hidayat","Consumer","Tangerang Selatan",2023-06-07
+CUST-00157,"CV Mitra Rio","Small Business","Tangerang Selatan",2023-05-02
+CUST-00158,"CV Kreatif Reza","Small Business","Makassar",2022-06-25
+CUST-00159,"Bella Nugroho","Consumer","Yogyakarta",2024-08-04
+CUST-00160,"Maya Kusuma","Consumer","Palembang",2022-09-07
+CUST-00161,"Dimas Wibowo","Consumer","Jakarta Barat",2024-01-24
+CUST-00162,"Gita Saputra","Consumer","Makassar",2024-06-04
+CUST-00163,"Citra Utami","Consumer","Palembang",2022-02-03
+CUST-00164,"PT Mega Media","Corporate","Medan",2022-11-28
+CUST-00165,"CV Mitra Hadi","Small Business","Bandung",2022-06-22
+CUST-00166,"Dimas Saputra","Consumer","Yogyakarta",2022-10-20
+CUST-00167,"CV Mitra Fitri","Small Business","Makassar",2024-04-19
+CUST-00168,"CV Mitra Hadi","Small Business","Makassar",2022-07-26
+CUST-00169,"PT Cipta Makmur","Corporate","Bekasi",2022-08-12
+CUST-00170,"PT Mega Abadi","Corporate","Yogyakarta",2023-02-28
+CUST-00171,"CV Berkah Fitri","Small Business","Makassar",2024-04-22
+CUST-00172,"PT Mega Niaga","Corporate","Makassar",2025-09-14
+CUST-00173,"CV Mitra Lani","Small Business","Medan",2023-06-13
+CUST-00174,"Andi Gunawan","Consumer","Palembang",2024-01-28
+CUST-00175,"Fajar Lestari","Consumer","Tangerang Selatan",2025-11-07
+CUST-00176,"Fitri Gunawan","Consumer","Palembang",2022-12-10
+CUST-00177,"Agus Lestari","Consumer","Bekasi",2022-01-13
+CUST-00178,"Hadi Santoso","Consumer","Bandung",2023-05-27
+CUST-00179,"PT Nusantara Niaga","Corporate","Tangerang Selatan",2025-08-27
+CUST-00180,"CV Sukses Rina","Small Business","Yogyakarta",2025-11-19
+CUST-00181,"Fitri Siregar","Consumer","Tangerang Selatan",2025-02-21
+CUST-00182,"Rina Hidayat","Consumer","Bekasi",2022-06-03
+CUST-00183,"Tania Wibowo","Consumer","Palembang",2023-08-05
+CUST-00184,"Dina Gunawan","Consumer","Palembang",2024-04-05
+CUST-00185,"PT Nusantara Niaga","Corporate","Palembang",2023-07-01
+CUST-00186,"CV Berkah Bella","Small Business","Tangerang Selatan",2024-07-19
+CUST-00187,"Sarah Gunawan","Consumer","Bekasi",2023-09-12
+CUST-00188,"Dina Wibowo","Consumer","Yogyakarta",2024-06-28
+CUST-00189,"Agus Nugroho","Consumer","Surabaya",2023-11-26
+CUST-00190,"Sarah Firmansyah","Consumer","Makassar",2024-10-03
+CUST-00191,"Eko Surya","Consumer","Denpasar",2023-04-07
+CUST-00192,"Andi Pranata","Consumer","Semarang",2023-08-03
+CUST-00193,"PT Nusantara Teknologi","Corporate","Medan",2023-04-11
+CUST-00194,"CV Sukses Dimas","Small Business","Medan",2024-09-03
+CUST-00195,"CV Mitra Andi","Small Business","Jakarta Selatan",2024-09-23
+CUST-00196,"Maya Wibowo","Consumer","Surabaya",2023-05-20
+CUST-00197,"Citra Santoso","Consumer","Medan",2025-02-12
+CUST-00198,"CV Mitra Dimas","Small Business","Jakarta Barat",2023-06-16
+CUST-00199,"Rio Siregar","Consumer","Palembang",2023-02-08
+CUST-00200,"Reza Surya","Consumer","Semarang",2023-05-21
+CUST-00201,"Eko Utami","Consumer","Yogyakarta",2025-09-13
+CUST-00202,"Sarah Pranata","Consumer","Yogyakarta",2022-03-11
+CUST-00203,"PT Sentosa Makmur","Corporate","Denpasar",2024-06-13
+CUST-00204,"Dimas Gunawan","Consumer","Palembang",2024-07-02
+CUST-00205,"Citra Surya","Consumer","Palembang",2022-08-19
+CUST-00206,"Arif Wibowo","Consumer","Surabaya",2025-03-01
+CUST-00207,"PT Nusantara Karya","Corporate","Denpasar",2022-02-08
+CUST-00208,"Wahyu Yuliana","Consumer","Semarang",2023-10-28
+CUST-00209,"Lani Nugroho","Consumer","Jakarta Barat",2025-05-10
+CUST-00210,"Rio Pranata","Consumer","Bandung",2022-06-23
+CUST-00211,"CV Sukses Tania","Small Business","Bekasi",2022-11-04
+CUST-00212,"Fajar Pranata","Consumer","Yogyakarta",2025-04-02
+CUST-00213,"Arif Surya","Consumer","Denpasar",2022-08-05
+CUST-00214,"CV Berkah Rio","Small Business","Medan",2024-08-27
+CUST-00215,"CV Kreatif Andi","Small Business","Medan",2024-07-28
+CUST-00216,"PT Prima Abadi","Corporate","Medan",2023-11-11
+CUST-00217,"PT Sentosa Makmur","Corporate","Makassar",2025-04-25
+CUST-00218,"PT Global Niaga","Corporate","Tangerang Selatan",2024-03-26
+CUST-00219,"CV Kreatif Tania","Small Business","Medan",2023-06-17
+CUST-00220,"Rina Utami","Consumer","Bekasi",2023-03-28
+CUST-00221,"CV Berkah Agus","Small Business","Medan",2025-10-18
+CUST-00222,"Eko Santoso","Consumer","Denpasar",2025-08-10
+CUST-00223,"Gita Utami","Consumer","Denpasar",2024-06-20
+CUST-00224,"PT Mega Media","Corporate","Medan",2022-08-28
+CUST-00225,"CV Berkah Fitri","Small Business","Yogyakarta",2024-07-04
+CUST-00226,"Eko Siregar","Consumer","Surabaya",2025-09-04
+CUST-00227,"Tania Surya","Consumer","Surabaya",2023-12-17
+CUST-00228,"Rio Gunawan","Consumer","Bandung",2023-01-15
+CUST-00229,"CV Sukses Fajar","Small Business","Medan",2024-02-11
+CUST-00230,"CV Jaya Citra","Small Business","Jakarta Selatan",2023-11-25
+CUST-00231,"Agus Saputra","Consumer","Yogyakarta",2022-09-22
+CUST-00232,"Citra Siregar","Consumer","Makassar",2024-01-07
+CUST-00233,"CV Maju Bella","Small Business","Jakarta Selatan",2025-06-26
+CUST-00234,"Rina Surya","Consumer","Jakarta Barat",2022-03-09
+CUST-00235,"Bella Gunawan","Consumer","Denpasar",2025-12-10
+CUST-00236,"CV Jaya Dina","Small Business","Surabaya",2023-11-09
+CUST-00237,"PT Cipta Media","Corporate","Bekasi",2023-07-09
+CUST-00238,"Fajar Utami","Consumer","Palembang",2024-09-18
+CUST-00239,"CV Berkah Dina","Small Business","Jakarta Selatan",2024-04-03
+CUST-00240,"PT Sentosa Abadi","Corporate","Yogyakarta",2023-08-12
+CUST-00241,"PT Bina Solusindo","Corporate","Jakarta Barat",2023-03-19
+CUST-00242,"Eko Yuliana","Consumer","Medan",2022-12-05
+CUST-00243,"Hadi Kusuma","Consumer","Makassar",2024-05-19
+CUST-00244,"Lani Firmansyah","Consumer","Palembang",2025-05-03
+CUST-00245,"Tania Firmansyah","Consumer","Medan",2025-05-03
+CUST-00246,"Maya Surya","Consumer","Makassar",2023-11-11
+CUST-00247,"CV Berkah Maya","Small Business","Yogyakarta",2025-08-10
+CUST-00248,"PT Sentosa Solusindo","Corporate","Bekasi",2023-02-22
+CUST-00249,"PT Global Abadi","Corporate","Bandung",2024-12-15
+CUST-00250,"Fajar Hartanto","Consumer","Tangerang Selatan",2024-02-23
+CUST-00251,"PT Nusantara Abadi","Corporate","Semarang",2022-12-13
+CUST-00252,"Rio Pranata","Consumer","Bandung",2022-02-09
+CUST-00253,"Gita Utami","Consumer","Surabaya",2024-08-09
+CUST-00254,"PT Sinar Makmur","Corporate","Medan",2024-01-22
+CUST-00255,"PT Global Niaga","Corporate","Jakarta Selatan",2023-11-18
+CUST-00256,"PT Prima Abadi","Corporate","Bandung",2022-12-04
+CUST-00257,"Citra Pranata","Consumer","Bandung",2024-03-01
+CUST-00258,"CV Kreatif Reza","Small Business","Tangerang Selatan",2024-07-24
+CUST-00259,"Lani Firmansyah","Consumer","Bandung",2024-03-19
+CUST-00260,"Fitri Santoso","Consumer","Denpasar",2023-01-22
+CUST-00261,"PT Mega Karya","Corporate","Semarang",2024-04-24
+CUST-00262,"Wahyu Pranata","Consumer","Palembang",2022-04-03
+CUST-00263,"Arif Hidayat","Consumer","Jakarta Barat",2024-10-15
+CUST-00264,"Sarah Hidayat","Consumer","Bandung",2025-06-17
+CUST-00265,"Bella Wibowo","Consumer","Medan",2022-09-12
+CUST-00266,"CV Maju Citra","Small Business","Tangerang Selatan",2022-01-06
+CUST-00267,"CV Jaya Wahyu","Small Business","Semarang",2022-11-20
+CUST-00268,"CV Mitra Rina","Small Business","Tangerang Selatan",2024-08-17
+CUST-00269,"Rio Wibowo","Consumer","Jakarta Barat",2022-10-14
+CUST-00270,"Gita Gunawan","Consumer","Tangerang Selatan",2024-12-16
+CUST-00271,"CV Jaya Reza","Small Business","Medan",2023-08-07
+CUST-00272,"CV Mitra Hadi","Small Business","Jakarta Barat",2023-07-04
+CUST-00273,"Sarah Santoso","Consumer","Bekasi",2023-07-03
+CUST-00274,"CV Mitra Dina","Small Business","Denpasar",2025-11-27
+CUST-00275,"Agus Utami","Consumer","Palembang",2022-01-20
+CUST-00276,"Arif Lestari","Consumer","Palembang",2022-05-03
+CUST-00277,"Reza Utami","Consumer","Jakarta Selatan",2024-10-13
+CUST-00278,"Citra Yuliana","Consumer","Semarang",2023-12-27
+CUST-00279,"Reza Gunawan","Consumer","Bandung",2024-05-05
+CUST-00280,"Dimas Utami","Consumer","Tangerang Selatan",2023-01-16
+CUST-00281,"PT Prima Karya","Corporate","Jakarta Barat",2024-04-14
+CUST-00282,"Gita Utami","Consumer","Jakarta Barat",2022-10-04
+CUST-00283,"CV Sukses Rio","Small Business","Yogyakarta",2025-08-23
+CUST-00284,"Arif Lestari","Consumer","Jakarta Barat",2022-07-27
+CUST-00285,"Wahyu Firmansyah","Consumer","Bandung",2022-02-08
+CUST-00286,"CV Jaya Eko","Small Business","Tangerang Selatan",2024-06-18
+CUST-00287,"Bella Wibowo","Consumer","Denpasar",2024-09-23
+CUST-00288,"CV Maju Fajar","Small Business","Bekasi",2025-05-13
+CUST-00289,"CV Mitra Hadi","Small Business","Denpasar",2025-03-18
+CUST-00290,"Fitri Hartanto","Consumer","Palembang",2023-07-03
+CUST-00291,"Arif Nugroho","Consumer","Jakarta Selatan",2022-01-27
+CUST-00292,"PT Bina Makmur","Corporate","Makassar",2022-11-05
+CUST-00293,"Gita Utami","Consumer","Yogyakarta",2025-06-18
+CUST-00294,"Maya Firmansyah","Consumer","Tangerang Selatan",2023-04-08
+CUST-00295,"Eko Saputra","Consumer","Bandung",2025-04-24
+CUST-00296,"Reza Yuliana","Consumer","Yogyakarta",2024-11-20
+CUST-00297,"Andi Utami","Consumer","Denpasar",2022-11-06
+CUST-00298,"Hadi Lestari","Consumer","Palembang",2025-10-21
+CUST-00299,"PT Mega Karya","Corporate","Palembang",2024-09-23
+CUST-00300,"Fitri Saputra","Consumer","Palembang",2025-06-14
+CUST-00301,"Dina Hidayat","Consumer","Surabaya",2025-12-21
+CUST-00302,"PT Bina Abadi","Corporate","Makassar",2024-11-22
+CUST-00303,"Maya Wibowo","Consumer","Bandung",2024-04-13
+CUST-00304,"PT Sentosa Niaga","Corporate","Surabaya",2025-12-09
+CUST-00305,"Arif Hidayat","Consumer","Denpasar",2022-08-03
+CUST-00306,"CV Sukses Dina","Small Business","Surabaya",2022-06-15
+CUST-00307,"PT Global Teknologi","Corporate","Surabaya",2024-06-25
+CUST-00308,"PT Nusantara Karya","Corporate","Denpasar",2023-05-10
+CUST-00309,"CV Jaya Sarah","Small Business","Semarang",2025-08-17
+CUST-00310,"Reza Firmansyah","Consumer","Medan",2024-06-15
+CUST-00311,"Dina Kusuma","Consumer","Palembang",2025-08-09
+CUST-00312,"Arif Surya","Consumer","Bekasi",2022-02-16
+CUST-00313,"PT Nusantara Niaga","Corporate","Yogyakarta",2025-12-24
+CUST-00314,"Dimas Utami","Consumer","Bekasi",2025-08-16
+CUST-00315,"Hadi Utami","Consumer","Jakarta Barat",2025-12-22
+CUST-00316,"Lani Pranata","Consumer","Makassar",2022-02-07
+CUST-00317,"CV Berkah Rina","Small Business","Palembang",2024-02-09
+CUST-00318,"PT Prima Solusindo","Corporate","Yogyakarta",2025-10-14
+CUST-00319,"Fajar Wibowo","Consumer","Bekasi",2023-11-05
+CUST-00320,"Arif Nugroho","Consumer","Jakarta Selatan",2025-10-21
+CUST-00321,"Dimas Wibowo","Consumer","Medan",2024-12-11
+CUST-00322,"Hadi Saputra","Consumer","Palembang",2024-11-09
+CUST-00323,"Eko Wibowo","Consumer","Denpasar",2022-12-25
+CUST-00324,"Citra Surya","Consumer","Palembang",2023-08-13
+CUST-00325,"PT Global Solusindo","Corporate","Makassar",2023-03-27
+CUST-00326,"PT Cipta Niaga","Corporate","Jakarta Barat",2025-12-07
+CUST-00327,"CV Berkah Tania","Small Business","Yogyakarta",2023-05-14
+CUST-00328,"CV Kreatif Reza","Small Business","Jakarta Selatan",2022-09-10
+CUST-00329,"CV Jaya Gita","Small Business","Yogyakarta",2024-02-23
+CUST-00330,"Reza Kusuma","Consumer","Palembang",2023-02-12
+CUST-00331,"Lani Gunawan","Consumer","Jakarta Selatan",2024-07-24
+CUST-00332,"Rina Hartanto","Consumer","Surabaya",2022-09-23
+CUST-00333,"PT Prima Karya","Corporate","Medan",2024-04-24
+CUST-00334,"PT Cipta Media","Corporate","Palembang",2025-08-09
+CUST-00335,"Eko Hartanto","Consumer","Medan",2023-08-06
+CUST-00336,"Agus Nugroho","Consumer","Medan",2025-11-06
+CUST-00337,"Andi Pranata","Consumer","Palembang",2025-11-27
+CUST-00338,"PT Global Karya","Corporate","Bandung",2025-11-20
+CUST-00339,"Rio Hartanto","Consumer","Palembang",2022-07-11
+CUST-00340,"CV Mitra Hadi","Small Business","Tangerang Selatan",2023-05-01
+CUST-00341,"Andi Lestari","Consumer","Semarang",2024-02-02
+CUST-00342,"PT Nusantara Abadi","Corporate","Tangerang Selatan",2024-05-17
+CUST-00343,"Arif Surya","Consumer","Jakarta Selatan",2023-06-28
+CUST-00344,"Dimas Hartanto","Consumer","Tangerang Selatan",2023-03-10
+CUST-00345,"Dina Siregar","Consumer","Makassar",2023-02-12
+CUST-00346,"CV Kreatif Fajar","Small Business","Yogyakarta",2022-12-18
+CUST-00347,"CV Kreatif Bella","Small Business","Tangerang Selatan",2024-03-12
+CUST-00348,"CV Berkah Tania","Small Business","Bandung",2023-11-10
+CUST-00349,"Andi Kusuma","Consumer","Bekasi",2023-07-14
+CUST-00350,"Maya Yuliana","Consumer","Surabaya",2023-08-27
+CUST-00351,"CV Kreatif Andi","Small Business","Medan",2025-10-09
+CUST-00352,"Eko Utami","Consumer","Jakarta Selatan",2023-06-07
+CUST-00353,"Gita Utami","Consumer","Jakarta Selatan",2024-07-18
+CUST-00354,"Bella Nugroho","Consumer","Denpasar",2024-01-01
+CUST-00355,"Hadi Utami","Consumer","Denpasar",2024-02-10
+CUST-00356,"CV Maju Tania","Small Business","Medan",2022-11-14
+CUST-00357,"CV Berkah Eko","Small Business","Makassar",2022-06-06
+CUST-00358,"Rina Utami","Consumer","Bandung",2023-05-06
+CUST-00359,"PT Cipta Karya","Corporate","Palembang",2025-07-01
+CUST-00360,"Maya Santoso","Consumer","Semarang",2025-10-07
+CUST-00361,"CV Kreatif Dimas","Small Business","Bekasi",2024-02-28
+CUST-00362,"Dina Santoso","Consumer","Palembang",2022-03-27
+CUST-00363,"Reza Siregar","Consumer","Yogyakarta",2022-06-26
+CUST-00364,"CV Jaya Rio","Small Business","Jakarta Selatan",2025-11-03
+CUST-00365,"Maya Wibowo","Consumer","Bandung",2025-07-08
+CUST-00366,"CV Sukses Fajar","Small Business","Jakarta Selatan",2022-05-02
+CUST-00367,"Rina Utami","Consumer","Tangerang Selatan",2023-04-09
+CUST-00368,"Bella Kusuma","Consumer","Bekasi",2023-02-13
+CUST-00369,"CV Sukses Reza","Small Business","Makassar",2023-02-16
+CUST-00370,"Agus Yuliana","Consumer","Yogyakarta",2025-02-11
+CUST-00371,"CV Kreatif Eko","Small Business","Bandung",2025-02-03
+CUST-00372,"Wahyu Firmansyah","Consumer","Jakarta Selatan",2025-05-19
+CUST-00373,"Agus Saputra","Consumer","Bekasi",2024-09-02
+CUST-00374,"Rio Yuliana","Consumer","Makassar",2024-08-21
+CUST-00375,"Lani Hartanto","Consumer","Denpasar",2022-05-16
+CUST-00376,"Gita Wibowo","Consumer","Bandung",2022-07-10
+CUST-00377,"Reza Nugroho","Consumer","Palembang",2025-11-13
+CUST-00378,"Dimas Utami","Consumer","Jakarta Selatan",2023-11-04
+CUST-00379,"Sarah Utami","Consumer","Medan",2022-12-21
+CUST-00380,"Lani Santoso","Consumer","Makassar",2025-10-05
+CUST-00381,"PT Nusantara Makmur","Corporate","Jakarta Selatan",2024-04-10
+CUST-00382,"Dina Hidayat","Consumer","Jakarta Barat",2024-12-04
+CUST-00383,"Reza Hidayat","Consumer","Surabaya",2022-08-24
+CUST-00384,"Rio Yuliana","Consumer","Denpasar",2024-07-02
+CUST-00385,"Reza Hartanto","Consumer","Surabaya",2022-04-08
+CUST-00386,"CV Jaya Rio","Small Business","Jakarta Barat",2022-10-03
+CUST-00387,"Fitri Nugroho","Consumer","Yogyakarta",2024-08-08
+CUST-00388,"Fajar Santoso","Consumer","Bekasi",2022-02-08
+CUST-00389,"Fajar Santoso","Consumer","Denpasar",2023-06-07
+CUST-00390,"Tania Saputra","Consumer","Surabaya",2025-05-02
+CUST-00391,"PT Nusantara Solusindo","Corporate","Medan",2023-09-18
+CUST-00392,"Gita Siregar","Consumer","Bekasi",2025-08-06
+CUST-00393,"CV Berkah Citra","Small Business","Makassar",2025-07-22
+CUST-00394,"Fitri Surya","Consumer","Denpasar",2025-10-09
+CUST-00395,"Fajar Lestari","Consumer","Semarang",2024-05-13
+CUST-00396,"Tania Yuliana","Consumer","Jakarta Selatan",2022-03-28
+CUST-00397,"Arif Pranata","Consumer","Tangerang Selatan",2022-08-26
+CUST-00398,"Sarah Lestari","Consumer","Semarang",2024-11-25
+CUST-00399,"CV Kreatif Agus","Small Business","Medan",2025-11-08
+CUST-00400,"CV Mitra Gita","Small Business","Yogyakarta",2023-11-19
+CUST-00401,"PT Sinar Media","Corporate","Tangerang Selatan",2025-04-07
+CUST-00402,"CV Sukses Gita","Small Business","Semarang",2025-04-15
+CUST-00403,"Agus Santoso","Consumer","Tangerang Selatan",2024-12-19
+CUST-00404,"CV Maju Hadi","Small Business","Jakarta Selatan",2025-01-27
+CUST-00405,"Andi Saputra","Consumer","Tangerang Selatan",2024-09-27
+CUST-00406,"Citra Santoso","Consumer","Makassar",2024-07-09
+CUST-00407,"Rina Pranata","Consumer","Palembang",2024-08-10
+CUST-00408,"Sarah Kusuma","Consumer","Jakarta Barat",2023-05-26
+CUST-00409,"Agus Nugroho","Consumer","Denpasar",2022-07-19
+CUST-00410,"Andi Gunawan","Consumer","Denpasar",2022-12-23
+CUST-00411,"Sarah Utami","Consumer","Bekasi",2024-07-10
+CUST-00412,"Andi Wibowo","Consumer","Yogyakarta",2022-10-09
+CUST-00413,"Sarah Santoso","Consumer","Yogyakarta",2023-03-18
+CUST-00414,"Reza Saputra","Consumer","Semarang",2024-11-19
+CUST-00415,"Sarah Saputra","Consumer","Denpasar",2024-10-28
+CUST-00416,"Citra Saputra","Consumer","Medan",2023-01-02
+CUST-00417,"Arif Pranata","Consumer","Tangerang Selatan",2023-04-19
+CUST-00418,"CV Kreatif Sarah","Small Business","Denpasar",2023-01-28
+CUST-00419,"Lani Hidayat","Consumer","Medan",2025-01-11
+CUST-00420,"Hadi Utami","Consumer","Makassar",2022-06-01
+CUST-00421,"Maya Hidayat","Consumer","Yogyakarta",2022-08-21
+CUST-00422,"CV Berkah Maya","Small Business","Tangerang Selatan",2025-12-05
+CUST-00423,"CV Sukses Bella","Small Business","Bandung",2025-08-10
+CUST-00424,"PT Bina Makmur","Corporate","Jakarta Barat",2023-12-17
+CUST-00425,"CV Kreatif Agus","Small Business","Palembang",2022-09-13
+CUST-00426,"Lani Santoso","Consumer","Makassar",2025-06-24
+CUST-00427,"Maya Pranata","Consumer","Denpasar",2023-01-12
+CUST-00428,"PT Global Niaga","Corporate","Semarang",2022-12-12
+CUST-00429,"PT Mega Karya","Corporate","Jakarta Barat",2024-03-05
+CUST-00430,"Agus Saputra","Consumer","Medan",2024-12-11
+CUST-00431,"CV Jaya Rina","Small Business","Medan",2023-06-06
+CUST-00432,"Rina Yuliana","Consumer","Denpasar",2025-11-15
+CUST-00433,"Eko Santoso","Consumer","Bekasi",2024-02-13
+CUST-00434,"PT Bina Solusindo","Corporate","Yogyakarta",2024-11-21
+CUST-00435,"Agus Hartanto","Consumer","Bandung",2023-05-23
+CUST-00436,"Reza Surya","Consumer","Jakarta Barat",2023-09-17
+CUST-00437,"CV Maju Reza","Small Business","Yogyakarta",2023-02-14
+CUST-00438,"CV Sukses Wahyu","Small Business","Tangerang Selatan",2023-11-07
+CUST-00439,"CV Mitra Agus","Small Business","Bekasi",2022-02-24
+CUST-00440,"Reza Hartanto","Consumer","Bekasi",2023-02-21
+CUST-00441,"PT Bina Niaga","Corporate","Bandung",2022-12-19
+CUST-00442,"Wahyu Surya","Consumer","Bandung",2025-06-25
+CUST-00443,"Hadi Firmansyah","Consumer","Surabaya",2025-01-19
+CUST-00444,"Maya Lestari","Consumer","Yogyakarta",2024-02-16
+CUST-00445,"CV Jaya Sarah","Small Business","Tangerang Selatan",2022-11-14
+CUST-00446,"PT Prima Solusindo","Corporate","Medan",2024-11-06
+CUST-00447,"Fitri Pranata","Consumer","Palembang",2024-11-24
+CUST-00448,"PT Bina Makmur","Corporate","Denpasar",2024-05-18
+CUST-00449,"CV Berkah Hadi","Small Business","Jakarta Selatan",2022-09-03
+CUST-00450,"Rio Siregar","Consumer","Yogyakarta",2022-07-23
+CUST-00451,"Fitri Hidayat","Consumer","Denpasar",2022-01-24
+CUST-00452,"CV Maju Agus","Small Business","Medan",2022-10-10
+CUST-00453,"CV Mitra Andi","Small Business","Palembang",2025-07-12
+CUST-00454,"Dina Firmansyah","Consumer","Semarang",2023-06-23
+CUST-00455,"Dimas Hartanto","Consumer","Denpasar",2025-07-09
+CUST-00456,"CV Jaya Maya","Small Business","Denpasar",2025-05-03
+CUST-00457,"Agus Siregar","Consumer","Jakarta Barat",2022-05-08
+CUST-00458,"Rio Surya","Consumer","Semarang",2025-10-05
+CUST-00459,"Citra Saputra","Consumer","Makassar",2025-03-04
+CUST-00460,"Dina Nugroho","Consumer","Bekasi",2022-06-08
+CUST-00461,"Citra Saputra","Consumer","Palembang",2023-09-07
+CUST-00462,"CV Mitra Tania","Small Business","Bandung",2023-03-04
+CUST-00463,"PT Bina Teknologi","Corporate","Palembang",2024-01-03
+CUST-00464,"PT Global Karya","Corporate","Tangerang Selatan",2023-07-01
+CUST-00465,"CV Kreatif Tania","Small Business","Bekasi",2024-03-01
+CUST-00466,"Dimas Utami","Consumer","Surabaya",2025-03-12
+CUST-00467,"Bella Santoso","Consumer","Surabaya",2025-08-02
+CUST-00468,"CV Mitra Fajar","Small Business","Makassar",2023-12-05
+CUST-00469,"Gita Kusuma","Consumer","Jakarta Selatan",2023-04-09
+CUST-00470,"CV Sukses Reza","Small Business","Denpasar",2023-09-21
+CUST-00471,"PT Sentosa Niaga","Corporate","Bekasi",2024-09-21
+CUST-00472,"CV Maju Citra","Small Business","Yogyakarta",2024-01-11
+CUST-00473,"PT Bina Solusindo","Corporate","Bekasi",2024-02-24
+CUST-00474,"Andi Firmansyah","Consumer","Makassar",2022-01-22
+CUST-00475,"PT Sentosa Abadi","Corporate","Denpasar",2023-03-03
+CUST-00476,"Tania Pranata","Consumer","Yogyakarta",2023-09-27
+CUST-00477,"PT Sinar Niaga","Corporate","Palembang",2022-10-19
+CUST-00478,"CV Berkah Andi","Small Business","Semarang",2022-07-27
+CUST-00479,"PT Bina Teknologi","Corporate","Semarang",2022-10-23
+CUST-00480,"Gita Yuliana","Consumer","Tangerang Selatan",2023-08-20
+CUST-00481,"Arif Wibowo","Consumer","Palembang",2023-10-17
+CUST-00482,"Reza Yuliana","Consumer","Bandung",2022-12-22
+CUST-00483,"Maya Hidayat","Consumer","Medan",2022-02-16
+CUST-00484,"PT Cipta Makmur","Corporate","Bandung",2024-05-07
+CUST-00485,"Eko Santoso","Consumer","Bekasi",2024-05-24
+CUST-00486,"Fitri Utami","Consumer","Bandung",2025-07-25
+CUST-00487,"CV Mitra Reza","Small Business","Jakarta Selatan",2022-09-15
+CUST-00488,"PT Mega Teknologi","Corporate","Medan",2024-07-05
+CUST-00489,"Eko Yuliana","Consumer","Tangerang Selatan",2022-09-16
+CUST-00490,"Citra Lestari","Consumer","Medan",2022-05-26
+CUST-00491,"Arif Siregar","Consumer","Semarang",2022-05-02
+CUST-00492,"Maya Santoso","Consumer","Tangerang Selatan",2023-09-06
+CUST-00493,"Dina Santoso","Consumer","Bekasi",2024-07-23
+CUST-00494,"PT Bina Niaga","Corporate","Jakarta Barat",2024-05-01
+CUST-00495,"Dimas Lestari","Consumer","Denpasar",2022-08-24
+CUST-00496,"Reza Siregar","Consumer","Denpasar",2024-12-24
+CUST-00497,"PT Cipta Makmur","Corporate","Jakarta Barat",2024-05-02
+CUST-00498,"Maya Santoso","Consumer","Palembang",2022-06-20
+CUST-00499,"Eko Firmansyah","Consumer","Jakarta Barat",2025-01-11
+CUST-00500,"CV Jaya Andi","Small Business","Tangerang Selatan",2024-06-24
+CUST-00501,"PT Prima Makmur","Corporate","Palembang",2025-08-12
+CUST-00502,"Gita Utami","Consumer","Surabaya",2024-06-21
+CUST-00503,"Eko Lestari","Consumer","Yogyakarta",2023-08-08
+CUST-00504,"Maya Siregar","Consumer","Surabaya",2024-09-05
+CUST-00505,"Gita Hidayat","Consumer","Semarang",2025-01-21
+CUST-00506,"Bella Yuliana","Consumer","Semarang",2022-12-01
+CUST-00507,"Dimas Kusuma","Consumer","Palembang",2022-09-02
+CUST-00508,"Dimas Nugroho","Consumer","Jakarta Barat",2023-11-22
+CUST-00509,"Citra Yuliana","Consumer","Bandung",2025-08-10
+CUST-00510,"CV Sukses Bella","Small Business","Makassar",2024-03-23
+CUST-00511,"Sarah Nugroho","Consumer","Makassar",2023-09-05
+CUST-00512,"CV Jaya Dimas","Small Business","Palembang",2022-11-15
+CUST-00513,"Lani Firmansyah","Consumer","Makassar",2022-03-09
+CUST-00514,"Wahyu Hidayat","Consumer","Jakarta Barat",2023-11-25
+CUST-00515,"CV Kreatif Tania","Small Business","Tangerang Selatan",2025-12-21
+CUST-00516,"CV Kreatif Gita","Small Business","Makassar",2023-04-02
+CUST-00517,"PT Mega Teknologi","Corporate","Bekasi",2025-02-18
+CUST-00518,"CV Sukses Eko","Small Business","Jakarta Barat",2022-01-08
+CUST-00519,"Dimas Firmansyah","Consumer","Jakarta Barat",2022-10-08
+CUST-00520,"Arif Gunawan","Consumer","Makassar",2023-01-17
+CUST-00521,"Rina Surya","Consumer","Surabaya",2022-02-20
+CUST-00522,"Sarah Firmansyah","Consumer","Makassar",2024-06-28
+CUST-00523,"CV Maju Rina","Small Business","Jakarta Selatan",2023-08-06
+CUST-00524,"Rina Lestari","Consumer","Yogyakarta",2024-01-14
+CUST-00525,"PT Cipta Abadi","Corporate","Semarang",2023-05-26
+CUST-00526,"Reza Kusuma","Consumer","Semarang",2022-07-18
+CUST-00527,"Fitri Gunawan","Consumer","Tangerang Selatan",2024-09-05
+CUST-00528,"PT Prima Solusindo","Corporate","Tangerang Selatan",2024-07-13
+CUST-00529,"Dina Kusuma","Consumer","Medan",2024-08-02
+CUST-00530,"Dina Firmansyah","Consumer","Yogyakarta",2022-04-02
+CUST-00531,"Andi Surya","Consumer","Makassar",2024-12-10
+CUST-00532,"Hadi Yuliana","Consumer","Bekasi",2023-08-22
+CUST-00533,"PT Sentosa Teknologi","Corporate","Jakarta Selatan",2023-01-08
+CUST-00534,"CV Sukses Agus","Small Business","Surabaya",2023-10-23
+CUST-00535,"CV Kreatif Bella","Small Business","Palembang",2024-04-01
+CUST-00536,"PT Sentosa Karya","Corporate","Medan",2025-06-28
+CUST-00537,"Fitri Nugroho","Consumer","Yogyakarta",2024-12-04
+CUST-00538,"Fitri Saputra","Consumer","Makassar",2022-07-14
+CUST-00539,"CV Berkah Rina","Small Business","Surabaya",2022-12-07
+CUST-00540,"CV Sukses Reza","Small Business","Semarang",2023-06-23
+CUST-00541,"PT Sentosa Makmur","Corporate","Jakarta Selatan",2024-09-12
+CUST-00542,"Lani Gunawan","Consumer","Medan",2023-12-10
+CUST-00543,"Tania Hidayat","Consumer","Bekasi",2025-10-17
+CUST-00544,"Dina Pranata","Consumer","Denpasar",2024-08-26
+CUST-00545,"Eko Wibowo","Consumer","Jakarta Barat",2022-06-05
+CUST-00546,"Sarah Saputra","Consumer","Palembang",2025-07-09
+CUST-00547,"Sarah Utami","Consumer","Denpasar",2024-07-13
+CUST-00548,"Bella Surya","Consumer","Palembang",2024-04-28
+CUST-00549,"Maya Saputra","Consumer","Surabaya",2025-12-12
+CUST-00550,"PT Global Solusindo","Corporate","Bandung",2025-03-21
+CUST-00551,"PT Cipta Abadi","Corporate","Bekasi",2025-01-04
+CUST-00552,"Gita Firmansyah","Consumer","Medan",2023-04-05
+CUST-00553,"Tania Wibowo","Consumer","Surabaya",2022-10-28
+CUST-00554,"PT Sinar Solusindo","Corporate","Semarang",2023-05-26
+CUST-00555,"Hadi Wibowo","Consumer","Jakarta Barat",2023-06-22
+CUST-00556,"PT Bina Niaga","Corporate","Jakarta Barat",2024-05-08
+CUST-00557,"CV Maju Gita","Small Business","Tangerang Selatan",2024-02-19
+CUST-00558,"CV Mitra Reza","Small Business","Bekasi",2025-05-14
+CUST-00559,"PT Cipta Karya","Corporate","Bekasi",2025-06-21
+CUST-00560,"Fajar Hartanto","Consumer","Bekasi",2023-06-28
+CUST-00561,"Tania Siregar","Consumer","Jakarta Barat",2023-08-25
+CUST-00562,"PT Sentosa Solusindo","Corporate","Bandung",2023-07-13
+CUST-00563,"PT Global Teknologi","Corporate","Jakarta Barat",2024-02-07
+CUST-00564,"Fajar Firmansyah","Consumer","Bandung",2025-07-01
+CUST-00565,"Rina Saputra","Consumer","Semarang",2023-06-05
+CUST-00566,"Hadi Surya","Consumer","Jakarta Barat",2022-10-23
+CUST-00567,"Lani Wibowo","Consumer","Semarang",2023-02-07
+CUST-00568,"Eko Nugroho","Consumer","Semarang",2025-06-13
+CUST-00569,"Hadi Hidayat","Consumer","Bekasi",2025-07-01
+CUST-00570,"Eko Nugroho","Consumer","Semarang",2024-06-23
+CUST-00571,"Andi Santoso","Consumer","Semarang",2024-03-18
+CUST-00572,"Rina Utami","Consumer","Bekasi",2023-12-11
+CUST-00573,"CV Berkah Andi","Small Business","Yogyakarta",2025-03-23
+CUST-00574,"Rina Kusuma","Consumer","Denpasar",2024-06-28
+CUST-00575,"CV Mitra Eko","Small Business","Bandung",2025-01-11
+CUST-00576,"PT Cipta Solusindo","Corporate","Bandung",2024-12-05
+CUST-00577,"CV Maju Rio","Small Business","Makassar",2023-05-13
+CUST-00578,"Citra Utami","Consumer","Semarang",2022-11-06
+CUST-00579,"Tania Gunawan","Consumer","Yogyakarta",2025-12-20
+CUST-00580,"PT Prima Makmur","Corporate","Bekasi",2025-06-26
+CUST-00581,"Dimas Nugroho","Consumer","Bekasi",2023-03-24
+CUST-00582,"Sarah Hartanto","Consumer","Jakarta Barat",2022-01-20
+CUST-00583,"CV Sukses Gita","Small Business","Yogyakarta",2024-01-26
+CUST-00584,"CV Sukses Fajar","Small Business","Tangerang Selatan",2022-02-05
+CUST-00585,"Maya Nugroho","Consumer","Jakarta Barat",2024-04-14
+CUST-00586,"Arif Hidayat","Consumer","Yogyakarta",2024-11-17
+CUST-00587,"Rio Surya","Consumer","Bandung",2025-05-21
+CUST-00588,"Dina Gunawan","Consumer","Denpasar",2022-05-03
+CUST-00589,"Lani Wibowo","Consumer","Makassar",2023-04-19
+CUST-00590,"PT Global Solusindo","Corporate","Denpasar",2024-04-01
+CUST-00591,"Bella Firmansyah","Consumer","Medan",2023-11-10
+CUST-00592,"PT Sentosa Niaga","Corporate","Bandung",2025-03-20
+CUST-00593,"Dina Lestari","Consumer","Bekasi",2024-08-19
+CUST-00594,"Reza Yuliana","Consumer","Yogyakarta",2023-05-05
+CUST-00595,"PT Cipta Niaga","Corporate","Tangerang Selatan",2025-03-25
+CUST-00596,"PT Prima Karya","Corporate","Jakarta Selatan",2022-05-07
+CUST-00597,"Sarah Yuliana","Consumer","Surabaya",2023-11-27
+CUST-00598,"PT Prima Teknologi","Corporate","Bekasi",2025-09-03
+CUST-00599,"Wahyu Nugroho","Consumer","Semarang",2024-12-06
+CUST-00600,"Gita Utami","Consumer","Surabaya",2022-04-02
+CUST-00601,"Tania Utami","Consumer","Palembang",2024-12-14
+CUST-00602,"Arif Surya","Consumer","Jakarta Barat",2022-10-17
+CUST-00603,"PT Global Karya","Corporate","Bandung",2024-12-11
+CUST-00604,"Maya Siregar","Consumer","Bandung",2025-03-08
+CUST-00605,"CV Berkah Fajar","Small Business","Semarang",2025-02-02
+CUST-00606,"Fajar Pranata","Consumer","Palembang",2024-04-26
+CUST-00607,"CV Sukses Rio","Small Business","Semarang",2023-05-16
+CUST-00608,"Sarah Santoso","Consumer","Medan",2025-08-27
+CUST-00609,"Bella Wibowo","Consumer","Surabaya",2024-02-14
+CUST-00610,"CV Kreatif Gita","Small Business","Denpasar",2023-06-26
+CUST-00611,"CV Jaya Tania","Small Business","Denpasar",2024-11-12
+CUST-00612,"Sarah Kusuma","Consumer","Bekasi",2024-07-13
+CUST-00613,"PT Sinar Solusindo","Corporate","Medan",2025-02-16
+CUST-00614,"PT Prima Solusindo","Corporate","Palembang",2024-01-05
+CUST-00615,"Dina Wibowo","Consumer","Makassar",2025-12-19
+CUST-00616,"PT Sinar Karya","Corporate","Denpasar",2025-07-19
+CUST-00617,"Rina Hidayat","Consumer","Medan",2025-06-08
+CUST-00618,"Fajar Gunawan","Consumer","Palembang",2022-04-17
+CUST-00619,"PT Global Karya","Corporate","Medan",2022-10-13
+CUST-00620,"Citra Hartanto","Consumer","Palembang",2025-10-03
+CUST-00621,"Rina Firmansyah","Consumer","Tangerang Selatan",2024-12-16
+CUST-00622,"CV Berkah Hadi","Small Business","Medan",2024-05-17
+CUST-00623,"Gita Wibowo","Consumer","Tangerang Selatan",2023-05-28
+CUST-00624,"Fajar Yuliana","Consumer","Medan",2025-01-23
+CUST-00625,"PT Nusantara Abadi","Corporate","Semarang",2022-03-08
+CUST-00626,"CV Jaya Reza","Small Business","Semarang",2025-06-04
+CUST-00627,"Citra Siregar","Consumer","Bekasi",2025-06-18
+CUST-00628,"Dina Santoso","Consumer","Medan",2025-04-13
+CUST-00629,"Rina Utami","Consumer","Jakarta Barat",2022-05-03
+CUST-00630,"PT Sentosa Media","Corporate","Tangerang Selatan",2022-06-08
+CUST-00631,"CV Berkah Citra","Small Business","Tangerang Selatan",2025-10-08
+CUST-00632,"CV Mitra Arif","Small Business","Bekasi",2025-10-21
+CUST-00633,"Agus Surya","Consumer","Jakarta Selatan",2022-02-20
+CUST-00634,"Wahyu Santoso","Consumer","Jakarta Barat",2022-03-28
+CUST-00635,"PT Prima Makmur","Corporate","Jakarta Selatan",2022-03-26
+CUST-00636,"CV Berkah Eko","Small Business","Surabaya",2023-04-15
+CUST-00637,"PT Cipta Teknologi","Corporate","Jakarta Selatan",2023-11-16
+CUST-00638,"CV Jaya Wahyu","Small Business","Semarang",2023-04-13
+CUST-00639,"PT Sinar Abadi","Corporate","Surabaya",2023-10-02
+CUST-00640,"Maya Firmansyah","Consumer","Tangerang Selatan",2022-12-05
+CUST-00641,"PT Cipta Makmur","Corporate","Jakarta Barat",2022-08-02
+CUST-00642,"PT Sentosa Niaga","Corporate","Bandung",2023-07-12
+CUST-00643,"PT Bina Abadi","Corporate","Tangerang Selatan",2023-01-02
+CUST-00644,"CV Berkah Gita","Small Business","Jakarta Barat",2023-08-15
+CUST-00645,"PT Sentosa Niaga","Corporate","Palembang",2024-05-12
+CUST-00646,"Rio Hartanto","Consumer","Yogyakarta",2022-05-04
+CUST-00647,"Dina Pranata","Consumer","Bandung",2022-05-13
+CUST-00648,"CV Mitra Hadi","Small Business","Semarang",2024-07-16
+CUST-00649,"CV Jaya Rio","Small Business","Tangerang Selatan",2025-04-10
+CUST-00650,"CV Jaya Andi","Small Business","Semarang",2023-11-14
+CUST-00651,"CV Berkah Dina","Small Business","Makassar",2023-05-16
+CUST-00652,"CV Sukses Maya","Small Business","Surabaya",2025-01-01
+CUST-00653,"CV Maju Rina","Small Business","Bandung",2023-02-06
+CUST-00654,"Rina Yuliana","Consumer","Denpasar",2025-04-23
+CUST-00655,"Bella Santoso","Consumer","Yogyakarta",2022-09-20
+CUST-00656,"Sarah Yuliana","Consumer","Medan",2023-02-07
+CUST-00657,"Andi Pranata","Consumer","Makassar",2025-08-17
+CUST-00658,"Citra Yuliana","Consumer","Jakarta Barat",2025-08-01
+CUST-00659,"Gita Siregar","Consumer","Surabaya",2024-03-04
+CUST-00660,"PT Nusantara Teknologi","Corporate","Palembang",2023-02-05
+CUST-00661,"Bella Utami","Consumer","Bekasi",2022-09-24
+CUST-00662,"Bella Siregar","Consumer","Jakarta Barat",2023-04-03
+CUST-00663,"Reza Hartanto","Consumer","Tangerang Selatan",2025-08-07
+CUST-00664,"CV Mitra Reza","Small Business","Jakarta Selatan",2022-02-24
+CUST-00665,"PT Prima Solusindo","Corporate","Makassar",2023-08-03
+CUST-00666,"CV Mitra Gita","Small Business","Bekasi",2022-06-01
+CUST-00667,"Gita Siregar","Consumer","Palembang",2024-11-10
+CUST-00668,"CV Jaya Maya","Small Business","Tangerang Selatan",2025-10-27
+CUST-00669,"PT Global Solusindo","Corporate","Makassar",2022-11-05
+CUST-00670,"Rina Wibowo","Consumer","Medan",2025-01-17
+CUST-00671,"CV Sukses Andi","Small Business","Palembang",2025-02-05
+CUST-00672,"CV Maju Andi","Small Business","Bandung",2022-05-27
+CUST-00673,"Rina Utami","Consumer","Tangerang Selatan",2025-05-13
+CUST-00674,"Agus Yuliana","Consumer","Bekasi",2025-11-02
+CUST-00675,"PT Sentosa Teknologi","Corporate","Palembang",2025-04-24
+CUST-00676,"CV Mitra Rina","Small Business","Tangerang Selatan",2025-07-24
+CUST-00677,"Lani Gunawan","Consumer","Yogyakarta",2022-06-22
+CUST-00678,"Fitri Surya","Consumer","Jakarta Selatan",2025-09-04
+CUST-00679,"Dimas Hidayat","Consumer","Palembang",2024-05-14
+CUST-00680,"PT Bina Solusindo","Corporate","Bekasi",2024-07-05
+CUST-00681,"Fitri Hartanto","Consumer","Jakarta Selatan",2025-03-11
+CUST-00682,"CV Maju Fajar","Small Business","Palembang",2023-07-05
+CUST-00683,"PT Cipta Niaga","Corporate","Denpasar",2025-02-21
+CUST-00684,"PT Bina Teknologi","Corporate","Tangerang Selatan",2022-12-04
+CUST-00685,"CV Maju Lani","Small Business","Jakarta Selatan",2022-05-27
+CUST-00686,"CV Jaya Rio","Small Business","Semarang",2025-09-06
+CUST-00687,"Reza Kusuma","Consumer","Jakarta Selatan",2024-09-03
+CUST-00688,"Tania Santoso","Consumer","Surabaya",2022-06-12
+CUST-00689,"Fajar Saputra","Consumer","Bandung",2023-01-18
+CUST-00690,"CV Jaya Tania","Small Business","Jakarta Selatan",2024-11-23
+CUST-00691,"Rio Surya","Consumer","Denpasar",2025-02-08
+CUST-00692,"Lani Nugroho","Consumer","Medan",2024-06-10
+CUST-00693,"PT Prima Makmur","Corporate","Bekasi",2025-11-09
+CUST-00694,"PT Sinar Niaga","Corporate","Yogyakarta",2023-01-15
+CUST-00695,"Sarah Wibowo","Consumer","Medan",2022-06-04
+CUST-00696,"PT Nusantara Karya","Corporate","Medan",2025-01-04
+CUST-00697,"PT Prima Teknologi","Corporate","Surabaya",2022-07-25
+CUST-00698,"PT Sentosa Solusindo","Corporate","Makassar",2025-12-10
+CUST-00699,"PT Sentosa Media","Corporate","Denpasar",2022-07-11
+CUST-00700,"PT Sentosa Abadi","Corporate","Semarang",2022-04-28
+CUST-00701,"Bella Surya","Consumer","Jakarta Selatan",2022-07-23
+CUST-00702,"Wahyu Hidayat","Consumer","Jakarta Barat",2023-08-06
+CUST-00703,"CV Mitra Maya","Small Business","Surabaya",2024-04-16
+CUST-00704,"CV Jaya Citra","Small Business","Palembang",2022-03-18
+CUST-00705,"CV Mitra Reza","Small Business","Makassar",2024-07-05
+CUST-00706,"Tania Yuliana","Consumer","Bekasi",2023-10-04
+CUST-00707,"Fajar Firmansyah","Consumer","Bandung",2023-12-03
+CUST-00708,"PT Bina Makmur","Corporate","Tangerang Selatan",2025-09-28
+CUST-00709,"Rio Hidayat","Consumer","Medan",2024-11-24
+CUST-00710,"Rina Firmansyah","Consumer","Medan",2023-11-11
+CUST-00711,"CV Berkah Citra","Small Business","Bandung",2025-11-19
+CUST-00712,"CV Maju Bella","Small Business","Palembang",2025-07-18
+CUST-00713,"Rio Pranata","Consumer","Medan",2023-03-17
+CUST-00714,"PT Nusantara Makmur","Corporate","Bekasi",2024-05-16
+CUST-00715,"CV Jaya Lani","Small Business","Makassar",2022-06-22
+CUST-00716,"Sarah Utami","Consumer","Jakarta Barat",2022-10-03
+CUST-00717,"Wahyu Lestari","Consumer","Yogyakarta",2025-04-07
+CUST-00718,"PT Nusantara Solusindo","Corporate","Makassar",2022-05-24
+CUST-00719,"Fitri Nugroho","Consumer","Bekasi",2023-11-02
+CUST-00720,"Fajar Nugroho","Consumer","Jakarta Barat",2025-12-01
+CUST-00721,"Bella Siregar","Consumer","Jakarta Selatan",2025-08-12
+CUST-00722,"Agus Santoso","Consumer","Makassar",2024-12-14
+CUST-00723,"CV Mitra Fajar","Small Business","Medan",2023-01-07
+CUST-00724,"Maya Yuliana","Consumer","Bekasi",2022-10-06
+CUST-00725,"Eko Pranata","Consumer","Denpasar",2023-03-08
+CUST-00726,"PT Sinar Media","Corporate","Tangerang Selatan",2025-10-26
+CUST-00727,"CV Jaya Rio","Small Business","Palembang",2023-04-22
+CUST-00728,"PT Sinar Solusindo","Corporate","Denpasar",2022-12-28
+CUST-00729,"CV Sukses Agus","Small Business","Tangerang Selatan",2024-01-05
+CUST-00730,"PT Sentosa Solusindo","Corporate","Tangerang Selatan",2024-05-23
+CUST-00731,"CV Mitra Rio","Small Business","Medan",2024-11-24
+CUST-00732,"Rina Siregar","Consumer","Surabaya",2023-01-11
+CUST-00733,"Dimas Firmansyah","Consumer","Jakarta Barat",2024-02-04
+CUST-00734,"Citra Wibowo","Consumer","Jakarta Selatan",2022-05-19
+CUST-00735,"CV Maju Dimas","Small Business","Makassar",2023-01-09
+CUST-00736,"PT Prima Teknologi","Corporate","Palembang",2024-09-06
+CUST-00737,"Rina Siregar","Consumer","Jakarta Barat",2022-07-05
+CUST-00738,"Wahyu Surya","Consumer","Medan",2022-11-15
+CUST-00739,"Citra Hidayat","Consumer","Tangerang Selatan",2025-09-17
+CUST-00740,"PT Mega Solusindo","Corporate","Denpasar",2025-11-15
+CUST-00741,"Arif Kusuma","Consumer","Makassar",2024-04-01
+CUST-00742,"Rio Hidayat","Consumer","Jakarta Selatan",2024-10-28
+CUST-00743,"Wahyu Santoso","Consumer","Bandung",2025-08-02
+CUST-00744,"PT Sinar Solusindo","Corporate","Makassar",2023-01-21
+CUST-00745,"PT Nusantara Media","Corporate","Bekasi",2024-03-28
+CUST-00746,"Gita Gunawan","Consumer","Yogyakarta",2023-04-07
+CUST-00747,"Maya Santoso","Consumer","Tangerang Selatan",2022-07-07
+CUST-00748,"PT Global Karya","Corporate","Bekasi",2024-04-14
+CUST-00749,"PT Nusantara Karya","Corporate","Jakarta Barat",2023-03-07
+CUST-00750,"CV Sukses Gita","Small Business","Makassar",2024-06-01
+CUST-00751,"Gita Wibowo","Consumer","Medan",2022-05-03
+CUST-00752,"Sarah Gunawan","Consumer","Medan",2022-05-04
+CUST-00753,"PT Mega Teknologi","Corporate","Denpasar",2024-02-12
+CUST-00754,"Dimas Siregar","Consumer","Semarang",2024-10-22
+CUST-00755,"PT Sentosa Karya","Corporate","Bekasi",2022-04-28
+CUST-00756,"Bella Pranata","Consumer","Semarang",2024-03-10
+CUST-00757,"Andi Hidayat","Consumer","Jakarta Selatan",2025-09-16
+CUST-00758,"Bella Wibowo","Consumer","Jakarta Barat",2025-09-20
+CUST-00759,"Dina Wibowo","Consumer","Yogyakarta",2023-10-04
+CUST-00760,"CV Jaya Fitri","Small Business","Makassar",2022-12-13
+CUST-00761,"Citra Pranata","Consumer","Bandung",2023-05-04
+CUST-00762,"CV Jaya Gita","Small Business","Denpasar",2024-03-04
+CUST-00763,"Dimas Pranata","Consumer","Bekasi",2024-09-05
+CUST-00764,"Rina Gunawan","Consumer","Surabaya",2024-10-26
+CUST-00765,"Dimas Saputra","Consumer","Surabaya",2023-07-16
+CUST-00766,"CV Sukses Agus","Small Business","Bekasi",2025-08-12
+CUST-00767,"Bella Yuliana","Consumer","Makassar",2023-12-15
+CUST-00768,"PT Nusantara Teknologi","Corporate","Medan",2023-05-16
+CUST-00769,"CV Berkah Sarah","Small Business","Yogyakarta",2023-07-22
+CUST-00770,"Rina Kusuma","Consumer","Bekasi",2023-08-20
+CUST-00771,"CV Kreatif Gita","Small Business","Medan",2024-06-03
+CUST-00772,"PT Mega Teknologi","Corporate","Denpasar",2024-01-11
+CUST-00773,"Wahyu Nugroho","Consumer","Palembang",2025-11-22
+CUST-00774,"Arif Hidayat","Consumer","Tangerang Selatan",2024-09-17
+CUST-00775,"Maya Pranata","Consumer","Tangerang Selatan",2025-04-20
+CUST-00776,"Wahyu Hidayat","Consumer","Makassar",2025-12-25
+CUST-00777,"Fajar Yuliana","Consumer","Jakarta Barat",2025-05-11
+CUST-00778,"Andi Saputra","Consumer","Medan",2025-05-26
+CUST-00779,"PT Sentosa Abadi","Corporate","Denpasar",2023-10-05
+CUST-00780,"PT Sinar Media","Corporate","Jakarta Barat",2022-09-18
+CUST-00781,"PT Mega Niaga","Corporate","Semarang",2022-01-22
+CUST-00782,"PT Sinar Niaga","Corporate","Medan",2024-12-17
+CUST-00783,"CV Jaya Andi","Small Business","Surabaya",2023-03-18
+CUST-00784,"Rina Utami","Consumer","Surabaya",2024-07-04
+CUST-00785,"Andi Santoso","Consumer","Tangerang Selatan",2023-07-17
+CUST-00786,"PT Cipta Solusindo","Corporate","Denpasar",2024-09-25
+CUST-00787,"Agus Santoso","Consumer","Palembang",2025-08-27
+CUST-00788,"PT Cipta Abadi","Corporate","Tangerang Selatan",2022-10-08
+CUST-00789,"PT Nusantara Makmur","Corporate","Bekasi",2025-01-28
+CUST-00790,"CV Jaya Rina","Small Business","Surabaya",2023-05-14
+CUST-00791,"Sarah Hartanto","Consumer","Surabaya",2025-08-03
+CUST-00792,"Dimas Kusuma","Consumer","Semarang",2024-12-10
+CUST-00793,"Wahyu Kusuma","Consumer","Jakarta Selatan",2024-12-12
+CUST-00794,"PT Prima Karya","Corporate","Yogyakarta",2025-01-09
+CUST-00795,"Dina Siregar","Consumer","Makassar",2024-02-20
+CUST-00796,"PT Nusantara Makmur","Corporate","Bandung",2022-01-05
+CUST-00797,"CV Kreatif Tania","Small Business","Jakarta Barat",2024-11-06
+CUST-00798,"Rina Wibowo","Consumer","Makassar",2023-12-09
+CUST-00799,"Wahyu Kusuma","Consumer","Denpasar",2022-06-27
+CUST-00800,"Tania Utami","Consumer","Palembang",2025-06-19
+CUST-00801,"PT Cipta Teknologi","Corporate","Jakarta Selatan",2022-06-25
+CUST-00802,"Fajar Yuliana","Consumer","Denpasar",2025-07-11
+CUST-00803,"Eko Saputra","Consumer","Bekasi",2025-01-15
+CUST-00804,"PT Nusantara Teknologi","Corporate","Bekasi",2025-09-25
+CUST-00805,"CV Sukses Maya","Small Business","Tangerang Selatan",2025-12-05
+CUST-00806,"Fajar Wibowo","Consumer","Medan",2022-10-25
+CUST-00807,"Citra Kusuma","Consumer","Yogyakarta",2024-08-15
+CUST-00808,"PT Sentosa Teknologi","Corporate","Yogyakarta",2024-02-15
+CUST-00809,"Dina Kusuma","Consumer","Makassar",2024-02-18
+CUST-00810,"CV Maju Gita","Small Business","Jakarta Barat",2022-08-01
+CUST-00811,"Tania Firmansyah","Consumer","Bekasi",2023-12-21
+CUST-00812,"Lani Nugroho","Consumer","Bandung",2025-12-14
+CUST-00813,"Reza Kusuma","Consumer","Surabaya",2022-06-13
+CUST-00814,"CV Berkah Gita","Small Business","Semarang",2024-09-13
+CUST-00815,"Reza Siregar","Consumer","Semarang",2022-10-18
+CUST-00816,"Bella Yuliana","Consumer","Jakarta Selatan",2024-07-04
+CUST-00817,"Rina Utami","Consumer","Jakarta Barat",2022-09-13
+CUST-00818,"CV Mitra Fitri","Small Business","Yogyakarta",2024-08-08
+CUST-00819,"Fajar Saputra","Consumer","Palembang",2024-09-16
+CUST-00820,"Maya Hidayat","Consumer","Yogyakarta",2024-06-25
+CUST-00821,"Sarah Hartanto","Consumer","Semarang",2024-08-12
+CUST-00822,"Tania Kusuma","Consumer","Jakarta Selatan",2022-10-06
+CUST-00823,"PT Global Teknologi","Corporate","Medan",2025-11-14
+CUST-00824,"Rio Utami","Consumer","Medan",2024-06-26
+CUST-00825,"Wahyu Kusuma","Consumer","Semarang",2025-10-21
+CUST-00826,"PT Sinar Abadi","Corporate","Denpasar",2022-07-16
+CUST-00827,"Lani Hidayat","Consumer","Semarang",2024-01-02
+CUST-00828,"Agus Kusuma","Consumer","Bekasi",2025-02-07
+CUST-00829,"Dina Wibowo","Consumer","Yogyakarta",2022-02-15
+CUST-00830,"Wahyu Firmansyah","Consumer","Makassar",2024-10-04
+CUST-00831,"CV Jaya Dina","Small Business","Bekasi",2023-11-15
+CUST-00832,"CV Kreatif Eko","Small Business","Palembang",2024-04-08
+CUST-00833,"Reza Santoso","Consumer","Surabaya",2024-01-19
+CUST-00834,"CV Berkah Bella","Small Business","Denpasar",2024-01-28
+CUST-00835,"PT Mega Karya","Corporate","Bekasi",2025-11-24
+CUST-00836,"PT Cipta Abadi","Corporate","Jakarta Barat",2025-01-23
+CUST-00837,"Dimas Utami","Consumer","Bekasi",2022-01-18
+CUST-00838,"CV Maju Dimas","Small Business","Bandung",2024-08-11
+CUST-00839,"Dina Saputra","Consumer","Yogyakarta",2024-05-16
+CUST-00840,"Bella Yuliana","Consumer","Medan",2024-04-08
+CUST-00841,"Agus Wibowo","Consumer","Palembang",2023-01-26
+CUST-00842,"PT Mega Media","Corporate","Bekasi",2025-12-04
+CUST-00843,"Tania Hartanto","Consumer","Palembang",2022-12-21
+CUST-00844,"Arif Utami","Consumer","Yogyakarta",2023-04-22
+CUST-00845,"Reza Saputra","Consumer","Yogyakarta",2022-09-10
+CUST-00846,"Dina Hidayat","Consumer","Tangerang Selatan",2022-09-11
+CUST-00847,"Rio Hartanto","Consumer","Jakarta Selatan",2022-03-07
+CUST-00848,"CV Mitra Fitri","Small Business","Surabaya",2022-09-19
+CUST-00849,"Citra Lestari","Consumer","Makassar",2025-09-07
+CUST-00850,"Rina Lestari","Consumer","Medan",2025-08-11
+CUST-00851,"Sarah Nugroho","Consumer","Jakarta Selatan",2023-07-20
+CUST-00852,"Wahyu Kusuma","Consumer","Makassar",2024-12-10
+CUST-00853,"Reza Wibowo","Consumer","Bekasi",2025-11-24
+CUST-00854,"Fitri Firmansyah","Consumer","Bekasi",2022-11-18
+CUST-00855,"CV Maju Arif","Small Business","Semarang",2022-05-13
+CUST-00856,"CV Jaya Hadi","Small Business","Medan",2024-08-27
+CUST-00857,"Andi Lestari","Consumer","Jakarta Selatan",2022-06-26
+CUST-00858,"Andi Hartanto","Consumer","Denpasar",2025-10-17
+CUST-00859,"CV Berkah Bella","Small Business","Denpasar",2025-09-23
+CUST-00860,"CV Mitra Tania","Small Business","Tangerang Selatan",2024-10-11
+CUST-00861,"Fitri Wibowo","Consumer","Makassar",2024-11-25
+CUST-00862,"Agus Pranata","Consumer","Medan",2024-10-02
+CUST-00863,"PT Global Makmur","Corporate","Bekasi",2025-08-21
+CUST-00864,"Dimas Nugroho","Consumer","Denpasar",2024-10-02
+CUST-00865,"Reza Santoso","Consumer","Makassar",2022-03-23
+CUST-00866,"Bella Wibowo","Consumer","Palembang",2022-07-18
+CUST-00867,"PT Bina Teknologi","Corporate","Surabaya",2022-01-04
+CUST-00868,"Tania Gunawan","Consumer","Semarang",2022-08-28
+CUST-00869,"Dina Santoso","Consumer","Denpasar",2025-08-17
+CUST-00870,"Rio Hidayat","Consumer","Jakarta Selatan",2024-05-02
+CUST-00871,"Hadi Siregar","Consumer","Yogyakarta",2024-08-13
+CUST-00872,"CV Mitra Bella","Small Business","Denpasar",2022-07-11
+CUST-00873,"PT Cipta Solusindo","Corporate","Bekasi",2024-02-09
+CUST-00874,"CV Kreatif Eko","Small Business","Surabaya",2023-06-05
+CUST-00875,"Dimas Pranata","Consumer","Bandung",2023-01-02
+CUST-00876,"PT Sentosa Media","Corporate","Surabaya",2024-09-08
+CUST-00877,"Fitri Wibowo","Consumer","Tangerang Selatan",2025-05-20
+CUST-00878,"PT Sinar Makmur","Corporate","Tangerang Selatan",2022-07-05
+CUST-00879,"Lani Firmansyah","Consumer","Surabaya",2024-01-07
+CUST-00880,"PT Sinar Solusindo","Corporate","Semarang",2023-06-04
+CUST-00881,"Eko Saputra","Consumer","Jakarta Selatan",2022-01-03
+CUST-00882,"Rio Nugroho","Consumer","Palembang",2022-03-01
+CUST-00883,"Eko Utami","Consumer","Palembang",2023-12-02
+CUST-00884,"CV Jaya Lani","Small Business","Bandung",2025-11-19
+CUST-00885,"CV Sukses Eko","Small Business","Tangerang Selatan",2025-03-25
+CUST-00886,"Sarah Gunawan","Consumer","Bandung",2025-10-02
+CUST-00887,"CV Sukses Sarah","Small Business","Makassar",2024-03-22
+CUST-00888,"Sarah Hidayat","Consumer","Medan",2022-05-09
+CUST-00889,"Dimas Santoso","Consumer","Medan",2022-04-12
+CUST-00890,"PT Mega Karya","Corporate","Semarang",2024-04-12
+CUST-00891,"Andi Yuliana","Consumer","Tangerang Selatan",2022-12-02
+CUST-00892,"Gita Pranata","Consumer","Surabaya",2024-01-13
+CUST-00893,"Tania Surya","Consumer","Medan",2025-04-09
+CUST-00894,"PT Nusantara Karya","Corporate","Denpasar",2024-10-05
+CUST-00895,"CV Mitra Rina","Small Business","Jakarta Barat",2023-07-16
+CUST-00896,"PT Cipta Abadi","Corporate","Makassar",2023-03-06
+CUST-00897,"Bella Firmansyah","Consumer","Bandung",2022-01-23
+CUST-00898,"CV Sukses Fajar","Small Business","Surabaya",2025-12-03
+CUST-00899,"Andi Siregar","Consumer","Jakarta Selatan",2022-03-20
+CUST-00900,"Gita Pranata","Consumer","Jakarta Selatan",2024-11-07
+CUST-00901,"Tania Gunawan","Consumer","Palembang",2024-11-15
+CUST-00902,"Lani Hartanto","Consumer","Palembang",2025-07-03
+CUST-00903,"PT Sinar Makmur","Corporate","Bandung",2025-10-02
+CUST-00904,"Tania Kusuma","Consumer","Bekasi",2023-05-18
+CUST-00905,"CV Maju Gita","Small Business","Palembang",2022-09-09
+CUST-00906,"CV Mitra Sarah","Small Business","Palembang",2023-08-17
+CUST-00907,"CV Mitra Rina","Small Business","Semarang",2022-09-27
+CUST-00908,"CV Jaya Maya","Small Business","Bekasi",2022-08-18
+CUST-00909,"CV Maju Fajar","Small Business","Bandung",2023-12-17
+CUST-00910,"Reza Gunawan","Consumer","Denpasar",2025-01-23
+CUST-00911,"Arif Saputra","Consumer","Tangerang Selatan",2024-07-25
+CUST-00912,"PT Cipta Niaga","Corporate","Denpasar",2025-02-03
+CUST-00913,"Fitri Santoso","Consumer","Semarang",2023-02-09
+CUST-00914,"Fitri Lestari","Consumer","Tangerang Selatan",2024-11-11
+CUST-00915,"Lani Wibowo","Consumer","Bekasi",2022-12-15
+CUST-00916,"Reza Lestari","Consumer","Yogyakarta",2025-11-03
+CUST-00917,"Wahyu Kusuma","Consumer","Semarang",2023-07-09
+CUST-00918,"Sarah Hartanto","Consumer","Medan",2025-06-24
+CUST-00919,"PT Bina Niaga","Corporate","Jakarta Barat",2024-01-28
+CUST-00920,"Dimas Hidayat","Consumer","Jakarta Selatan",2024-01-23
+CUST-00921,"PT Sentosa Niaga","Corporate","Yogyakarta",2024-02-19
+CUST-00922,"Eko Nugroho","Consumer","Bekasi",2023-07-16
+CUST-00923,"Sarah Gunawan","Consumer","Yogyakarta",2024-12-04
+CUST-00924,"Sarah Firmansyah","Consumer","Jakarta Selatan",2024-08-09
+CUST-00925,"Andi Kusuma","Consumer","Jakarta Barat",2022-11-02
+CUST-00926,"Bella Pranata","Consumer","Bekasi",2024-04-21
+CUST-00927,"PT Mega Makmur","Corporate","Palembang",2024-08-18
+CUST-00928,"Hadi Pranata","Consumer","Bekasi",2024-02-01
+CUST-00929,"Fajar Saputra","Consumer","Medan",2023-08-16
+CUST-00930,"Bella Santoso","Consumer","Semarang",2025-09-27
+CUST-00931,"CV Berkah Tania","Small Business","Yogyakarta",2022-01-05
+CUST-00932,"PT Nusantara Makmur","Corporate","Jakarta Barat",2025-11-09
+CUST-00933,"Gita Surya","Consumer","Tangerang Selatan",2025-08-10
+CUST-00934,"PT Global Teknologi","Corporate","Medan",2024-11-06
+CUST-00935,"CV Sukses Eko","Small Business","Palembang",2025-09-14
+CUST-00936,"PT Global Karya","Corporate","Jakarta Barat",2023-11-07
+CUST-00937,"Lani Hartanto","Consumer","Bekasi",2024-06-10
+CUST-00938,"Gita Yuliana","Consumer","Yogyakarta",2024-03-08
+CUST-00939,"CV Kreatif Rina","Small Business","Bekasi",2023-05-18
+CUST-00940,"Bella Surya","Consumer","Semarang",2025-11-19
+CUST-00941,"PT Sentosa Makmur","Corporate","Surabaya",2024-12-28
+CUST-00942,"CV Maju Agus","Small Business","Jakarta Selatan",2024-06-27
+CUST-00943,"CV Kreatif Arif","Small Business","Yogyakarta",2022-03-11
+CUST-00944,"CV Jaya Fajar","Small Business","Medan",2022-09-08
+CUST-00945,"Agus Siregar","Consumer","Surabaya",2024-12-03
+CUST-00946,"PT Prima Teknologi","Corporate","Makassar",2025-02-23
+CUST-00947,"CV Kreatif Hadi","Small Business","Tangerang Selatan",2024-11-22
+CUST-00948,"Rio Wibowo","Consumer","Semarang",2022-08-05
+CUST-00949,"Sarah Siregar","Consumer","Makassar",2023-02-27
+CUST-00950,"CV Mitra Tania","Small Business","Tangerang Selatan",2023-05-26
+CUST-00951,"PT Mega Teknologi","Corporate","Bandung",2023-10-16
+CUST-00952,"CV Maju Wahyu","Small Business","Jakarta Barat",2024-04-19
+CUST-00953,"Wahyu Santoso","Consumer","Semarang",2023-07-07
+CUST-00954,"Eko Santoso","Consumer","Bandung",2022-06-12
+CUST-00955,"PT Bina Solusindo","Corporate","Bandung",2022-10-04
+CUST-00956,"Fajar Surya","Consumer","Jakarta Barat",2025-11-22
+CUST-00957,"Citra Lestari","Consumer","Bandung",2023-12-20
+CUST-00958,"Wahyu Firmansyah","Consumer","Denpasar",2023-11-27
+CUST-00959,"PT Mega Abadi","Corporate","Yogyakarta",2025-02-22
+CUST-00960,"Gita Firmansyah","Consumer","Semarang",2023-01-14
+CUST-00961,"PT Bina Teknologi","Corporate","Denpasar",2022-01-14
+CUST-00962,"CV Berkah Arif","Small Business","Surabaya",2024-01-24
+CUST-00963,"Dimas Surya","Consumer","Yogyakarta",2025-07-28
+CUST-00964,"Arif Nugroho","Consumer","Tangerang Selatan",2025-01-20
+CUST-00965,"Bella Yuliana","Consumer","Makassar",2024-10-07
+CUST-00966,"Arif Hartanto","Consumer","Semarang",2022-09-28
+CUST-00967,"PT Prima Abadi","Corporate","Surabaya",2024-03-04
+CUST-00968,"Hadi Utami","Consumer","Palembang",2025-11-07
+CUST-00969,"CV Jaya Lani","Small Business","Denpasar",2024-04-03
+CUST-00970,"PT Nusantara Teknologi","Corporate","Palembang",2024-06-21
+CUST-00971,"CV Jaya Wahyu","Small Business","Medan",2022-05-17
+CUST-00972,"Dimas Hartanto","Consumer","Jakarta Selatan",2023-07-20
+CUST-00973,"PT Sinar Teknologi","Corporate","Tangerang Selatan",2025-07-09
+CUST-00974,"Bella Yuliana","Consumer","Semarang",2024-08-09
+CUST-00975,"Fajar Surya","Consumer","Bekasi",2024-08-24
+CUST-00976,"Agus Wibowo","Consumer","Bekasi",2025-01-08
+CUST-00977,"Fajar Hartanto","Consumer","Tangerang Selatan",2025-11-27
+CUST-00978,"CV Berkah Rio","Small Business","Yogyakarta",2022-12-13
+CUST-00979,"Fajar Wibowo","Consumer","Palembang",2025-02-09
+CUST-00980,"Fajar Hidayat","Consumer","Bekasi",2023-08-28
+CUST-00981,"Dimas Pranata","Consumer","Jakarta Selatan",2022-06-02
+CUST-00982,"Arif Saputra","Consumer","Semarang",2025-05-01
+CUST-00983,"Eko Siregar","Consumer","Denpasar",2024-10-21
+CUST-00984,"Maya Hidayat","Consumer","Semarang",2023-12-05
+CUST-00985,"CV Berkah Rina","Small Business","Yogyakarta",2022-11-17
+CUST-00986,"Arif Utami","Consumer","Medan",2023-05-23
+CUST-00987,"CV Jaya Arif","Small Business","Tangerang Selatan",2024-05-14
+CUST-00988,"Dimas Saputra","Consumer","Semarang",2024-10-17
+CUST-00989,"Andi Saputra","Consumer","Jakarta Barat",2024-11-27
+CUST-00990,"PT Sinar Makmur","Corporate","Makassar",2023-12-28
+CUST-00991,"Arif Utami","Consumer","Jakarta Selatan",2023-11-20
+CUST-00992,"CV Berkah Fajar","Small Business","Bekasi",2024-03-05
+CUST-00993,"Reza Siregar","Consumer","Jakarta Barat",2025-01-08
+CUST-00994,"Tania Gunawan","Consumer","Medan",2024-09-21
+CUST-00995,"PT Sinar Solusindo","Corporate","Bandung",2024-01-26
+CUST-00996,"Citra Gunawan","Consumer","Jakarta Barat",2023-10-24
+CUST-00997,"PT Nusantara Media","Corporate","Palembang",2024-05-06
+CUST-00998,"Lani Yuliana","Consumer","Bekasi",2022-02-01
+CUST-00999,"Citra Lestari","Consumer","Yogyakarta",2022-05-27
+CUST-01000,"Rina Hartanto","Consumer","Palembang",2023-04-06
+CUST-01001,"CV Kreatif Arif","Small Business","Denpasar",2023-10-20
+CUST-01002,"Rio Surya","Consumer","Medan",2025-03-09
+CUST-01003,"CV Kreatif Lani","Small Business","Yogyakarta",2025-07-25
+CUST-01004,"Gita Siregar","Consumer","Surabaya",2023-09-13
+CUST-01005,"Tania Saputra","Consumer","Semarang",2022-03-27
+CUST-01006,"Rina Nugroho","Consumer","Jakarta Barat",2024-09-01
+CUST-01007,"CV Mitra Rina","Small Business","Yogyakarta",2024-11-11
+CUST-01008,"Sarah Utami","Consumer","Bandung",2023-02-11
+CUST-01009,"Gita Hidayat","Consumer","Medan",2025-12-21
+CUST-01010,"CV Jaya Fajar","Small Business","Jakarta Selatan",2022-04-28
+CUST-01011,"CV Mitra Citra","Small Business","Bandung",2025-02-11
+CUST-01012,"Andi Kusuma","Consumer","Medan",2024-10-06
+CUST-01013,"PT Bina Makmur","Corporate","Jakarta Selatan",2024-10-26
+CUST-01014,"Dimas Nugroho","Consumer","Tangerang Selatan",2025-04-01
+CUST-01015,"Bella Saputra","Consumer","Yogyakarta",2022-11-02
+CUST-01016,"CV Mitra Lani","Small Business","Yogyakarta",2023-05-05
+CUST-01017,"Citra Hidayat","Consumer","Semarang",2023-02-24
+CUST-01018,"Sarah Yuliana","Consumer","Jakarta Barat",2024-04-20
+CUST-01019,"CV Berkah Bella","Small Business","Bekasi",2023-09-02
+CUST-01020,"Gita Wibowo","Consumer","Bekasi",2025-12-10
+CUST-01021,"PT Prima Teknologi","Corporate","Surabaya",2023-07-21
+CUST-01022,"Sarah Kusuma","Consumer","Bekasi",2025-02-15
+CUST-01023,"Hadi Hidayat","Consumer","Palembang",2024-07-14
+CUST-01024,"CV Maju Lani","Small Business","Yogyakarta",2024-08-22
+CUST-01025,"Reza Saputra","Consumer","Surabaya",2023-04-17
+CUST-01026,"Andi Lestari","Consumer","Jakarta Barat",2025-02-20
+CUST-01027,"Fajar Santoso","Consumer","Palembang",2025-03-03
+CUST-01028,"Eko Wibowo","Consumer","Bekasi",2025-05-13
+CUST-01029,"CV Maju Reza","Small Business","Medan",2024-10-27
+CUST-01030,"Rio Lestari","Consumer","Jakarta Barat",2024-01-21
+CUST-01031,"Arif Hidayat","Consumer","Medan",2023-04-01
+CUST-01032,"Maya Firmansyah","Consumer","Bandung",2025-03-03
+CUST-01033,"Andi Firmansyah","Consumer","Surabaya",2022-08-06
+CUST-01034,"PT Prima Karya","Corporate","Denpasar",2024-04-11
+CUST-01035,"Wahyu Santoso","Consumer","Bandung",2022-01-11
+CUST-01036,"Wahyu Nugroho","Consumer","Bekasi",2023-12-16
+CUST-01037,"Fitri Gunawan","Consumer","Palembang",2024-09-25
+CUST-01038,"Eko Utami","Consumer","Bandung",2024-01-18
+CUST-01039,"Maya Lestari","Consumer","Makassar",2024-01-27
+CUST-01040,"Lani Siregar","Consumer","Jakarta Barat",2025-08-23
+CUST-01041,"PT Sentosa Makmur","Corporate","Palembang",2025-09-08
+CUST-01042,"Citra Wibowo","Consumer","Tangerang Selatan",2025-12-08
+CUST-01043,"Maya Saputra","Consumer","Jakarta Barat",2024-04-08
+CUST-01044,"Agus Santoso","Consumer","Jakarta Barat",2023-03-01
+CUST-01045,"CV Mitra Andi","Small Business","Surabaya",2022-04-20
+CUST-01046,"Dina Yuliana","Consumer","Jakarta Barat",2023-12-11
+CUST-01047,"CV Mitra Rio","Small Business","Palembang",2022-02-02
+CUST-01048,"Agus Firmansyah","Consumer","Denpasar",2022-06-19
+CUST-01049,"CV Jaya Dina","Small Business","Tangerang Selatan",2025-10-10
+CUST-01050,"Hadi Yuliana","Consumer","Bekasi",2022-10-18
+CUST-01051,"CV Berkah Tania","Small Business","Denpasar",2023-11-10
+CUST-01052,"PT Prima Solusindo","Corporate","Semarang",2022-08-23
+CUST-01053,"PT Global Niaga","Corporate","Jakarta Barat",2024-03-18
+CUST-01054,"Wahyu Wibowo","Consumer","Yogyakarta",2022-10-08
+CUST-01055,"Citra Saputra","Consumer","Tangerang Selatan",2025-03-23
+CUST-01056,"CV Mitra Lani","Small Business","Yogyakarta",2024-10-22
+CUST-01057,"Rio Saputra","Consumer","Jakarta Selatan",2024-09-12
+CUST-01058,"Lani Firmansyah","Consumer","Tangerang Selatan",2022-08-05
+CUST-01059,"Wahyu Hidayat","Consumer","Yogyakarta",2024-01-09
+CUST-01060,"Citra Firmansyah","Consumer","Yogyakarta",2024-12-21
+CUST-01061,"PT Bina Makmur","Corporate","Semarang",2022-06-05
+CUST-01062,"CV Berkah Gita","Small Business","Palembang",2024-05-15
+CUST-01063,"Arif Hartanto","Consumer","Bekasi",2025-08-13
+CUST-01064,"PT Sentosa Teknologi","Corporate","Semarang",2024-10-17
+CUST-01065,"Agus Hartanto","Consumer","Denpasar",2023-07-20
+CUST-01066,"Dimas Pranata","Consumer","Jakarta Barat",2023-02-15
+CUST-01067,"PT Bina Abadi","Corporate","Tangerang Selatan",2024-07-27
+CUST-01068,"CV Kreatif Arif","Small Business","Yogyakarta",2025-01-12
+CUST-01069,"Wahyu Lestari","Consumer","Bekasi",2024-10-14
+CUST-01070,"Rio Saputra","Consumer","Yogyakarta",2024-05-25
+CUST-01071,"PT Nusantara Teknologi","Corporate","Jakarta Selatan",2022-08-10
+CUST-01072,"PT Sinar Niaga","Corporate","Bandung",2025-06-28
+CUST-01073,"PT Prima Abadi","Corporate","Bandung",2025-06-15
+CUST-01074,"Tania Surya","Consumer","Makassar",2022-09-25
+CUST-01075,"Bella Siregar","Consumer","Semarang",2024-04-18
+CUST-01076,"Tania Lestari","Consumer","Bekasi",2025-11-19
+CUST-01077,"Arif Nugroho","Consumer","Yogyakarta",2022-01-17
+CUST-01078,"PT Bina Niaga","Corporate","Denpasar",2022-04-17
+CUST-01079,"Citra Surya","Consumer","Yogyakarta",2024-06-04
+CUST-01080,"Fitri Nugroho","Consumer","Medan",2023-11-26
+CUST-01081,"CV Jaya Tania","Small Business","Makassar",2022-01-08
+CUST-01082,"CV Mitra Hadi","Small Business","Medan",2022-02-10
+CUST-01083,"PT Cipta Karya","Corporate","Tangerang Selatan",2024-06-11
+CUST-01084,"Citra Lestari","Consumer","Palembang",2022-09-09
+CUST-01085,"PT Sentosa Media","Corporate","Bekasi",2022-09-09
+CUST-01086,"CV Berkah Tania","Small Business","Surabaya",2024-11-09
+CUST-01087,"Eko Firmansyah","Consumer","Medan",2025-11-20
+CUST-01088,"Rina Hidayat","Consumer","Makassar",2024-10-19
+CUST-01089,"PT Nusantara Teknologi","Corporate","Bekasi",2022-12-11
+CUST-01090,"CV Mitra Bella","Small Business","Bandung",2025-12-06
+CUST-01091,"CV Berkah Sarah","Small Business","Surabaya",2022-11-07
+CUST-01092,"CV Maju Rina","Small Business","Jakarta Barat",2022-03-10
+CUST-01093,"Citra Gunawan","Consumer","Medan",2025-12-21
+CUST-01094,"PT Global Solusindo","Corporate","Semarang",2023-05-03
+CUST-01095,"PT Sinar Karya","Corporate","Denpasar",2022-08-18
+CUST-01096,"Arif Hartanto","Consumer","Jakarta Barat",2024-12-11
+CUST-01097,"Citra Wibowo","Consumer","Jakarta Barat",2025-02-25
+CUST-01098,"Maya Nugroho","Consumer","Denpasar",2023-07-22
+CUST-01099,"Arif Hartanto","Consumer","Semarang",2024-07-24
+CUST-01100,"Sarah Nugroho","Consumer","Denpasar",2023-06-04
+CUST-01101,"Tania Hartanto","Consumer","Tangerang Selatan",2022-07-24
+CUST-01102,"CV Berkah Arif","Small Business","Yogyakarta",2025-11-01
+CUST-01103,"CV Kreatif Fajar","Small Business","Makassar",2025-05-02
+CUST-01104,"PT Sentosa Media","Corporate","Bandung",2022-02-21
+CUST-01105,"Arif Siregar","Consumer","Denpasar",2023-09-10
+CUST-01106,"PT Cipta Makmur","Corporate","Jakarta Selatan",2025-01-18
+CUST-01107,"Andi Gunawan","Consumer","Denpasar",2022-02-07
+CUST-01108,"CV Maju Rio","Small Business","Denpasar",2024-01-24
+CUST-01109,"Dina Pranata","Consumer","Surabaya",2025-05-13
+CUST-01110,"CV Jaya Maya","Small Business","Makassar",2023-11-26
+CUST-01111,"Dimas Santoso","Consumer","Tangerang Selatan",2025-01-16
+CUST-01112,"Gita Utami","Consumer","Jakarta Selatan",2022-08-22
+CUST-01113,"Wahyu Gunawan","Consumer","Jakarta Selatan",2023-06-08
+CUST-01114,"Rio Kusuma","Consumer","Denpasar",2022-08-02
+CUST-01115,"CV Kreatif Fajar","Small Business","Palembang",2025-02-10
+CUST-01116,"Reza Surya","Consumer","Semarang",2024-07-20
+CUST-01117,"Rio Santoso","Consumer","Bekasi",2023-10-03
+CUST-01118,"Agus Hartanto","Consumer","Surabaya",2025-12-10
+CUST-01119,"Dimas Surya","Consumer","Yogyakarta",2023-02-13
+CUST-01120,"Rio Siregar","Consumer","Makassar",2024-12-09
+CUST-01121,"Dimas Hartanto","Consumer","Semarang",2022-09-06
+CUST-01122,"PT Cipta Teknologi","Corporate","Medan",2023-06-18
+CUST-01123,"Fitri Nugroho","Consumer","Semarang",2024-04-16
+CUST-01124,"Fajar Utami","Consumer","Makassar",2022-12-25
+CUST-01125,"Dina Hartanto","Consumer","Medan",2024-12-05
+CUST-01126,"Andi Firmansyah","Consumer","Bekasi",2025-12-05
+CUST-01127,"Arif Firmansyah","Consumer","Medan",2022-08-20
+CUST-01128,"PT Mega Teknologi","Corporate","Bandung",2023-09-18
+CUST-01129,"CV Kreatif Fitri","Small Business","Tangerang Selatan",2024-03-01
+CUST-01130,"PT Prima Solusindo","Corporate","Tangerang Selatan",2025-07-24
+CUST-01131,"Tania Saputra","Consumer","Bandung",2025-01-11
+CUST-01132,"Citra Pranata","Consumer","Surabaya",2025-08-21
+CUST-01133,"Rina Gunawan","Consumer","Tangerang Selatan",2025-12-13
+CUST-01134,"PT Sinar Solusindo","Corporate","Tangerang Selatan",2024-07-13
+CUST-01135,"Dimas Wibowo","Consumer","Palembang",2025-09-18
+CUST-01136,"Fajar Pranata","Consumer","Makassar",2023-03-14
+CUST-01137,"Gita Firmansyah","Consumer","Jakarta Selatan",2022-07-07
+CUST-01138,"CV Sukses Agus","Small Business","Denpasar",2022-06-13
+CUST-01139,"CV Mitra Arif","Small Business","Surabaya",2025-11-18
+CUST-01140,"Arif Saputra","Consumer","Palembang",2025-06-25
+CUST-01141,"CV Maju Dimas","Small Business","Semarang",2023-12-27
+CUST-01142,"PT Bina Niaga","Corporate","Jakarta Selatan",2022-03-01
+CUST-01143,"Fitri Hartanto","Consumer","Surabaya",2023-01-15
+CUST-01144,"Andi Wibowo","Consumer","Denpasar",2023-06-25
+CUST-01145,"Arif Surya","Consumer","Jakarta Barat",2024-12-28
+CUST-01146,"PT Bina Teknologi","Corporate","Tangerang Selatan",2025-01-03
+CUST-01147,"Agus Gunawan","Consumer","Bandung",2023-10-09
+CUST-01148,"Agus Pranata","Consumer","Makassar",2024-01-12
+CUST-01149,"CV Jaya Hadi","Small Business","Jakarta Barat",2022-01-19
+CUST-01150,"Reza Nugroho","Consumer","Makassar",2022-04-07
+CUST-01151,"Maya Siregar","Consumer","Jakarta Barat",2025-08-01
+CUST-01152,"Agus Gunawan","Consumer","Tangerang Selatan",2023-06-04
+CUST-01153,"CV Berkah Eko","Small Business","Surabaya",2023-01-11
+CUST-01154,"CV Jaya Arif","Small Business","Bandung",2022-10-21
+CUST-01155,"Sarah Hartanto","Consumer","Medan",2023-06-22
+CUST-01156,"Sarah Utami","Consumer","Yogyakarta",2022-07-04
+CUST-01157,"Agus Utami","Consumer","Yogyakarta",2024-12-14
+CUST-01158,"Reza Utami","Consumer","Bekasi",2024-06-17
+CUST-01159,"Rio Pranata","Consumer","Surabaya",2023-06-02
+CUST-01160,"Fitri Kusuma","Consumer","Makassar",2024-01-15
+CUST-01161,"Reza Hidayat","Consumer","Palembang",2023-11-03
+CUST-01162,"Agus Yuliana","Consumer","Semarang",2023-07-12
+CUST-01163,"Fajar Firmansyah","Consumer","Makassar",2023-10-09
+CUST-01164,"PT Cipta Makmur","Corporate","Medan",2024-08-15
+CUST-01165,"CV Maju Bella","Small Business","Palembang",2024-06-03
+CUST-01166,"Arif Hidayat","Consumer","Bekasi",2025-10-18
+CUST-01167,"PT Cipta Media","Corporate","Bekasi",2022-09-09
+CUST-01168,"PT Bina Niaga","Corporate","Semarang",2025-07-01
+CUST-01169,"Wahyu Gunawan","Consumer","Palembang",2023-07-04
+CUST-01170,"Hadi Nugroho","Consumer","Tangerang Selatan",2024-07-23
+CUST-01171,"PT Bina Media","Corporate","Yogyakarta",2025-02-16
+CUST-01172,"Bella Gunawan","Consumer","Palembang",2023-11-03
+CUST-01173,"Wahyu Lestari","Consumer","Bekasi",2025-03-22
+CUST-01174,"PT Sinar Makmur","Corporate","Medan",2025-03-06
+CUST-01175,"Reza Kusuma","Consumer","Semarang",2025-10-16
+CUST-01176,"Sarah Lestari","Consumer","Bekasi",2024-10-13
+CUST-01177,"Gita Gunawan","Consumer","Bandung",2022-01-22
+CUST-01178,"Lani Wibowo","Consumer","Surabaya",2024-04-11
+CUST-01179,"PT Sinar Makmur","Corporate","Bandung",2023-08-01
+CUST-01180,"PT Prima Media","Corporate","Yogyakarta",2024-09-19
+CUST-01181,"Reza Firmansyah","Consumer","Surabaya",2023-10-22
+CUST-01182,"Citra Nugroho","Consumer","Yogyakarta",2024-07-08
+CUST-01183,"PT Cipta Teknologi","Corporate","Semarang",2025-11-28
+CUST-01184,"CV Berkah Bella","Small Business","Yogyakarta",2022-08-09
+CUST-01185,"Wahyu Wibowo","Consumer","Tangerang Selatan",2024-07-15
+CUST-01186,"CV Kreatif Fitri","Small Business","Jakarta Barat",2023-12-10
+CUST-01187,"Rina Firmansyah","Consumer","Surabaya",2025-04-25
+CUST-01188,"PT Nusantara Media","Corporate","Jakarta Barat",2022-05-18
+CUST-01189,"Arif Santoso","Consumer","Makassar",2023-08-13
+CUST-01190,"Fajar Surya","Consumer","Bekasi",2024-10-20
+CUST-01191,"PT Nusantara Teknologi","Corporate","Denpasar",2024-04-08
+CUST-01192,"Lani Utami","Consumer","Jakarta Selatan",2024-11-20
+CUST-01193,"CV Mitra Reza","Small Business","Jakarta Selatan",2025-04-19
+CUST-01194,"PT Nusantara Makmur","Corporate","Semarang",2022-11-21
+CUST-01195,"Dimas Utami","Consumer","Semarang",2025-10-06
+CUST-01196,"Hadi Siregar","Consumer","Surabaya",2024-03-16
+CUST-01197,"Fitri Saputra","Consumer","Jakarta Selatan",2022-10-04
+CUST-01198,"CV Mitra Hadi","Small Business","Jakarta Barat",2024-02-02
+CUST-01199,"Reza Siregar","Consumer","Jakarta Selatan",2024-12-21
+CUST-01200,"Hadi Wibowo","Consumer","Medan",2025-04-03
+CUST-01201,"Rina Surya","Consumer","Bekasi",2025-10-16
+CUST-01202,"Bella Kusuma","Consumer","Makassar",2024-05-08
+CUST-01203,"CV Jaya Hadi","Small Business","Bekasi",2022-02-15
+CUST-01204,"CV Mitra Citra","Small Business","Jakarta Barat",2022-10-05
+CUST-01205,"CV Berkah Rina","Small Business","Tangerang Selatan",2023-12-24
+CUST-01206,"Sarah Wibowo","Consumer","Makassar",2022-08-02
+CUST-01207,"Rina Gunawan","Consumer","Palembang",2022-01-04
+CUST-01208,"Maya Saputra","Consumer","Surabaya",2022-02-06
+CUST-01209,"Hadi Hartanto","Consumer","Denpasar",2024-07-10
+CUST-01210,"Wahyu Firmansyah","Consumer","Denpasar",2023-12-19
+CUST-01211,"CV Kreatif Rio","Small Business","Surabaya",2023-07-02
+CUST-01212,"CV Sukses Eko","Small Business","Surabaya",2025-03-22
+CUST-01213,"CV Jaya Gita","Small Business","Yogyakarta",2022-03-06
+CUST-01214,"PT Global Media","Corporate","Palembang",2024-10-04
+CUST-01215,"Gita Saputra","Consumer","Tangerang Selatan",2023-02-01
+CUST-01216,"Lani Pranata","Consumer","Denpasar",2022-10-09
+CUST-01217,"CV Berkah Gita","Small Business","Jakarta Barat",2024-06-22
+CUST-01218,"CV Jaya Agus","Small Business","Tangerang Selatan",2022-10-13
+CUST-01219,"CV Maju Arif","Small Business","Makassar",2025-03-24
+CUST-01220,"PT Sinar Teknologi","Corporate","Jakarta Barat",2024-04-06
+CUST-01221,"Rio Saputra","Consumer","Tangerang Selatan",2024-09-09
+CUST-01222,"Gita Hidayat","Consumer","Jakarta Barat",2024-08-23
+CUST-01223,"Citra Utami","Consumer","Jakarta Barat",2024-10-23
+CUST-01224,"PT Cipta Niaga","Corporate","Surabaya",2024-05-20
+CUST-01225,"Sarah Siregar","Consumer","Palembang",2024-03-10
+CUST-01226,"Dina Yuliana","Consumer","Yogyakarta",2022-05-07
+CUST-01227,"Citra Gunawan","Consumer","Semarang",2023-11-08
+CUST-01228,"CV Jaya Dimas","Small Business","Tangerang Selatan",2025-06-15
+CUST-01229,"Wahyu Yuliana","Consumer","Palembang",2023-03-21
+CUST-01230,"Reza Pranata","Consumer","Jakarta Barat",2025-07-22
+CUST-01231,"Dimas Hidayat","Consumer","Yogyakarta",2025-06-22
+CUST-01232,"PT Nusantara Media","Corporate","Jakarta Barat",2023-08-02
+CUST-01233,"Tania Yuliana","Consumer","Surabaya",2025-12-11
+CUST-01234,"Maya Hidayat","Consumer","Bekasi",2022-05-17
+CUST-01235,"Fajar Saputra","Consumer","Medan",2022-10-22
+CUST-01236,"Sarah Wibowo","Consumer","Medan",2023-08-21
+CUST-01237,"Citra Nugroho","Consumer","Semarang",2022-02-23
+CUST-01238,"Lani Gunawan","Consumer","Jakarta Barat",2025-09-13
+CUST-01239,"Reza Nugroho","Consumer","Jakarta Barat",2022-06-22
+CUST-01240,"Bella Nugroho","Consumer","Bandung",2025-08-23
+CUST-01241,"Maya Utami","Consumer","Bandung",2023-09-24
+CUST-01242,"Fitri Surya","Consumer","Bekasi",2023-01-12
+CUST-01243,"PT Mega Karya","Corporate","Denpasar",2022-11-20
+CUST-01244,"Hadi Hidayat","Consumer","Semarang",2025-07-11
+CUST-01245,"Lani Hartanto","Consumer","Makassar",2025-06-21
+CUST-01246,"Gita Utami","Consumer","Tangerang Selatan",2025-07-09
+CUST-01247,"CV Jaya Dina","Small Business","Palembang",2025-05-14
+CUST-01248,"Rio Firmansyah","Consumer","Semarang",2024-10-26
+CUST-01249,"Arif Surya","Consumer","Denpasar",2024-11-26
+CUST-01250,"Andi Kusuma","Consumer","Yogyakarta",2025-10-14
+CUST-01251,"Citra Gunawan","Consumer","Palembang",2022-03-04
+CUST-01252,"Dimas Surya","Consumer","Medan",2023-11-25
+CUST-01253,"Fajar Siregar","Consumer","Palembang",2023-09-11
+CUST-01254,"Agus Kusuma","Consumer","Bandung",2022-10-27
+CUST-01255,"Dimas Firmansyah","Consumer","Surabaya",2023-06-08
+CUST-01256,"PT Global Makmur","Corporate","Bekasi",2023-08-03
+CUST-01257,"Dimas Saputra","Consumer","Makassar",2022-11-17
+CUST-01258,"Rio Nugroho","Consumer","Denpasar",2024-01-22
+CUST-01259,"Dimas Nugroho","Consumer","Yogyakarta",2024-10-05
+CUST-01260,"PT Global Abadi","Corporate","Makassar",2025-12-10
+CUST-01261,"Eko Pranata","Consumer","Tangerang Selatan",2023-06-01
+CUST-01262,"Fajar Santoso","Consumer","Semarang",2022-05-06
+CUST-01263,"Agus Surya","Consumer","Makassar",2025-01-10
+CUST-01264,"Dimas Siregar","Consumer","Makassar",2023-05-22
+CUST-01265,"PT Cipta Makmur","Corporate","Denpasar",2024-01-16
+CUST-01266,"Wahyu Gunawan","Consumer","Denpasar",2025-08-08
+CUST-01267,"Rina Gunawan","Consumer","Yogyakarta",2023-12-21
+CUST-01268,"CV Mitra Maya","Small Business","Makassar",2023-01-25
+CUST-01269,"Tania Saputra","Consumer","Palembang",2022-07-18
+CUST-01270,"Fajar Surya","Consumer","Makassar",2024-12-25
+CUST-01271,"Arif Pranata","Consumer","Palembang",2023-02-22
+CUST-01272,"Citra Gunawan","Consumer","Semarang",2024-10-07
+CUST-01273,"Lani Yuliana","Consumer","Jakarta Selatan",2024-05-16
+CUST-01274,"PT Prima Abadi","Corporate","Medan",2023-02-21
+CUST-01275,"CV Jaya Maya","Small Business","Jakarta Selatan",2022-11-02
+CUST-01276,"Gita Surya","Consumer","Semarang",2022-06-12
+CUST-01277,"CV Kreatif Hadi","Small Business","Palembang",2023-01-26
+CUST-01278,"PT Mega Solusindo","Corporate","Palembang",2024-10-28
+CUST-01279,"Bella Lestari","Consumer","Denpasar",2024-12-18
+CUST-01280,"Wahyu Yuliana","Consumer","Bandung",2023-05-24
+CUST-01281,"Eko Kusuma","Consumer","Tangerang Selatan",2023-06-25
+CUST-01282,"Dimas Yuliana","Consumer","Jakarta Selatan",2025-02-22
+CUST-01283,"PT Bina Solusindo","Corporate","Surabaya",2023-08-10
+CUST-01284,"Lani Yuliana","Consumer","Jakarta Selatan",2024-01-08
+CUST-01285,"Gita Nugroho","Consumer","Denpasar",2025-06-11
+CUST-01286,"PT Prima Media","Corporate","Palembang",2024-08-24
+CUST-01287,"CV Sukses Fajar","Small Business","Surabaya",2022-05-16
+CUST-01288,"Rina Nugroho","Consumer","Surabaya",2023-03-28
+CUST-01289,"Tania Saputra","Consumer","Tangerang Selatan",2024-09-10
+CUST-01290,"CV Jaya Fajar","Small Business","Semarang",2025-02-03
+CUST-01291,"Gita Hidayat","Consumer","Yogyakarta",2023-11-13
+CUST-01292,"Gita Hidayat","Consumer","Makassar",2025-01-03
+CUST-01293,"Bella Firmansyah","Consumer","Surabaya",2022-03-28
+CUST-01294,"Rina Nugroho","Consumer","Semarang",2024-03-16
+CUST-01295,"Sarah Saputra","Consumer","Bandung",2025-09-18
+CUST-01296,"PT Nusantara Karya","Corporate","Palembang",2024-03-15
+CUST-01297,"Dina Saputra","Consumer","Makassar",2023-10-01
+CUST-01298,"CV Mitra Eko","Small Business","Makassar",2025-01-26
+CUST-01299,"Dina Yuliana","Consumer","Denpasar",2025-07-15
+CUST-01300,"PT Global Teknologi","Corporate","Denpasar",2024-08-11
+CUST-01301,"Fitri Saputra","Consumer","Surabaya",2025-08-23
+CUST-01302,"CV Maju Tania","Small Business","Medan",2023-06-16
+CUST-01303,"Dimas Kusuma","Consumer","Bandung",2022-07-03
+CUST-01304,"Bella Firmansyah","Consumer","Surabaya",2024-08-26
+CUST-01305,"PT Mega Solusindo","Corporate","Bekasi",2022-09-21
+CUST-01306,"Rina Lestari","Consumer","Makassar",2022-01-03
+CUST-01307,"Citra Yuliana","Consumer","Palembang",2025-03-27
+CUST-01308,"CV Maju Dina","Small Business","Jakarta Barat",2023-12-19
+CUST-01309,"CV Sukses Bella","Small Business","Makassar",2025-01-08
+CUST-01310,"PT Global Teknologi","Corporate","Denpasar",2025-09-04
+CUST-01311,"Dimas Utami","Consumer","Jakarta Selatan",2025-06-10
+CUST-01312,"Fitri Kusuma","Consumer","Bekasi",2022-02-11
+CUST-01313,"Arif Pranata","Consumer","Surabaya",2025-06-17
+CUST-01314,"Tania Pranata","Consumer","Semarang",2023-04-06
+CUST-01315,"Sarah Wibowo","Consumer","Medan",2023-12-03
+CUST-01316,"CV Kreatif Arif","Small Business","Makassar",2022-04-24
+CUST-01317,"Fajar Saputra","Consumer","Jakarta Selatan",2024-09-08
+CUST-01318,"CV Sukses Fitri","Small Business","Makassar",2023-08-06
+CUST-01319,"PT Global Abadi","Corporate","Makassar",2025-09-13
+CUST-01320,"PT Global Niaga","Corporate","Jakarta Barat",2025-06-15
+CUST-01321,"CV Jaya Agus","Small Business","Makassar",2023-08-25
+CUST-01322,"Arif Utami","Consumer","Jakarta Barat",2024-09-07
+CUST-01323,"Eko Pranata","Consumer","Jakarta Selatan",2025-12-02
+CUST-01324,"Dina Pranata","Consumer","Makassar",2023-01-14
+CUST-01325,"PT Bina Niaga","Corporate","Bandung",2023-02-06
+CUST-01326,"CV Mitra Arif","Small Business","Makassar",2023-11-01
+CUST-01327,"CV Berkah Bella","Small Business","Jakarta Selatan",2025-11-09
+CUST-01328,"CV Mitra Fitri","Small Business","Semarang",2023-09-25
+CUST-01329,"CV Mitra Gita","Small Business","Denpasar",2025-06-09
+CUST-01330,"CV Berkah Citra","Small Business","Jakarta Barat",2025-12-21
+CUST-01331,"Rio Nugroho","Consumer","Palembang",2023-04-22
+CUST-01332,"PT Bina Abadi","Corporate","Jakarta Barat",2025-12-18
+CUST-01333,"CV Berkah Maya","Small Business","Yogyakarta",2024-08-14
+CUST-01334,"Tania Surya","Consumer","Makassar",2023-12-14
+CUST-01335,"PT Sinar Media","Corporate","Bandung",2023-06-25
+CUST-01336,"Rina Lestari","Consumer","Surabaya",2022-02-24
+CUST-01337,"Gita Hidayat","Consumer","Palembang",2025-06-16
+CUST-01338,"Dina Hidayat","Consumer","Bekasi",2022-12-08
+CUST-01339,"PT Bina Media","Corporate","Bekasi",2024-04-16
+CUST-01340,"Bella Yuliana","Consumer","Bekasi",2025-04-15
+CUST-01341,"Reza Saputra","Consumer","Tangerang Selatan",2022-04-24
+CUST-01342,"Wahyu Pranata","Consumer","Palembang",2023-04-02
+CUST-01343,"CV Berkah Andi","Small Business","Medan",2024-03-18
+CUST-01344,"Eko Hartanto","Consumer","Jakarta Barat",2022-02-26
+CUST-01345,"Citra Hidayat","Consumer","Bandung",2025-09-18
+CUST-01346,"Fitri Utami","Consumer","Yogyakarta",2023-06-18
+CUST-01347,"Sarah Hartanto","Consumer","Surabaya",2024-04-23
+CUST-01348,"CV Jaya Andi","Small Business","Medan",2025-05-26
+CUST-01349,"Dimas Nugroho","Consumer","Makassar",2023-02-03
+CUST-01350,"Lani Saputra","Consumer","Jakarta Barat",2024-06-15
+CUST-01351,"Tania Firmansyah","Consumer","Jakarta Barat",2023-02-13
+CUST-01352,"Tania Surya","Consumer","Jakarta Selatan",2022-01-11
+CUST-01353,"CV Mitra Bella","Small Business","Semarang",2022-08-07
+CUST-01354,"CV Sukses Citra","Small Business","Palembang",2022-12-19
+CUST-01355,"Citra Surya","Consumer","Jakarta Selatan",2025-08-11
+CUST-01356,"Rio Hartanto","Consumer","Semarang",2024-11-22
+CUST-01357,"PT Bina Makmur","Corporate","Bekasi",2023-06-09
+CUST-01358,"CV Mitra Rina","Small Business","Yogyakarta",2024-04-12
+CUST-01359,"Andi Saputra","Consumer","Bandung",2025-10-24
+CUST-01360,"CV Berkah Bella","Small Business","Bandung",2023-12-20
+CUST-01361,"Arif Hartanto","Consumer","Yogyakarta",2024-06-06
+CUST-01362,"Fitri Yuliana","Consumer","Medan",2023-11-27
+CUST-01363,"CV Berkah Fitri","Small Business","Yogyakarta",2025-05-14
+CUST-01364,"Wahyu Hidayat","Consumer","Bandung",2024-06-11
+CUST-01365,"Fitri Lestari","Consumer","Semarang",2023-07-19
+CUST-01366,"Sarah Santoso","Consumer","Tangerang Selatan",2025-06-23
+CUST-01367,"Arif Gunawan","Consumer","Surabaya",2023-10-27
+CUST-01368,"PT Cipta Solusindo","Corporate","Bandung",2022-12-09
+CUST-01369,"Sarah Nugroho","Consumer","Jakarta Barat",2023-07-03
+CUST-01370,"CV Mitra Bella","Small Business","Medan",2023-12-16
+CUST-01371,"PT Sentosa Karya","Corporate","Jakarta Selatan",2023-09-21
+CUST-01372,"PT Global Niaga","Corporate","Semarang",2024-08-06
+CUST-01373,"CV Maju Dina","Small Business","Jakarta Barat",2025-11-08
+CUST-01374,"CV Sukses Tania","Small Business","Semarang",2022-03-06
+CUST-01375,"Wahyu Yuliana","Consumer","Yogyakarta",2024-12-03
+CUST-01376,"Andi Hidayat","Consumer","Medan",2023-06-06
+CUST-01377,"Fajar Utami","Consumer","Makassar",2025-10-28
+CUST-01378,"Hadi Pranata","Consumer","Jakarta Barat",2025-05-08
+CUST-01379,"CV Jaya Citra","Small Business","Tangerang Selatan",2022-12-06
+CUST-01380,"Eko Lestari","Consumer","Medan",2024-11-13
+CUST-01381,"PT Nusantara Karya","Corporate","Tangerang Selatan",2024-05-28
+CUST-01382,"Maya Lestari","Consumer","Tangerang Selatan",2025-03-07
+CUST-01383,"Hadi Hidayat","Consumer","Yogyakarta",2023-12-04
+CUST-01384,"CV Kreatif Hadi","Small Business","Surabaya",2022-09-01
+CUST-01385,"PT Mega Abadi","Corporate","Surabaya",2025-11-05
+CUST-01386,"PT Cipta Teknologi","Corporate","Palembang",2025-03-22
+CUST-01387,"Gita Hartanto","Consumer","Medan",2024-08-08
+CUST-01388,"PT Cipta Teknologi","Corporate","Medan",2022-08-28
+CUST-01389,"PT Nusantara Karya","Corporate","Semarang",2025-06-28
+CUST-01390,"PT Nusantara Teknologi","Corporate","Bandung",2022-09-04
+CUST-01391,"Fitri Lestari","Consumer","Bandung",2023-02-28
+CUST-01392,"Wahyu Utami","Consumer","Denpasar",2023-09-07
+CUST-01393,"Reza Gunawan","Consumer","Tangerang Selatan",2025-01-04
+CUST-01394,"Fajar Saputra","Consumer","Yogyakarta",2023-08-02
+CUST-01395,"CV Maju Eko","Small Business","Bandung",2023-09-13
+CUST-01396,"PT Bina Karya","Corporate","Palembang",2023-09-03
+CUST-01397,"Rio Utami","Consumer","Medan",2023-04-26
+CUST-01398,"Maya Pranata","Consumer","Jakarta Selatan",2024-09-27
+CUST-01399,"PT Sinar Media","Corporate","Bekasi",2025-04-25
+CUST-01400,"Citra Lestari","Consumer","Denpasar",2025-07-21
+CUST-01401,"Reza Santoso","Consumer","Tangerang Selatan",2023-10-14
+CUST-01402,"CV Berkah Maya","Small Business","Semarang",2025-04-26
+CUST-01403,"CV Berkah Maya","Small Business","Yogyakarta",2024-03-07
+CUST-01404,"Fitri Hartanto","Consumer","Denpasar",2023-11-25
+CUST-01405,"PT Sinar Abadi","Corporate","Denpasar",2024-09-24
+CUST-01406,"Rina Hidayat","Consumer","Semarang",2023-07-12
+CUST-01407,"Tania Gunawan","Consumer","Yogyakarta",2025-10-25
+CUST-01408,"PT Nusantara Media","Corporate","Tangerang Selatan",2023-09-25
+CUST-01409,"CV Mitra Eko","Small Business","Palembang",2023-08-02
+CUST-01410,"Wahyu Firmansyah","Consumer","Jakarta Selatan",2025-08-13
+CUST-01411,"PT Global Karya","Corporate","Tangerang Selatan",2024-02-07
+CUST-01412,"Arif Siregar","Consumer","Surabaya",2022-02-27
+CUST-01413,"PT Sinar Abadi","Corporate","Bandung",2025-02-09
+CUST-01414,"Bella Wibowo","Consumer","Surabaya",2022-09-09
+CUST-01415,"Gita Yuliana","Consumer","Bekasi",2024-04-12
+CUST-01416,"PT Global Media","Corporate","Bandung",2025-09-09
+CUST-01417,"Citra Wibowo","Consumer","Makassar",2025-02-22
+CUST-01418,"PT Prima Karya","Corporate","Semarang",2023-08-16
+CUST-01419,"CV Jaya Arif","Small Business","Semarang",2024-12-27
+CUST-01420,"Dimas Utami","Consumer","Jakarta Selatan",2022-06-23
+CUST-01421,"PT Prima Media","Corporate","Jakarta Barat",2024-03-28
+CUST-01422,"Agus Surya","Consumer","Makassar",2023-07-25
+CUST-01423,"Dimas Wibowo","Consumer","Yogyakarta",2023-11-25
+CUST-01424,"CV Berkah Agus","Small Business","Bekasi",2024-06-21
+CUST-01425,"Agus Pranata","Consumer","Yogyakarta",2022-04-27
+CUST-01426,"Arif Santoso","Consumer","Bandung",2023-09-05
+CUST-01427,"CV Jaya Arif","Small Business","Bandung",2022-07-07
+CUST-01428,"CV Kreatif Maya","Small Business","Jakarta Selatan",2025-01-24
+CUST-01429,"Arif Santoso","Consumer","Bekasi",2024-05-10
+CUST-01430,"Rio Gunawan","Consumer","Bekasi",2023-03-26
+CUST-01431,"Andi Siregar","Consumer","Yogyakarta",2022-11-17
+CUST-01432,"Reza Surya","Consumer","Makassar",2025-01-14
+CUST-01433,"Tania Nugroho","Consumer","Yogyakarta",2024-03-11
+CUST-01434,"CV Kreatif Maya","Small Business","Palembang",2025-10-22
+CUST-01435,"CV Mitra Citra","Small Business","Medan",2023-08-01
+CUST-01436,"CV Maju Rina","Small Business","Medan",2025-02-14
+CUST-01437,"Arif Nugroho","Consumer","Yogyakarta",2022-01-11
+CUST-01438,"Dimas Nugroho","Consumer","Jakarta Barat",2024-11-02
+CUST-01439,"Citra Saputra","Consumer","Tangerang Selatan",2022-11-16
+CUST-01440,"CV Sukses Tania","Small Business","Bandung",2023-03-28
+CUST-01441,"CV Kreatif Citra","Small Business","Jakarta Selatan",2024-12-26
+CUST-01442,"CV Mitra Maya","Small Business","Yogyakarta",2024-01-11
+CUST-01443,"Andi Yuliana","Consumer","Medan",2022-01-20
+CUST-01444,"PT Cipta Media","Corporate","Palembang",2025-04-03
+CUST-01445,"PT Cipta Niaga","Corporate","Palembang",2025-03-21
+CUST-01446,"CV Mitra Bella","Small Business","Denpasar",2025-08-24
+CUST-01447,"Citra Nugroho","Consumer","Surabaya",2024-03-22
+CUST-01448,"Rio Siregar","Consumer","Semarang",2024-11-17
+CUST-01449,"Rio Hidayat","Consumer","Bekasi",2022-04-03
+CUST-01450,"CV Kreatif Eko","Small Business","Jakarta Barat",2023-03-27
+CUST-01451,"PT Global Solusindo","Corporate","Surabaya",2023-12-07
+CUST-01452,"PT Sinar Media","Corporate","Makassar",2022-06-04
+CUST-01453,"PT Nusantara Media","Corporate","Palembang",2024-10-13
+CUST-01454,"Reza Gunawan","Consumer","Tangerang Selatan",2025-06-18
+CUST-01455,"Maya Kusuma","Consumer","Semarang",2025-12-08
+CUST-01456,"Maya Wibowo","Consumer","Bandung",2023-01-18
+CUST-01457,"Lani Saputra","Consumer","Makassar",2025-07-10
+CUST-01458,"CV Sukses Rio","Small Business","Jakarta Selatan",2023-10-13
+CUST-01459,"Hadi Hartanto","Consumer","Palembang",2024-08-01
+CUST-01460,"Gita Gunawan","Consumer","Palembang",2022-02-06
+CUST-01461,"Gita Hartanto","Consumer","Bekasi",2025-01-16
+CUST-01462,"PT Mega Karya","Corporate","Jakarta Selatan",2025-09-04
+CUST-01463,"PT Sinar Teknologi","Corporate","Tangerang Selatan",2024-06-09
+CUST-01464,"Maya Hidayat","Consumer","Jakarta Barat",2024-09-24
+CUST-01465,"Eko Gunawan","Consumer","Bandung",2024-02-14
+CUST-01466,"CV Kreatif Andi","Small Business","Jakarta Selatan",2025-01-25
+CUST-01467,"Fitri Hidayat","Consumer","Tangerang Selatan",2023-01-10
+CUST-01468,"Tania Pranata","Consumer","Jakarta Barat",2025-01-05
+CUST-01469,"PT Sinar Solusindo","Corporate","Denpasar",2023-07-05
+CUST-01470,"PT Cipta Solusindo","Corporate","Surabaya",2023-11-07
+CUST-01471,"Rio Yuliana","Consumer","Semarang",2023-02-06
+CUST-01472,"Tania Firmansyah","Consumer","Yogyakarta",2025-10-18
+CUST-01473,"PT Prima Makmur","Corporate","Medan",2022-10-03
+CUST-01474,"Lani Nugroho","Consumer","Surabaya",2023-07-08
+CUST-01475,"Reza Lestari","Consumer","Semarang",2022-10-23
+CUST-01476,"Hadi Lestari","Consumer","Makassar",2024-01-01
+CUST-01477,"PT Nusantara Solusindo","Corporate","Palembang",2025-07-05
+CUST-01478,"Gita Santoso","Consumer","Bandung",2022-12-04
+CUST-01479,"CV Berkah Hadi","Small Business","Jakarta Selatan",2025-01-18
+CUST-01480,"Andi Santoso","Consumer","Bekasi",2023-07-10
+CUST-01481,"Andi Gunawan","Consumer","Yogyakarta",2024-02-27
+CUST-01482,"CV Berkah Bella","Small Business","Yogyakarta",2024-07-28
+CUST-01483,"CV Kreatif Wahyu","Small Business","Bandung",2022-11-16
+CUST-01484,"CV Berkah Lani","Small Business","Makassar",2025-08-18
+CUST-01485,"PT Global Makmur","Corporate","Jakarta Selatan",2025-09-25
+CUST-01486,"Dina Utami","Consumer","Bandung",2024-06-05
+CUST-01487,"PT Nusantara Abadi","Corporate","Palembang",2024-09-04
+CUST-01488,"CV Berkah Hadi","Small Business","Surabaya",2022-07-22
+CUST-01489,"Rio Yuliana","Consumer","Bandung",2023-08-22
+CUST-01490,"Lani Kusuma","Consumer","Tangerang Selatan",2025-08-23
+CUST-01491,"Fitri Wibowo","Consumer","Bekasi",2024-10-03
+CUST-01492,"Maya Saputra","Consumer","Surabaya",2024-07-14
+CUST-01493,"Dina Utami","Consumer","Palembang",2022-08-25
+CUST-01494,"Andi Surya","Consumer","Jakarta Barat",2024-10-10
+CUST-01495,"Sarah Hartanto","Consumer","Bekasi",2023-03-02
+CUST-01496,"Arif Kusuma","Consumer","Palembang",2023-10-14
+CUST-01497,"PT Global Makmur","Corporate","Semarang",2023-06-07
+CUST-01498,"Lani Gunawan","Consumer","Yogyakarta",2022-01-01
+CUST-01499,"PT Sentosa Teknologi","Corporate","Jakarta Barat",2024-10-07
+CUST-01500,"Hadi Pranata","Consumer","Bekasi",2023-02-21
+CUST-01501,"PT Sinar Makmur","Corporate","Jakarta Selatan",2024-05-10
+CUST-01502,"CV Berkah Dina","Small Business","Semarang",2025-08-16
+CUST-01503,"Gita Siregar","Consumer","Semarang",2022-02-16
+CUST-01504,"Tania Siregar","Consumer","Makassar",2024-06-17
+CUST-01505,"Sarah Hidayat","Consumer","Palembang",2022-08-03
+CUST-01506,"CV Jaya Agus","Small Business","Bandung",2023-04-21
+CUST-01507,"Agus Utami","Consumer","Semarang",2025-01-24
+CUST-01508,"Agus Kusuma","Consumer","Tangerang Selatan",2025-05-26
+CUST-01509,"Gita Siregar","Consumer","Jakarta Barat",2022-12-09
+CUST-01510,"PT Global Solusindo","Corporate","Jakarta Barat",2025-06-25
+CUST-01511,"Eko Utami","Consumer","Semarang",2022-06-11
+CUST-01512,"Bella Gunawan","Consumer","Yogyakarta",2023-04-26
+CUST-01513,"CV Kreatif Fajar","Small Business","Tangerang Selatan",2025-02-01
+CUST-01514,"Andi Surya","Consumer","Denpasar",2022-10-25
+CUST-01515,"Lani Lestari","Consumer","Denpasar",2024-05-14
+CUST-01516,"Rina Yuliana","Consumer","Surabaya",2025-08-20
+CUST-01517,"Rina Gunawan","Consumer","Bandung",2025-07-01
+CUST-01518,"Reza Saputra","Consumer","Jakarta Selatan",2023-01-07
+CUST-01519,"Citra Saputra","Consumer","Palembang",2025-03-06
+CUST-01520,"Hadi Santoso","Consumer","Bekasi",2025-06-05
+CUST-01521,"CV Jaya Hadi","Small Business","Makassar",2024-05-09
+CUST-01522,"PT Sentosa Teknologi","Corporate","Denpasar",2023-12-03
+CUST-01523,"Dimas Saputra","Consumer","Bandung",2022-02-19
+CUST-01524,"Tania Gunawan","Consumer","Makassar",2022-05-23
+CUST-01525,"Rio Saputra","Consumer","Denpasar",2022-12-13
+CUST-01526,"CV Mitra Lani","Small Business","Palembang",2022-04-27
+CUST-01527,"Dimas Yuliana","Consumer","Medan",2023-07-17
+CUST-01528,"Fajar Firmansyah","Consumer","Palembang",2025-02-19
+CUST-01529,"CV Sukses Arif","Small Business","Bekasi",2024-06-02
+CUST-01530,"Dina Hidayat","Consumer","Jakarta Barat",2022-02-20
+CUST-01531,"PT Bina Abadi","Corporate","Medan",2025-04-13
+CUST-01532,"Rina Surya","Consumer","Denpasar",2022-11-24
+CUST-01533,"Wahyu Gunawan","Consumer","Tangerang Selatan",2023-03-14
+CUST-01534,"PT Sentosa Karya","Corporate","Yogyakarta",2024-12-20
+CUST-01535,"PT Nusantara Karya","Corporate","Palembang",2022-10-25
+CUST-01536,"Dina Yuliana","Consumer","Surabaya",2024-11-13
+CUST-01537,"PT Mega Media","Corporate","Denpasar",2022-09-15
+CUST-01538,"Rina Utami","Consumer","Bandung",2022-10-13
+CUST-01539,"Citra Santoso","Consumer","Surabaya",2022-05-04
+CUST-01540,"Arif Kusuma","Consumer","Makassar",2024-05-28
+CUST-01541,"CV Mitra Bella","Small Business","Denpasar",2022-12-04
+CUST-01542,"CV Sukses Reza","Small Business","Surabaya",2025-10-23
+CUST-01543,"CV Maju Sarah","Small Business","Jakarta Selatan",2022-11-05
+CUST-01544,"Dina Saputra","Consumer","Makassar",2024-05-09
+CUST-01545,"PT Bina Teknologi","Corporate","Makassar",2023-02-08
+CUST-01546,"Sarah Siregar","Consumer","Denpasar",2024-05-19
+CUST-01547,"Citra Saputra","Consumer","Palembang",2022-11-13
+CUST-01548,"Tania Firmansyah","Consumer","Bandung",2023-05-16
+CUST-01549,"PT Prima Karya","Corporate","Tangerang Selatan",2023-12-16
+CUST-01550,"PT Nusantara Abadi","Corporate","Palembang",2022-11-02
+CUST-01551,"CV Berkah Rina","Small Business","Denpasar",2025-05-23
+CUST-01552,"PT Global Media","Corporate","Bekasi",2022-01-04
+CUST-01553,"CV Mitra Wahyu","Small Business","Jakarta Barat",2025-04-26
+CUST-01554,"Bella Nugroho","Consumer","Denpasar",2025-12-18
+CUST-01555,"PT Bina Abadi","Corporate","Jakarta Selatan",2025-07-08
+CUST-01556,"CV Berkah Eko","Small Business","Palembang",2024-10-14
+CUST-01557,"CV Kreatif Gita","Small Business","Yogyakarta",2023-08-19
+CUST-01558,"Fitri Yuliana","Consumer","Bandung",2022-01-25
+CUST-01559,"CV Berkah Bella","Small Business","Semarang",2023-11-09
+CUST-01560,"Agus Surya","Consumer","Semarang",2023-04-10
+CUST-01561,"Fajar Saputra","Consumer","Denpasar",2022-01-10
+CUST-01562,"Lani Gunawan","Consumer","Bekasi",2023-12-04
+CUST-01563,"Tania Hartanto","Consumer","Palembang",2022-05-27
+CUST-01564,"Dina Saputra","Consumer","Tangerang Selatan",2024-11-25
+CUST-01565,"Wahyu Kusuma","Consumer","Jakarta Barat",2023-10-08
+CUST-01566,"CV Jaya Reza","Small Business","Palembang",2023-06-25
+CUST-01567,"PT Mega Abadi","Corporate","Tangerang Selatan",2024-12-17
+CUST-01568,"Sarah Hidayat","Consumer","Jakarta Selatan",2024-11-10
+CUST-01569,"CV Maju Reza","Small Business","Jakarta Barat",2025-12-04
+CUST-01570,"Reza Gunawan","Consumer","Jakarta Barat",2025-04-13
+CUST-01571,"Tania Santoso","Consumer","Surabaya",2025-06-19
+CUST-01572,"CV Sukses Agus","Small Business","Palembang",2025-02-03
+CUST-01573,"Dimas Siregar","Consumer","Bandung",2024-12-24
+CUST-01574,"Maya Kusuma","Consumer","Jakarta Barat",2025-10-26
+CUST-01575,"CV Sukses Dimas","Small Business","Tangerang Selatan",2024-12-11
+CUST-01576,"PT Bina Media","Corporate","Bandung",2025-07-20
+CUST-01577,"Maya Lestari","Consumer","Palembang",2024-11-14
+CUST-01578,"Rio Kusuma","Consumer","Medan",2024-06-01
+CUST-01579,"CV Sukses Reza","Small Business","Medan",2025-01-17
+CUST-01580,"Citra Lestari","Consumer","Tangerang Selatan",2022-11-07
+CUST-01581,"Hadi Pranata","Consumer","Semarang",2022-09-23
+CUST-01582,"Fitri Hartanto","Consumer","Yogyakarta",2024-01-21
+CUST-01583,"Fitri Nugroho","Consumer","Jakarta Selatan",2022-12-17
+CUST-01584,"Lani Surya","Consumer","Denpasar",2025-05-23
+CUST-01585,"Reza Santoso","Consumer","Makassar",2024-03-23
+CUST-01586,"Tania Siregar","Consumer","Jakarta Barat",2023-03-17
+CUST-01587,"Arif Santoso","Consumer","Palembang",2024-02-11
+CUST-01588,"PT Mega Makmur","Corporate","Semarang",2023-01-12
+CUST-01589,"PT Nusantara Niaga","Corporate","Jakarta Selatan",2024-12-10
+CUST-01590,"Rina Nugroho","Consumer","Bekasi",2025-06-14
+CUST-01591,"Rina Surya","Consumer","Medan",2025-08-04
+CUST-01592,"PT Nusantara Makmur","Corporate","Jakarta Selatan",2022-12-20
+CUST-01593,"PT Cipta Media","Corporate","Palembang",2023-02-19
+CUST-01594,"CV Sukses Arif","Small Business","Palembang",2025-11-13
+CUST-01595,"Maya Pranata","Consumer","Semarang",2023-10-26
+CUST-01596,"Andi Gunawan","Consumer","Bekasi",2025-06-02
+CUST-01597,"Wahyu Santoso","Consumer","Medan",2023-10-14
+CUST-01598,"Gita Firmansyah","Consumer","Yogyakarta",2023-05-14
+CUST-01599,"Citra Santoso","Consumer","Bandung",2025-03-21
+CUST-01600,"Gita Utami","Consumer","Medan",2024-06-08
+CUST-01601,"Lani Nugroho","Consumer","Denpasar",2025-01-17
+CUST-01602,"Fitri Santoso","Consumer","Tangerang Selatan",2023-06-04
+CUST-01603,"PT Sentosa Karya","Corporate","Bandung",2023-10-05
+CUST-01604,"Bella Pranata","Consumer","Denpasar",2023-04-18
+CUST-01605,"Hadi Utami","Consumer","Medan",2022-05-20
+CUST-01606,"Lani Hidayat","Consumer","Surabaya",2025-05-02
+CUST-01607,"Gita Saputra","Consumer","Bekasi",2023-01-05
+CUST-01608,"Andi Saputra","Consumer","Bandung",2022-01-14
+CUST-01609,"Bella Kusuma","Consumer","Bandung",2022-01-28
+CUST-01610,"PT Prima Teknologi","Corporate","Palembang",2025-11-16
+CUST-01611,"CV Sukses Sarah","Small Business","Makassar",2024-08-28
+CUST-01612,"Hadi Saputra","Consumer","Makassar",2023-01-07
+CUST-01613,"Fajar Wibowo","Consumer","Medan",2025-04-02
+CUST-01614,"Arif Gunawan","Consumer","Bekasi",2025-06-01
+CUST-01615,"Eko Nugroho","Consumer","Jakarta Selatan",2024-01-09
+CUST-01616,"Lani Santoso","Consumer","Jakarta Selatan",2023-01-07
+CUST-01617,"CV Sukses Citra","Small Business","Bekasi",2025-12-13
+CUST-01618,"Tania Nugroho","Consumer","Medan",2024-05-20
+CUST-01619,"CV Kreatif Reza","Small Business","Semarang",2023-09-15
+CUST-01620,"PT Sinar Niaga","Corporate","Palembang",2023-11-14
+CUST-01621,"Eko Nugroho","Consumer","Makassar",2025-12-27
+CUST-01622,"Bella Pranata","Consumer","Surabaya",2022-10-14
+CUST-01623,"Andi Gunawan","Consumer","Surabaya",2022-11-22
+CUST-01624,"PT Mega Niaga","Corporate","Surabaya",2024-08-27
+CUST-01625,"Rio Nugroho","Consumer","Denpasar",2024-03-22
+CUST-01626,"CV Kreatif Tania","Small Business","Denpasar",2023-11-16
+CUST-01627,"CV Mitra Reza","Small Business","Tangerang Selatan",2022-06-19
+CUST-01628,"Rio Saputra","Consumer","Denpasar",2022-01-05
+CUST-01629,"Dimas Lestari","Consumer","Tangerang Selatan",2024-06-06
+CUST-01630,"PT Mega Media","Corporate","Denpasar",2023-05-02
+CUST-01631,"Fitri Wibowo","Consumer","Jakarta Selatan",2024-04-12
+CUST-01632,"Tania Siregar","Consumer","Semarang",2022-05-25
+CUST-01633,"Tania Utami","Consumer","Bandung",2022-05-26
+CUST-01634,"Eko Hartanto","Consumer","Yogyakarta",2023-05-24
+CUST-01635,"PT Bina Media","Corporate","Palembang",2025-02-10
+CUST-01636,"Citra Lestari","Consumer","Bekasi",2025-06-03
+CUST-01637,"Hadi Surya","Consumer","Bekasi",2025-07-18
+CUST-01638,"PT Sinar Makmur","Corporate","Bekasi",2024-05-11
+CUST-01639,"Fitri Firmansyah","Consumer","Bandung",2023-02-05
+CUST-01640,"CV Kreatif Wahyu","Small Business","Jakarta Barat",2024-01-13
+CUST-01641,"Maya Lestari","Consumer","Denpasar",2023-01-01
+CUST-01642,"Dimas Gunawan","Consumer","Yogyakarta",2025-07-08
+CUST-01643,"PT Cipta Niaga","Corporate","Medan",2025-03-26
+CUST-01644,"Fitri Surya","Consumer","Tangerang Selatan",2022-12-17
+CUST-01645,"Reza Santoso","Consumer","Semarang",2023-05-11
+CUST-01646,"Agus Utami","Consumer","Yogyakarta",2025-05-23
+CUST-01647,"Andi Surya","Consumer","Jakarta Selatan",2023-03-06
+CUST-01648,"Rina Surya","Consumer","Tangerang Selatan",2023-06-08
+CUST-01649,"CV Berkah Gita","Small Business","Semarang",2023-06-24
+CUST-01650,"Arif Kusuma","Consumer","Jakarta Selatan",2024-08-20
+CUST-01651,"Dimas Hidayat","Consumer","Semarang",2025-02-19
+CUST-01652,"Rina Pranata","Consumer","Makassar",2025-03-11
+CUST-01653,"Dimas Surya","Consumer","Makassar",2024-09-14
+CUST-01654,"CV Sukses Andi","Small Business","Jakarta Selatan",2022-12-27
+CUST-01655,"Lani Siregar","Consumer","Surabaya",2025-01-17
+CUST-01656,"PT Sentosa Makmur","Corporate","Surabaya",2024-03-12
+CUST-01657,"PT Sinar Teknologi","Corporate","Palembang",2024-09-01
+CUST-01658,"Rio Surya","Consumer","Jakarta Barat",2022-06-11
+CUST-01659,"Rina Santoso","Consumer","Yogyakarta",2024-05-11
+CUST-01660,"PT Nusantara Karya","Corporate","Bandung",2023-04-02
+CUST-01661,"Wahyu Kusuma","Consumer","Palembang",2023-10-24
+CUST-01662,"Fajar Wibowo","Consumer","Yogyakarta",2023-11-10
+CUST-01663,"Eko Hartanto","Consumer","Bekasi",2025-12-27
+CUST-01664,"Dina Hartanto","Consumer","Makassar",2022-09-26
+CUST-01665,"Reza Surya","Consumer","Semarang",2022-10-15
+CUST-01666,"Dimas Pranata","Consumer","Palembang",2023-01-26
+CUST-01667,"CV Mitra Gita","Small Business","Surabaya",2023-12-26
+CUST-01668,"Bella Saputra","Consumer","Jakarta Selatan",2024-12-18
+CUST-01669,"PT Mega Teknologi","Corporate","Tangerang Selatan",2023-11-12
+CUST-01670,"PT Bina Karya","Corporate","Surabaya",2024-12-28
+CUST-01671,"Reza Pranata","Consumer","Jakarta Selatan",2024-06-09
+CUST-01672,"Maya Pranata","Consumer","Bandung",2025-10-28
+CUST-01673,"CV Berkah Andi","Small Business","Semarang",2025-05-02
+CUST-01674,"Wahyu Pranata","Consumer","Makassar",2023-02-18
+CUST-01675,"Hadi Yuliana","Consumer","Denpasar",2022-02-10
+CUST-01676,"Dina Hartanto","Consumer","Surabaya",2022-04-24
+CUST-01677,"Lani Siregar","Consumer","Semarang",2022-06-15
+CUST-01678,"PT Prima Karya","Corporate","Surabaya",2024-03-26
+CUST-01679,"Rina Utami","Consumer","Denpasar",2023-02-23
+CUST-01680,"Rina Wibowo","Consumer","Jakarta Selatan",2024-04-15
+CUST-01681,"Rina Pranata","Consumer","Jakarta Barat",2024-10-24
+CUST-01682,"Dina Hidayat","Consumer","Palembang",2024-02-01
+CUST-01683,"PT Sinar Makmur","Corporate","Semarang",2022-06-21
+CUST-01684,"Dina Surya","Consumer","Surabaya",2025-10-13
+CUST-01685,"Bella Saputra","Consumer","Makassar",2023-06-02
+CUST-01686,"PT Global Karya","Corporate","Surabaya",2025-05-07
+CUST-01687,"PT Global Karya","Corporate","Denpasar",2022-09-10
+CUST-01688,"CV Mitra Rio","Small Business","Palembang",2025-06-11
+CUST-01689,"Dina Kusuma","Consumer","Semarang",2022-12-06
+CUST-01690,"Eko Yuliana","Consumer","Jakarta Selatan",2025-09-05
+CUST-01691,"Lani Pranata","Consumer","Jakarta Selatan",2023-06-06
+CUST-01692,"Citra Utami","Consumer","Tangerang Selatan",2025-08-15
+CUST-01693,"PT Mega Makmur","Corporate","Denpasar",2024-01-21
+CUST-01694,"Dimas Lestari","Consumer","Semarang",2023-01-23
+CUST-01695,"CV Jaya Hadi","Small Business","Bandung",2022-10-04
+CUST-01696,"Sarah Utami","Consumer","Denpasar",2025-04-03
+CUST-01697,"Rina Hartanto","Consumer","Jakarta Selatan",2022-02-23
+CUST-01698,"PT Mega Karya","Corporate","Palembang",2022-08-05
+CUST-01699,"Lani Wibowo","Consumer","Bandung",2024-10-05
+CUST-01700,"CV Jaya Rio","Small Business","Semarang",2025-12-28
+CUST-01701,"Agus Hartanto","Consumer","Denpasar",2023-06-05
+CUST-01702,"CV Kreatif Bella","Small Business","Bandung",2023-06-04
+CUST-01703,"Citra Gunawan","Consumer","Surabaya",2022-03-13
+CUST-01704,"Rio Wibowo","Consumer","Bandung",2023-11-23
+CUST-01705,"PT Mega Niaga","Corporate","Bandung",2025-10-23
+CUST-01706,"Reza Kusuma","Consumer","Denpasar",2024-01-15
+CUST-01707,"Andi Lestari","Consumer","Surabaya",2025-07-09
+CUST-01708,"Fitri Nugroho","Consumer","Medan",2024-12-09
+CUST-01709,"Maya Firmansyah","Consumer","Semarang",2024-11-04
+CUST-01710,"CV Kreatif Arif","Small Business","Semarang",2023-05-27
+CUST-01711,"Arif Surya","Consumer","Semarang",2024-10-18
+CUST-01712,"Wahyu Lestari","Consumer","Jakarta Barat",2022-06-11
+CUST-01713,"PT Nusantara Abadi","Corporate","Denpasar",2025-09-04
+CUST-01714,"Andi Siregar","Consumer","Jakarta Barat",2022-05-15
+CUST-01715,"Tania Kusuma","Consumer","Surabaya",2025-07-25
+CUST-01716,"Rio Utami","Consumer","Tangerang Selatan",2023-07-13
+CUST-01717,"Bella Saputra","Consumer","Medan",2023-12-06
+CUST-01718,"Bella Yuliana","Consumer","Surabaya",2023-09-24
+CUST-01719,"Arif Utami","Consumer","Jakarta Barat",2024-06-16
+CUST-01720,"Arif Lestari","Consumer","Surabaya",2025-02-05
+CUST-01721,"PT Nusantara Makmur","Corporate","Semarang",2024-10-26
+CUST-01722,"Dina Surya","Consumer","Bekasi",2024-10-11
+CUST-01723,"CV Sukses Citra","Small Business","Semarang",2024-11-26
+CUST-01724,"Reza Utami","Consumer","Semarang",2024-08-08
+CUST-01725,"Eko Firmansyah","Consumer","Surabaya",2023-10-14
+CUST-01726,"Rina Pranata","Consumer","Yogyakarta",2022-11-13
+CUST-01727,"Eko Gunawan","Consumer","Surabaya",2022-05-04
+CUST-01728,"Hadi Hartanto","Consumer","Yogyakarta",2024-02-25
+CUST-01729,"Hadi Hidayat","Consumer","Bekasi",2025-05-07
+CUST-01730,"Hadi Kusuma","Consumer","Jakarta Barat",2023-02-17
+CUST-01731,"PT Global Karya","Corporate","Medan",2024-09-04
+CUST-01732,"PT Prima Teknologi","Corporate","Medan",2022-01-12
+CUST-01733,"PT Sentosa Teknologi","Corporate","Tangerang Selatan",2023-07-21
+CUST-01734,"Lani Lestari","Consumer","Denpasar",2022-02-16
+CUST-01735,"Sarah Hartanto","Consumer","Yogyakarta",2022-06-25
+CUST-01736,"CV Berkah Arif","Small Business","Palembang",2025-02-05
+CUST-01737,"Eko Firmansyah","Consumer","Surabaya",2024-02-04
+CUST-01738,"Fajar Firmansyah","Consumer","Bekasi",2023-03-04
+CUST-01739,"Dimas Santoso","Consumer","Jakarta Barat",2023-10-18
+CUST-01740,"Citra Wibowo","Consumer","Jakarta Selatan",2024-05-25
+CUST-01741,"Tania Nugroho","Consumer","Tangerang Selatan",2022-07-05
+CUST-01742,"Fajar Santoso","Consumer","Yogyakarta",2023-07-01
+CUST-01743,"Tania Siregar","Consumer","Yogyakarta",2022-09-10
+CUST-01744,"CV Kreatif Rina","Small Business","Denpasar",2023-12-06
+CUST-01745,"Agus Wibowo","Consumer","Yogyakarta",2024-09-14
+CUST-01746,"Fajar Gunawan","Consumer","Tangerang Selatan",2022-07-27
+CUST-01747,"PT Global Niaga","Corporate","Bandung",2025-12-21
+CUST-01748,"Rio Pranata","Consumer","Makassar",2023-02-07
+CUST-01749,"CV Mitra Dina","Small Business","Jakarta Selatan",2022-03-25
+CUST-01750,"CV Jaya Fajar","Small Business","Yogyakarta",2025-06-02
+CUST-01751,"CV Kreatif Wahyu","Small Business","Medan",2024-11-19
+CUST-01752,"Rina Utami","Consumer","Jakarta Barat",2022-06-12
+CUST-01753,"PT Sentosa Niaga","Corporate","Palembang",2022-01-21
+CUST-01754,"Hadi Hidayat","Consumer","Makassar",2022-02-22
+CUST-01755,"PT Sinar Abadi","Corporate","Bandung",2022-01-11
+CUST-01756,"Eko Saputra","Consumer","Makassar",2023-11-28
+CUST-01757,"CV Jaya Fajar","Small Business","Semarang",2024-07-27
+CUST-01758,"Hadi Pranata","Consumer","Tangerang Selatan",2025-06-05
+CUST-01759,"CV Berkah Fajar","Small Business","Bandung",2023-08-28
+CUST-01760,"CV Sukses Gita","Small Business","Bekasi",2022-12-11
+CUST-01761,"PT Mega Media","Corporate","Bekasi",2025-11-12
+CUST-01762,"Dimas Saputra","Consumer","Surabaya",2022-11-06
+CUST-01763,"PT Global Solusindo","Corporate","Yogyakarta",2022-11-08
+CUST-01764,"CV Sukses Wahyu","Small Business","Makassar",2023-09-03
+CUST-01765,"Dina Santoso","Consumer","Yogyakarta",2022-02-24
+CUST-01766,"Fajar Surya","Consumer","Yogyakarta",2024-12-09
+CUST-01767,"Lani Surya","Consumer","Medan",2025-11-04
+CUST-01768,"CV Berkah Andi","Small Business","Denpasar",2025-04-06
+CUST-01769,"Andi Wibowo","Consumer","Bekasi",2024-04-15
+CUST-01770,"Andi Firmansyah","Consumer","Jakarta Barat",2025-11-23
+CUST-01771,"Lani Wibowo","Consumer","Jakarta Barat",2025-04-19
+CUST-01772,"Eko Surya","Consumer","Denpasar",2024-02-11
+CUST-01773,"PT Sinar Niaga","Corporate","Surabaya",2025-10-13
+CUST-01774,"PT Bina Solusindo","Corporate","Jakarta Selatan",2022-10-13
+CUST-01775,"Fitri Siregar","Consumer","Palembang",2025-07-12
+CUST-01776,"CV Sukses Citra","Small Business","Palembang",2022-03-19
+CUST-01777,"PT Bina Makmur","Corporate","Semarang",2022-06-21
+CUST-01778,"Fajar Wibowo","Consumer","Surabaya",2024-01-18
+CUST-01779,"Citra Lestari","Consumer","Bandung",2025-03-18
+CUST-01780,"Agus Wibowo","Consumer","Makassar",2022-02-24
+CUST-01781,"CV Berkah Fajar","Small Business","Bandung",2024-08-05
+CUST-01782,"CV Berkah Gita","Small Business","Medan",2023-07-06
+CUST-01783,"Gita Surya","Consumer","Jakarta Barat",2023-10-03
+CUST-01784,"CV Maju Reza","Small Business","Tangerang Selatan",2023-03-22
+CUST-01785,"CV Jaya Sarah","Small Business","Denpasar",2022-10-28
+CUST-01786,"Rina Yuliana","Consumer","Denpasar",2023-02-05
+CUST-01787,"Dimas Siregar","Consumer","Surabaya",2022-08-08
+CUST-01788,"Maya Pranata","Consumer","Makassar",2024-11-11
+CUST-01789,"Eko Pranata","Consumer","Tangerang Selatan",2023-11-02
+CUST-01790,"Fitri Pranata","Consumer","Tangerang Selatan",2022-11-05
+CUST-01791,"Wahyu Pranata","Consumer","Palembang",2023-12-12
+CUST-01792,"PT Global Teknologi","Corporate","Bekasi",2025-05-11
+CUST-01793,"Hadi Siregar","Consumer","Denpasar",2024-02-15
+CUST-01794,"Arif Surya","Consumer","Makassar",2023-10-18
+CUST-01795,"Wahyu Lestari","Consumer","Denpasar",2024-01-18
+CUST-01796,"Andi Lestari","Consumer","Denpasar",2023-03-21
+CUST-01797,"CV Sukses Tania","Small Business","Tangerang Selatan",2022-08-13
+CUST-01798,"Wahyu Firmansyah","Consumer","Surabaya",2025-10-09
+CUST-01799,"Lani Lestari","Consumer","Bekasi",2023-06-10
+CUST-01800,"Lani Hidayat","Consumer","Jakarta Selatan",2024-05-09
+CUST-01801,"Reza Kusuma","Consumer","Surabaya",2024-03-04
+CUST-01802,"Agus Saputra","Consumer","Jakarta Barat",2023-12-13
+CUST-01803,"CV Sukses Fajar","Small Business","Palembang",2024-10-23
+CUST-01804,"CV Maju Reza","Small Business","Tangerang Selatan",2023-07-08
+CUST-01805,"Fitri Kusuma","Consumer","Makassar",2022-08-11
+CUST-01806,"CV Mitra Eko","Small Business","Semarang",2022-02-13
+CUST-01807,"CV Mitra Rina","Small Business","Makassar",2023-05-02
+CUST-01808,"Rina Kusuma","Consumer","Semarang",2022-10-14
+CUST-01809,"Hadi Utami","Consumer","Denpasar",2025-11-14
+CUST-01810,"Dina Wibowo","Consumer","Tangerang Selatan",2024-03-01
+CUST-01811,"Reza Yuliana","Consumer","Palembang",2022-02-10
+CUST-01812,"PT Mega Karya","Corporate","Denpasar",2023-10-24
+CUST-01813,"PT Bina Karya","Corporate","Surabaya",2025-03-22
+CUST-01814,"PT Bina Niaga","Corporate","Bekasi",2024-12-18
+CUST-01815,"Lani Saputra","Consumer","Medan",2025-02-21
+CUST-01816,"Lani Hidayat","Consumer","Yogyakarta",2025-08-09
+CUST-01817,"Rina Hartanto","Consumer","Semarang",2022-04-14
+CUST-01818,"Hadi Kusuma","Consumer","Jakarta Selatan",2024-12-09
+CUST-01819,"PT Nusantara Makmur","Corporate","Tangerang Selatan",2023-09-05
+CUST-01820,"PT Mega Niaga","Corporate","Makassar",2024-08-02
+CUST-01821,"PT Nusantara Media","Corporate","Denpasar",2023-02-11
+CUST-01822,"Andi Surya","Consumer","Surabaya",2025-04-17
+CUST-01823,"Andi Wibowo","Consumer","Palembang",2025-05-10
+CUST-01824,"PT Sinar Media","Corporate","Tangerang Selatan",2022-07-04
+CUST-01825,"Arif Hidayat","Consumer","Tangerang Selatan",2025-02-04
+CUST-01826,"Rina Siregar","Consumer","Bandung",2023-06-15
+CUST-01827,"PT Sinar Abadi","Corporate","Denpasar",2023-04-03
+CUST-01828,"Rina Lestari","Consumer","Denpasar",2025-03-07
+CUST-01829,"PT Nusantara Teknologi","Corporate","Makassar",2024-04-14
+CUST-01830,"PT Global Abadi","Corporate","Denpasar",2023-10-18
+CUST-01831,"Bella Firmansyah","Consumer","Denpasar",2025-12-27
+CUST-01832,"CV Kreatif Andi","Small Business","Medan",2025-10-20
+CUST-01833,"CV Kreatif Dina","Small Business","Bandung",2024-11-09
+CUST-01834,"PT Nusantara Makmur","Corporate","Jakarta Barat",2025-10-23
+CUST-01835,"CV Kreatif Rina","Small Business","Jakarta Selatan",2023-03-18
+CUST-01836,"PT Cipta Media","Corporate","Tangerang Selatan",2023-07-26
+CUST-01837,"CV Kreatif Reza","Small Business","Surabaya",2023-05-17
+CUST-01838,"PT Sentosa Abadi","Corporate","Bandung",2025-02-13
+CUST-01839,"CV Berkah Fitri","Small Business","Bandung",2024-06-16
+CUST-01840,"Dimas Lestari","Consumer","Jakarta Selatan",2022-10-21
+CUST-01841,"Eko Lestari","Consumer","Bekasi",2022-01-08
+CUST-01842,"Gita Pranata","Consumer","Makassar",2024-03-05
+CUST-01843,"Bella Surya","Consumer","Surabaya",2025-04-18
+CUST-01844,"PT Mega Media","Corporate","Tangerang Selatan",2023-03-07
+CUST-01845,"Tania Hidayat","Consumer","Tangerang Selatan",2024-08-14
+CUST-01846,"CV Jaya Bella","Small Business","Makassar",2025-09-24
+CUST-01847,"PT Nusantara Solusindo","Corporate","Bandung",2025-06-16
+CUST-01848,"CV Berkah Dina","Small Business","Jakarta Barat",2024-11-11
+CUST-01849,"PT Bina Karya","Corporate","Palembang",2024-08-20
+CUST-01850,"Fitri Hidayat","Consumer","Medan",2023-02-25
+CUST-01851,"CV Berkah Sarah","Small Business","Denpasar",2023-10-02
+CUST-01852,"Maya Santoso","Consumer","Palembang",2024-07-28
+CUST-01853,"Fajar Gunawan","Consumer","Bekasi",2025-12-26
+CUST-01854,"Fajar Firmansyah","Consumer","Medan",2024-09-24
+CUST-01855,"PT Sinar Makmur","Corporate","Medan",2023-07-12
+CUST-01856,"Lani Siregar","Consumer","Jakarta Barat",2023-02-16
+CUST-01857,"Lani Kusuma","Consumer","Makassar",2024-02-11
+CUST-01858,"PT Global Teknologi","Corporate","Yogyakarta",2022-03-22
+CUST-01859,"Reza Gunawan","Consumer","Palembang",2025-09-01
+CUST-01860,"CV Berkah Bella","Small Business","Yogyakarta",2024-06-14
+CUST-01861,"PT Nusantara Niaga","Corporate","Medan",2024-10-04
+CUST-01862,"Arif Firmansyah","Consumer","Denpasar",2023-02-13
+CUST-01863,"Hadi Nugroho","Consumer","Medan",2025-02-20
+CUST-01864,"PT Cipta Solusindo","Corporate","Jakarta Barat",2023-06-07
+CUST-01865,"PT Bina Abadi","Corporate","Jakarta Barat",2022-11-24
+CUST-01866,"Hadi Gunawan","Consumer","Jakarta Selatan",2025-05-25
+CUST-01867,"Maya Nugroho","Consumer","Medan",2022-02-13
+CUST-01868,"Sarah Utami","Consumer","Bekasi",2022-03-16
+CUST-01869,"Citra Saputra","Consumer","Surabaya",2025-12-12
+CUST-01870,"Eko Firmansyah","Consumer","Yogyakarta",2024-04-01
+CUST-01871,"Rina Siregar","Consumer","Palembang",2022-02-12
+CUST-01872,"Tania Hartanto","Consumer","Bandung",2022-01-12
+CUST-01873,"Maya Nugroho","Consumer","Jakarta Barat",2024-11-19
+CUST-01874,"Bella Surya","Consumer","Semarang",2023-02-04
+CUST-01875,"Maya Santoso","Consumer","Tangerang Selatan",2022-05-22
+CUST-01876,"Maya Siregar","Consumer","Medan",2024-03-17
+CUST-01877,"Hadi Yuliana","Consumer","Jakarta Barat",2025-07-23
+CUST-01878,"Fajar Surya","Consumer","Palembang",2022-05-15
+CUST-01879,"Fajar Hartanto","Consumer","Tangerang Selatan",2023-08-09
+CUST-01880,"Bella Nugroho","Consumer","Bekasi",2022-03-16
+CUST-01881,"Citra Siregar","Consumer","Yogyakarta",2023-07-15
+CUST-01882,"CV Maju Wahyu","Small Business","Palembang",2025-06-17
+CUST-01883,"PT Sentosa Solusindo","Corporate","Denpasar",2023-01-16
+CUST-01884,"Lani Hidayat","Consumer","Medan",2024-05-27
+CUST-01885,"Eko Utami","Consumer","Semarang",2024-01-09
+CUST-01886,"Dimas Pranata","Consumer","Denpasar",2024-12-26
+CUST-01887,"Arif Hartanto","Consumer","Jakarta Selatan",2024-08-25
+CUST-01888,"PT Prima Abadi","Corporate","Semarang",2024-05-28
+CUST-01889,"Eko Utami","Consumer","Palembang",2025-04-21
+CUST-01890,"PT Nusantara Media","Corporate","Surabaya",2023-12-14
+CUST-01891,"Citra Wibowo","Consumer","Jakarta Barat",2025-11-12
+CUST-01892,"Rio Lestari","Consumer","Tangerang Selatan",2025-06-28
+CUST-01893,"Tania Wibowo","Consumer","Yogyakarta",2024-06-09
+CUST-01894,"Bella Yuliana","Consumer","Medan",2025-01-04
+CUST-01895,"Rio Kusuma","Consumer","Palembang",2023-04-08
+CUST-01896,"Rina Pranata","Consumer","Medan",2022-12-05
+CUST-01897,"PT Sinar Media","Corporate","Palembang",2023-12-01
+CUST-01898,"PT Bina Solusindo","Corporate","Bandung",2024-02-12
+CUST-01899,"Sarah Utami","Consumer","Jakarta Barat",2022-11-08
+CUST-01900,"PT Bina Karya","Corporate","Medan",2025-07-23
+CUST-01901,"Agus Santoso","Consumer","Makassar",2024-04-13
+CUST-01902,"Fitri Utami","Consumer","Bekasi",2024-05-10
+CUST-01903,"Bella Pranata","Consumer","Bekasi",2025-02-16
+CUST-01904,"CV Maju Rio","Small Business","Yogyakarta",2024-04-10
+CUST-01905,"Rina Kusuma","Consumer","Jakarta Selatan",2023-01-13
+CUST-01906,"Sarah Saputra","Consumer","Semarang",2022-03-15
+CUST-01907,"Hadi Surya","Consumer","Makassar",2022-12-20
+CUST-01908,"PT Mega Abadi","Corporate","Makassar",2024-06-24
+CUST-01909,"Tania Nugroho","Consumer","Semarang",2022-11-15
+CUST-01910,"Arif Lestari","Consumer","Makassar",2024-11-16
+CUST-01911,"Dina Santoso","Consumer","Denpasar",2022-11-24
+CUST-01912,"Dimas Lestari","Consumer","Bandung",2025-12-19
+CUST-01913,"CV Maju Fajar","Small Business","Jakarta Selatan",2022-09-18
+CUST-01914,"PT Cipta Solusindo","Corporate","Tangerang Selatan",2023-10-16
+CUST-01915,"PT Mega Solusindo","Corporate","Jakarta Selatan",2023-04-13
+CUST-01916,"PT Mega Abadi","Corporate","Jakarta Selatan",2025-11-26
+CUST-01917,"PT Nusantara Media","Corporate","Jakarta Selatan",2023-12-03
+CUST-01918,"Eko Siregar","Consumer","Yogyakarta",2022-06-21
+CUST-01919,"Tania Saputra","Consumer","Makassar",2024-08-03
+CUST-01920,"Tania Saputra","Consumer","Denpasar",2022-05-19
+CUST-01921,"CV Maju Rina","Small Business","Bekasi",2023-07-06
+CUST-01922,"CV Maju Hadi","Small Business","Bekasi",2022-01-22
+CUST-01923,"PT Global Abadi","Corporate","Bandung",2025-06-27
+CUST-01924,"Arif Hidayat","Consumer","Medan",2023-03-08
+CUST-01925,"PT Cipta Makmur","Corporate","Yogyakarta",2024-09-15
+CUST-01926,"PT Nusantara Makmur","Corporate","Tangerang Selatan",2022-03-15
+CUST-01927,"PT Sinar Makmur","Corporate","Makassar",2024-09-14
+CUST-01928,"PT Cipta Solusindo","Corporate","Denpasar",2022-08-01
+CUST-01929,"PT Sinar Niaga","Corporate","Tangerang Selatan",2022-02-13
+CUST-01930,"CV Mitra Eko","Small Business","Bandung",2022-06-20
+CUST-01931,"Wahyu Santoso","Consumer","Makassar",2022-11-02
+CUST-01932,"Fajar Yuliana","Consumer","Yogyakarta",2025-05-04
+CUST-01933,"Bella Firmansyah","Consumer","Jakarta Selatan",2025-07-18
+CUST-01934,"Sarah Utami","Consumer","Tangerang Selatan",2024-09-18
+CUST-01935,"Andi Santoso","Consumer","Tangerang Selatan",2023-10-25
+CUST-01936,"PT Nusantara Teknologi","Corporate","Semarang",2025-07-14
+CUST-01937,"Eko Wibowo","Consumer","Tangerang Selatan",2022-02-12
+CUST-01938,"Dimas Surya","Consumer","Semarang",2024-02-13
+CUST-01939,"CV Berkah Rina","Small Business","Tangerang Selatan",2024-03-07
+CUST-01940,"Maya Lestari","Consumer","Bekasi",2022-04-14
+CUST-01941,"Eko Saputra","Consumer","Jakarta Barat",2025-02-09
+CUST-01942,"Sarah Nugroho","Consumer","Denpasar",2023-03-04
+CUST-01943,"CV Mitra Gita","Small Business","Tangerang Selatan",2022-06-11
+CUST-01944,"CV Sukses Rina","Small Business","Jakarta Barat",2024-08-03
+CUST-01945,"Bella Surya","Consumer","Bandung",2024-08-23
+CUST-01946,"Arif Nugroho","Consumer","Surabaya",2024-03-03
+CUST-01947,"Rina Hartanto","Consumer","Palembang",2025-04-07
+CUST-01948,"CV Mitra Lani","Small Business","Surabaya",2025-09-26
+CUST-01949,"Hadi Hartanto","Consumer","Tangerang Selatan",2022-03-12
+CUST-01950,"PT Nusantara Makmur","Corporate","Bekasi",2022-07-16
+CUST-01951,"PT Nusantara Niaga","Corporate","Surabaya",2024-04-09
+CUST-01952,"Gita Santoso","Consumer","Jakarta Barat",2025-07-24
+CUST-01953,"CV Mitra Reza","Small Business","Surabaya",2023-02-04
+CUST-01954,"PT Sinar Abadi","Corporate","Semarang",2023-06-24
+CUST-01955,"Hadi Nugroho","Consumer","Medan",2024-02-05
+CUST-01956,"Arif Hartanto","Consumer","Makassar",2022-04-14
+CUST-01957,"Rio Lestari","Consumer","Jakarta Barat",2024-08-14
+CUST-01958,"CV Jaya Rina","Small Business","Jakarta Selatan",2023-05-05
+CUST-01959,"Fajar Firmansyah","Consumer","Semarang",2022-01-05
+CUST-01960,"PT Sentosa Media","Corporate","Yogyakarta",2024-07-16
+CUST-01961,"Eko Lestari","Consumer","Medan",2025-12-13
+CUST-01962,"Rina Nugroho","Consumer","Bekasi",2022-05-25
+CUST-01963,"Reza Pranata","Consumer","Denpasar",2024-01-12
+CUST-01964,"Eko Lestari","Consumer","Jakarta Selatan",2023-11-26
+CUST-01965,"Hadi Pranata","Consumer","Tangerang Selatan",2023-06-17
+CUST-01966,"PT Sinar Teknologi","Corporate","Yogyakarta",2022-04-19
+CUST-01967,"Maya Hidayat","Consumer","Tangerang Selatan",2024-06-02
+CUST-01968,"Rina Gunawan","Consumer","Medan",2023-07-08
+CUST-01969,"PT Sentosa Makmur","Corporate","Palembang",2023-05-12
+CUST-01970,"CV Maju Andi","Small Business","Tangerang Selatan",2023-07-14
+CUST-01971,"CV Kreatif Citra","Small Business","Palembang",2022-05-20
+CUST-01972,"Dimas Hidayat","Consumer","Tangerang Selatan",2023-04-05
+CUST-01973,"Arif Gunawan","Consumer","Surabaya",2025-06-01
+CUST-01974,"PT Cipta Teknologi","Corporate","Yogyakarta",2025-11-22
+CUST-01975,"Hadi Siregar","Consumer","Semarang",2023-05-11
+CUST-01976,"Eko Siregar","Consumer","Tangerang Selatan",2025-02-19
+CUST-01977,"Gita Lestari","Consumer","Bandung",2023-12-05
+CUST-01978,"PT Sinar Makmur","Corporate","Denpasar",2023-11-04
+CUST-01979,"CV Berkah Sarah","Small Business","Tangerang Selatan",2023-04-18
+CUST-01980,"Lani Nugroho","Consumer","Makassar",2023-10-28
+CUST-01981,"Lani Lestari","Consumer","Yogyakarta",2022-04-28
+CUST-01982,"CV Sukses Bella","Small Business","Tangerang Selatan",2023-11-09
+CUST-01983,"CV Jaya Lani","Small Business","Palembang",2022-12-28
+CUST-01984,"Dimas Yuliana","Consumer","Semarang",2024-01-10
+CUST-01985,"PT Nusantara Solusindo","Corporate","Semarang",2024-08-12
+CUST-01986,"Gita Utami","Consumer","Semarang",2023-10-04
+CUST-01987,"PT Sentosa Media","Corporate","Medan",2022-07-11
+CUST-01988,"Lani Saputra","Consumer","Palembang",2024-03-16
+CUST-01989,"PT Mega Teknologi","Corporate","Jakarta Selatan",2024-01-03
+CUST-01990,"Reza Gunawan","Consumer","Semarang",2022-03-06
+CUST-01991,"Wahyu Pranata","Consumer","Semarang",2022-01-24
+CUST-01992,"Agus Wibowo","Consumer","Semarang",2025-11-07
+CUST-01993,"Wahyu Surya","Consumer","Tangerang Selatan",2025-02-24
+CUST-01994,"Arif Kusuma","Consumer","Semarang",2024-04-01
+CUST-01995,"CV Sukses Tania","Small Business","Bekasi",2025-07-23
+CUST-01996,"CV Sukses Citra","Small Business","Jakarta Selatan",2025-01-27
+CUST-01997,"CV Mitra Andi","Small Business","Denpasar",2023-11-24
+CUST-01998,"Agus Firmansyah","Consumer","Palembang",2022-02-20
+CUST-01999,"Hadi Kusuma","Consumer","Medan",2025-01-01
+CUST-02000,"Dina Kusuma","Consumer","Bekasi",2022-05-24
+CUST-02001,"Rina Hidayat","Consumer","Jakarta Selatan",2024-09-15
+CUST-02002,"Eko Wibowo","Consumer","Yogyakarta",2024-02-02
+CUST-02003,"Dimas Hidayat","Consumer","Surabaya",2024-11-10
+CUST-02004,"CV Maju Lani","Small Business","Makassar",2024-03-08
+CUST-02005,"Gita Yuliana","Consumer","Denpasar",2025-12-25
+CUST-02006,"Eko Hartanto","Consumer","Medan",2023-12-10
+CUST-02007,"Dimas Wibowo","Consumer","Bandung",2023-09-10
+CUST-02008,"CV Sukses Wahyu","Small Business","Surabaya",2024-12-03
+CUST-02009,"Maya Wibowo","Consumer","Palembang",2022-11-18
+CUST-02010,"Maya Gunawan","Consumer","Jakarta Barat",2023-07-03
+CUST-02011,"PT Nusantara Media","Corporate","Surabaya",2025-06-07
+CUST-02012,"Arif Hartanto","Consumer","Denpasar",2022-10-22
+CUST-02013,"Fajar Wibowo","Consumer","Yogyakarta",2025-11-26
+CUST-02014,"Andi Firmansyah","Consumer","Jakarta Selatan",2025-02-07
+CUST-02015,"Tania Hartanto","Consumer","Yogyakarta",2025-06-01
+CUST-02016,"PT Global Solusindo","Corporate","Medan",2024-09-15
+CUST-02017,"Rina Wibowo","Consumer","Medan",2025-10-07
+CUST-02018,"Lani Hidayat","Consumer","Denpasar",2023-12-20
+CUST-02019,"Fitri Firmansyah","Consumer","Bandung",2024-04-05
+CUST-02020,"CV Kreatif Maya","Small Business","Semarang",2022-02-07
+CUST-02021,"Dimas Siregar","Consumer","Bandung",2024-02-20
+CUST-02022,"PT Cipta Karya","Corporate","Jakarta Barat",2025-12-14
+CUST-02023,"PT Sentosa Solusindo","Corporate","Jakarta Barat",2024-05-10
+CUST-02024,"Bella Surya","Consumer","Jakarta Barat",2024-01-15
+CUST-02025,"Wahyu Hidayat","Consumer","Jakarta Selatan",2022-09-20
+CUST-02026,"Arif Kusuma","Consumer","Makassar",2024-03-21
+CUST-02027,"Agus Wibowo","Consumer","Jakarta Barat",2023-05-24
+CUST-02028,"CV Maju Dimas","Small Business","Denpasar",2025-07-16
+CUST-02029,"Andi Wibowo","Consumer","Denpasar",2025-08-13
+CUST-02030,"CV Maju Agus","Small Business","Makassar",2024-08-24
+CUST-02031,"Lani Firmansyah","Consumer","Bekasi",2022-08-01
+CUST-02032,"PT Global Niaga","Corporate","Yogyakarta",2025-08-18
+CUST-02033,"CV Mitra Andi","Small Business","Palembang",2025-07-25
+CUST-02034,"Sarah Nugroho","Consumer","Tangerang Selatan",2023-08-01
+CUST-02035,"Bella Hidayat","Consumer","Jakarta Selatan",2022-06-15
+CUST-02036,"Citra Utami","Consumer","Jakarta Selatan",2023-05-15
+CUST-02037,"PT Mega Solusindo","Corporate","Semarang",2024-12-20
+CUST-02038,"Maya Hartanto","Consumer","Yogyakarta",2025-10-09
+CUST-02039,"CV Kreatif Bella","Small Business","Palembang",2022-03-03
+CUST-02040,"CV Maju Eko","Small Business","Semarang",2023-08-04
+CUST-02041,"PT Sinar Karya","Corporate","Bekasi",2023-08-24
+CUST-02042,"Eko Saputra","Consumer","Jakarta Selatan",2022-09-17
+CUST-02043,"PT Sinar Media","Corporate","Semarang",2024-02-19
+CUST-02044,"PT Bina Makmur","Corporate","Surabaya",2024-03-04
+CUST-02045,"Reza Hidayat","Consumer","Jakarta Barat",2022-03-08
+CUST-02046,"Reza Yuliana","Consumer","Makassar",2022-05-17
+CUST-02047,"PT Nusantara Makmur","Corporate","Medan",2025-10-22
+CUST-02048,"CV Kreatif Maya","Small Business","Tangerang Selatan",2022-05-25
+CUST-02049,"Fajar Siregar","Consumer","Surabaya",2024-02-18
+CUST-02050,"Bella Nugroho","Consumer","Bandung",2023-08-27
+CUST-02051,"Citra Lestari","Consumer","Jakarta Barat",2022-05-27
+CUST-02052,"CV Jaya Hadi","Small Business","Jakarta Selatan",2022-02-14
+CUST-02053,"PT Mega Solusindo","Corporate","Yogyakarta",2023-01-04
+CUST-02054,"Fajar Lestari","Consumer","Bandung",2024-03-09
+CUST-02055,"Fitri Wibowo","Consumer","Jakarta Barat",2023-05-03
+CUST-02056,"PT Cipta Teknologi","Corporate","Surabaya",2023-04-03
+CUST-02057,"PT Bina Media","Corporate","Yogyakarta",2023-02-03
+CUST-02058,"CV Berkah Maya","Small Business","Bandung",2024-08-22
+CUST-02059,"CV Mitra Eko","Small Business","Jakarta Barat",2024-09-12
+CUST-02060,"PT Bina Niaga","Corporate","Palembang",2025-08-04
+CUST-02061,"Sarah Wibowo","Consumer","Makassar",2025-09-11
+CUST-02062,"Reza Saputra","Consumer","Yogyakarta",2023-03-07
+CUST-02063,"Eko Yuliana","Consumer","Bekasi",2024-02-20
+CUST-02064,"PT Bina Karya","Corporate","Surabaya",2023-08-25
+CUST-02065,"Andi Pranata","Consumer","Tangerang Selatan",2023-06-04
+CUST-02066,"CV Berkah Fitri","Small Business","Palembang",2025-08-22
+CUST-02067,"PT Sentosa Makmur","Corporate","Bekasi",2025-08-06
+CUST-02068,"Eko Yuliana","Consumer","Denpasar",2025-09-25
+CUST-02069,"PT Mega Teknologi","Corporate","Medan",2023-05-13
+CUST-02070,"CV Berkah Sarah","Small Business","Surabaya",2024-03-27
+CUST-02071,"Eko Yuliana","Consumer","Tangerang Selatan",2025-05-28
+CUST-02072,"CV Mitra Hadi","Small Business","Semarang",2022-05-05
+CUST-02073,"PT Mega Media","Corporate","Semarang",2024-07-28
+CUST-02074,"PT Sentosa Media","Corporate","Makassar",2023-05-02
+CUST-02075,"PT Global Niaga","Corporate","Surabaya",2025-11-27
+CUST-02076,"CV Mitra Dina","Small Business","Medan",2025-07-08
+CUST-02077,"PT Cipta Media","Corporate","Jakarta Barat",2025-09-14
+CUST-02078,"Dina Nugroho","Consumer","Bandung",2024-11-17
+CUST-02079,"Hadi Hartanto","Consumer","Bekasi",2022-09-03
+CUST-02080,"Rina Pranata","Consumer","Jakarta Selatan",2025-05-23
+CUST-02081,"PT Sentosa Teknologi","Corporate","Medan",2023-06-28
+CUST-02082,"Wahyu Surya","Consumer","Bandung",2023-05-27
+CUST-02083,"CV Berkah Agus","Small Business","Semarang",2025-06-13
+CUST-02084,"Bella Kusuma","Consumer","Jakarta Selatan",2022-06-11
+CUST-02085,"Andi Santoso","Consumer","Semarang",2024-04-17
+CUST-02086,"CV Jaya Arif","Small Business","Palembang",2022-07-26
+CUST-02087,"PT Prima Makmur","Corporate","Tangerang Selatan",2023-09-15
+CUST-02088,"Bella Utami","Consumer","Bandung",2023-11-02
+CUST-02089,"Eko Santoso","Consumer","Denpasar",2022-11-11
+CUST-02090,"Fitri Hartanto","Consumer","Palembang",2025-05-09
+CUST-02091,"CV Jaya Maya","Small Business","Yogyakarta",2023-07-13
+CUST-02092,"CV Kreatif Andi","Small Business","Surabaya",2024-02-03
+CUST-02093,"Rina Wibowo","Consumer","Palembang",2023-10-15
+CUST-02094,"Hadi Hidayat","Consumer","Jakarta Selatan",2025-05-21
+CUST-02095,"Arif Wibowo","Consumer","Makassar",2023-10-13
+CUST-02096,"PT Mega Karya","Corporate","Tangerang Selatan",2022-04-11
+CUST-02097,"Gita Pranata","Consumer","Makassar",2025-06-13
+CUST-02098,"Maya Yuliana","Consumer","Jakarta Barat",2023-04-02
+CUST-02099,"Rio Wibowo","Consumer","Jakarta Selatan",2022-05-18
+CUST-02100,"CV Kreatif Wahyu","Small Business","Jakarta Barat",2022-09-26
+CUST-02101,"CV Kreatif Sarah","Small Business","Makassar",2025-04-27
+CUST-02102,"Agus Gunawan","Consumer","Yogyakarta",2025-08-10
+CUST-02103,"Lani Firmansyah","Consumer","Makassar",2022-12-11
+CUST-02104,"Bella Surya","Consumer","Surabaya",2023-12-23
+CUST-02105,"Arif Pranata","Consumer","Surabaya",2023-07-24
+CUST-02106,"Fitri Wibowo","Consumer","Palembang",2025-06-05
+CUST-02107,"CV Berkah Tania","Small Business","Bandung",2025-02-10
+CUST-02108,"Tania Wibowo","Consumer","Jakarta Barat",2023-12-10
+CUST-02109,"Citra Hartanto","Consumer","Jakarta Barat",2025-09-04
+CUST-02110,"Hadi Nugroho","Consumer","Denpasar",2025-08-26
+CUST-02111,"CV Maju Andi","Small Business","Bekasi",2022-04-11
+CUST-02112,"PT Sinar Makmur","Corporate","Surabaya",2023-10-25
+CUST-02113,"PT Sinar Makmur","Corporate","Bandung",2024-11-23
+CUST-02114,"Dimas Hidayat","Consumer","Makassar",2024-10-19
+CUST-02115,"CV Maju Reza","Small Business","Semarang",2023-02-01
+CUST-02116,"Bella Surya","Consumer","Palembang",2022-12-12
+CUST-02117,"Lani Santoso","Consumer","Bekasi",2024-09-23
+CUST-02118,"Andi Lestari","Consumer","Semarang",2024-04-06
+CUST-02119,"Lani Saputra","Consumer","Surabaya",2024-05-08
+CUST-02120,"PT Mega Abadi","Corporate","Semarang",2022-06-28
+CUST-02121,"PT Sinar Solusindo","Corporate","Medan",2024-10-05
+CUST-02122,"Gita Kusuma","Consumer","Denpasar",2024-11-15
+CUST-02123,"Tania Siregar","Consumer","Tangerang Selatan",2025-08-22
+CUST-02124,"Dina Siregar","Consumer","Yogyakarta",2022-02-21
+CUST-02125,"Reza Firmansyah","Consumer","Surabaya",2025-02-13
+CUST-02126,"Gita Nugroho","Consumer","Palembang",2022-11-10
+CUST-02127,"PT Global Makmur","Corporate","Medan",2023-11-06
+CUST-02128,"Fitri Santoso","Consumer","Bandung",2025-01-27
+CUST-02129,"Lani Hidayat","Consumer","Jakarta Barat",2025-08-01
+CUST-02130,"CV Jaya Rio","Small Business","Bandung",2025-12-02
+CUST-02131,"PT Sentosa Karya","Corporate","Denpasar",2022-01-26
+CUST-02132,"Rina Saputra","Consumer","Palembang",2023-08-20
+CUST-02133,"PT Prima Teknologi","Corporate","Denpasar",2022-03-22
+CUST-02134,"Wahyu Siregar","Consumer","Bandung",2025-09-09
+CUST-02135,"PT Mega Karya","Corporate","Medan",2025-01-18
+CUST-02136,"Fajar Santoso","Consumer","Jakarta Selatan",2024-05-22
+CUST-02137,"Sarah Lestari","Consumer","Jakarta Barat",2025-05-18
+CUST-02138,"Dimas Kusuma","Consumer","Bekasi",2024-07-14
+CUST-02139,"Rina Yuliana","Consumer","Yogyakarta",2022-01-18
+CUST-02140,"Agus Siregar","Consumer","Surabaya",2023-12-01
+CUST-02141,"Maya Utami","Consumer","Surabaya",2024-07-18
+CUST-02142,"Dina Gunawan","Consumer","Bandung",2025-01-23
+CUST-02143,"CV Berkah Gita","Small Business","Jakarta Selatan",2023-03-02
+CUST-02144,"CV Mitra Bella","Small Business","Semarang",2022-11-18
+CUST-02145,"Citra Hidayat","Consumer","Makassar",2023-03-01
+CUST-02146,"CV Mitra Sarah","Small Business","Denpasar",2024-11-25
+CUST-02147,"PT Bina Solusindo","Corporate","Makassar",2025-12-28
+CUST-02148,"PT Sentosa Teknologi","Corporate","Palembang",2024-09-21
+CUST-02149,"Rio Saputra","Consumer","Jakarta Barat",2023-04-01
+CUST-02150,"Dina Surya","Consumer","Medan",2023-09-10
+CUST-02151,"Wahyu Siregar","Consumer","Denpasar",2024-02-27
+CUST-02152,"PT Nusantara Teknologi","Corporate","Denpasar",2025-12-28
+CUST-02153,"PT Nusantara Teknologi","Corporate","Jakarta Barat",2024-09-28
+CUST-02154,"CV Berkah Hadi","Small Business","Makassar",2025-11-25
+CUST-02155,"CV Berkah Agus","Small Business","Palembang",2024-07-24
+CUST-02156,"CV Sukses Gita","Small Business","Jakarta Barat",2025-11-18
+CUST-02157,"CV Berkah Fajar","Small Business","Jakarta Selatan",2023-05-06
+CUST-02158,"PT Sinar Media","Corporate","Palembang",2024-05-14
+CUST-02159,"CV Kreatif Agus","Small Business","Denpasar",2022-05-16
+CUST-02160,"PT Cipta Solusindo","Corporate","Denpasar",2022-03-05
+CUST-02161,"PT Prima Media","Corporate","Palembang",2024-10-10
+CUST-02162,"Fitri Utami","Consumer","Palembang",2023-11-27
+CUST-02163,"Maya Hidayat","Consumer","Jakarta Barat",2025-11-21
+CUST-02164,"Reza Kusuma","Consumer","Jakarta Selatan",2025-11-26
+CUST-02165,"Fitri Siregar","Consumer","Jakarta Barat",2022-02-01
+CUST-02166,"Fitri Siregar","Consumer","Denpasar",2022-01-09
+CUST-02167,"CV Mitra Citra","Small Business","Palembang",2022-12-09
+CUST-02168,"CV Jaya Fitri","Small Business","Medan",2023-02-01
+CUST-02169,"CV Sukses Rio","Small Business","Bandung",2023-11-06
+CUST-02170,"Bella Saputra","Consumer","Bandung",2022-11-03
+CUST-02171,"CV Jaya Agus","Small Business","Semarang",2023-09-24
+CUST-02172,"PT Prima Makmur","Corporate","Tangerang Selatan",2022-06-19
+CUST-02173,"Agus Nugroho","Consumer","Surabaya",2025-11-17
+CUST-02174,"CV Sukses Eko","Small Business","Jakarta Barat",2023-10-15
+CUST-02175,"Dimas Kusuma","Consumer","Jakarta Barat",2024-02-12
+CUST-02176,"Agus Santoso","Consumer","Denpasar",2023-08-23
+CUST-02177,"Maya Nugroho","Consumer","Bekasi",2022-07-02
+CUST-02178,"Lani Utami","Consumer","Palembang",2025-07-28
+CUST-02179,"PT Nusantara Teknologi","Corporate","Denpasar",2024-08-26
+CUST-02180,"PT Sinar Makmur","Corporate","Bekasi",2023-02-03
+CUST-02181,"Tania Nugroho","Consumer","Tangerang Selatan",2024-07-21
+CUST-02182,"CV Kreatif Rina","Small Business","Jakarta Selatan",2023-03-02
+CUST-02183,"Eko Hartanto","Consumer","Makassar",2023-06-19
+CUST-02184,"CV Jaya Dimas","Small Business","Denpasar",2025-10-13
+CUST-02185,"Fajar Santoso","Consumer","Makassar",2022-09-15
+CUST-02186,"Eko Siregar","Consumer","Palembang",2022-09-16
+CUST-02187,"Citra Kusuma","Consumer","Yogyakarta",2023-01-27
+CUST-02188,"Eko Saputra","Consumer","Jakarta Barat",2025-03-22
+CUST-02189,"Fajar Hidayat","Consumer","Makassar",2022-12-07
+CUST-02190,"Hadi Saputra","Consumer","Bandung",2025-12-21
+CUST-02191,"PT Global Solusindo","Corporate","Palembang",2024-07-07
+CUST-02192,"Bella Santoso","Consumer","Jakarta Selatan",2023-03-23
+CUST-02193,"PT Prima Niaga","Corporate","Palembang",2025-06-26
+CUST-02194,"Arif Utami","Consumer","Bandung",2024-07-24
+CUST-02195,"Fitri Kusuma","Consumer","Tangerang Selatan",2023-06-03
+CUST-02196,"Dina Lestari","Consumer","Denpasar",2023-02-14
+CUST-02197,"CV Sukses Tania","Small Business","Bandung",2025-01-07
+CUST-02198,"Wahyu Pranata","Consumer","Surabaya",2023-05-11
+CUST-02199,"Fajar Nugroho","Consumer","Tangerang Selatan",2025-06-13
+CUST-02200,"CV Berkah Dimas","Small Business","Jakarta Barat",2023-05-04
+CUST-02201,"Gita Saputra","Consumer","Surabaya",2023-02-25
+CUST-02202,"Fitri Hidayat","Consumer","Palembang",2025-09-04
+CUST-02203,"Fajar Lestari","Consumer","Medan",2024-01-02
+CUST-02204,"PT Cipta Media","Corporate","Bandung",2024-08-03
+CUST-02205,"Eko Wibowo","Consumer","Semarang",2025-09-05
+CUST-02206,"Dina Nugroho","Consumer","Surabaya",2025-12-27
+CUST-02207,"Rina Gunawan","Consumer","Yogyakarta",2024-09-27
+CUST-02208,"Reza Siregar","Consumer","Jakarta Selatan",2022-12-10
+CUST-02209,"Citra Utami","Consumer","Surabaya",2025-03-04
+CUST-02210,"Gita Nugroho","Consumer","Jakarta Barat",2023-10-11
+CUST-02211,"Wahyu Firmansyah","Consumer","Denpasar",2025-09-14
+CUST-02212,"Dina Gunawan","Consumer","Semarang",2025-05-13
+CUST-02213,"CV Maju Dimas","Small Business","Tangerang Selatan",2022-12-02
+CUST-02214,"Andi Yuliana","Consumer","Tangerang Selatan",2023-06-12
+CUST-02215,"Gita Wibowo","Consumer","Surabaya",2023-12-18
+CUST-02216,"Arif Lestari","Consumer","Makassar",2022-10-23
+CUST-02217,"Fajar Surya","Consumer","Bandung",2024-12-16
+CUST-02218,"Tania Surya","Consumer","Jakarta Barat",2024-02-14
+CUST-02219,"Hadi Utami","Consumer","Jakarta Barat",2024-08-03
+CUST-02220,"CV Berkah Rio","Small Business","Denpasar",2023-06-08
+CUST-02221,"Gita Utami","Consumer","Bekasi",2022-10-27
+CUST-02222,"Eko Wibowo","Consumer","Semarang",2022-08-10
+CUST-02223,"Citra Firmansyah","Consumer","Jakarta Selatan",2025-07-18
+CUST-02224,"Tania Kusuma","Consumer","Denpasar",2025-05-17
+CUST-02225,"Rina Firmansyah","Consumer","Bekasi",2022-09-16
+CUST-02226,"Hadi Siregar","Consumer","Bandung",2023-01-20
+CUST-02227,"Dina Surya","Consumer","Yogyakarta",2025-06-11
+CUST-02228,"Sarah Yuliana","Consumer","Yogyakarta",2022-05-22
+CUST-02229,"Andi Siregar","Consumer","Makassar",2022-04-04
+CUST-02230,"CV Mitra Fajar","Small Business","Yogyakarta",2022-05-23
+CUST-02231,"Hadi Gunawan","Consumer","Yogyakarta",2025-04-24
+CUST-02232,"CV Kreatif Eko","Small Business","Medan",2024-08-27
+CUST-02233,"CV Maju Fitri","Small Business","Jakarta Selatan",2022-01-03
+CUST-02234,"Dina Pranata","Consumer","Surabaya",2024-11-09
+CUST-02235,"Hadi Hartanto","Consumer","Denpasar",2025-07-03
+CUST-02236,"Gita Saputra","Consumer","Surabaya",2022-04-03
+CUST-02237,"Dina Kusuma","Consumer","Makassar",2024-07-14
+CUST-02238,"Gita Santoso","Consumer","Bandung",2023-10-07
+CUST-02239,"PT Prima Karya","Corporate","Surabaya",2022-12-20
+CUST-02240,"PT Nusantara Niaga","Corporate","Tangerang Selatan",2025-03-27
+CUST-02241,"Fajar Nugroho","Consumer","Semarang",2025-12-17
+CUST-02242,"Arif Yuliana","Consumer","Jakarta Selatan",2023-06-23
+CUST-02243,"Hadi Gunawan","Consumer","Tangerang Selatan",2023-05-12
+CUST-02244,"PT Nusantara Niaga","Corporate","Surabaya",2025-08-03
+CUST-02245,"PT Prima Karya","Corporate","Bandung",2025-07-20
+CUST-02246,"Agus Santoso","Consumer","Denpasar",2023-12-10
+CUST-02247,"Fitri Firmansyah","Consumer","Bandung",2025-01-16
+CUST-02248,"Maya Saputra","Consumer","Yogyakarta",2022-04-25
+CUST-02249,"Hadi Pranata","Consumer","Tangerang Selatan",2022-11-14
+CUST-02250,"Rio Santoso","Consumer","Medan",2025-07-22
+CUST-02251,"Hadi Nugroho","Consumer","Jakarta Barat",2024-10-14
+CUST-02252,"Fajar Nugroho","Consumer","Bandung",2022-05-20
+CUST-02253,"Bella Saputra","Consumer","Bekasi",2024-09-16
+CUST-02254,"CV Jaya Dina","Small Business","Yogyakarta",2025-01-20
+CUST-02255,"CV Sukses Rio","Small Business","Bekasi",2024-06-23
+CUST-02256,"Dimas Utami","Consumer","Semarang",2025-10-06
+CUST-02257,"Wahyu Utami","Consumer","Palembang",2023-01-14
+CUST-02258,"CV Jaya Eko","Small Business","Tangerang Selatan",2022-04-18
+CUST-02259,"PT Sinar Media","Corporate","Surabaya",2024-04-16
+CUST-02260,"Wahyu Hartanto","Consumer","Jakarta Selatan",2023-10-11
+CUST-02261,"CV Mitra Dina","Small Business","Bandung",2025-12-19
+CUST-02262,"Arif Utami","Consumer","Denpasar",2023-09-02
+CUST-02263,"PT Cipta Teknologi","Corporate","Bandung",2023-10-24
+CUST-02264,"Dina Wibowo","Consumer","Jakarta Selatan",2022-10-21
+CUST-02265,"Fajar Firmansyah","Consumer","Semarang",2024-06-11
+CUST-02266,"CV Berkah Dina","Small Business","Tangerang Selatan",2022-05-24
+CUST-02267,"CV Jaya Citra","Small Business","Makassar",2024-03-04
+CUST-02268,"Andi Firmansyah","Consumer","Yogyakarta",2023-03-07
+CUST-02269,"Dina Saputra","Consumer","Tangerang Selatan",2022-08-26
+CUST-02270,"Fajar Yuliana","Consumer","Surabaya",2022-12-05
+CUST-02271,"Rio Lestari","Consumer","Bekasi",2024-04-20
+CUST-02272,"Bella Saputra","Consumer","Jakarta Selatan",2025-12-27
+CUST-02273,"CV Berkah Gita","Small Business","Jakarta Selatan",2022-12-16
+CUST-02274,"PT Bina Teknologi","Corporate","Semarang",2023-10-11
+CUST-02275,"CV Kreatif Arif","Small Business","Denpasar",2025-04-09
+CUST-02276,"PT Global Solusindo","Corporate","Palembang",2023-05-09
+CUST-02277,"CV Jaya Gita","Small Business","Bekasi",2023-05-17
+CUST-02278,"Hadi Surya","Consumer","Tangerang Selatan",2025-10-07
+CUST-02279,"CV Jaya Gita","Small Business","Makassar",2025-08-23
+CUST-02280,"Bella Gunawan","Consumer","Tangerang Selatan",2024-09-26
+CUST-02281,"Sarah Lestari","Consumer","Makassar",2024-11-24
+CUST-02282,"CV Berkah Hadi","Small Business","Semarang",2023-11-20
+CUST-02283,"PT Sentosa Solusindo","Corporate","Denpasar",2022-02-04
+CUST-02284,"CV Mitra Fajar","Small Business","Makassar",2025-10-25
+CUST-02285,"Rina Hartanto","Consumer","Surabaya",2023-07-15
+CUST-02286,"Wahyu Nugroho","Consumer","Jakarta Selatan",2025-05-10
+CUST-02287,"Rina Saputra","Consumer","Yogyakarta",2022-06-01
+CUST-02288,"PT Nusantara Makmur","Corporate","Surabaya",2024-01-25
+CUST-02289,"Dimas Nugroho","Consumer","Denpasar",2022-07-16
+CUST-02290,"PT Nusantara Makmur","Corporate","Yogyakarta",2022-09-16
+CUST-02291,"PT Mega Media","Corporate","Bekasi",2022-06-01
+CUST-02292,"PT Prima Niaga","Corporate","Palembang",2024-10-23
+CUST-02293,"Agus Yuliana","Consumer","Palembang",2023-11-28
+CUST-02294,"CV Mitra Citra","Small Business","Bandung",2024-10-12
+CUST-02295,"PT Global Solusindo","Corporate","Jakarta Barat",2024-09-18
+CUST-02296,"Dina Nugroho","Consumer","Semarang",2024-05-16
+CUST-02297,"Fitri Yuliana","Consumer","Surabaya",2024-02-25
+CUST-02298,"Andi Surya","Consumer","Denpasar",2024-03-28
+CUST-02299,"CV Kreatif Fajar","Small Business","Bandung",2024-11-09
+CUST-02300,"Gita Hidayat","Consumer","Jakarta Selatan",2024-07-22
+CUST-02301,"Reza Siregar","Consumer","Makassar",2023-09-26
+CUST-02302,"CV Mitra Sarah","Small Business","Semarang",2025-11-21
+CUST-02303,"PT Global Makmur","Corporate","Semarang",2024-08-28
+CUST-02304,"Rio Hidayat","Consumer","Yogyakarta",2025-10-19
+CUST-02305,"Lani Saputra","Consumer","Jakarta Barat",2024-05-28
+CUST-02306,"PT Global Makmur","Corporate","Bandung",2022-06-18
+CUST-02307,"PT Mega Solusindo","Corporate","Tangerang Selatan",2024-01-26
+CUST-02308,"Wahyu Siregar","Consumer","Jakarta Selatan",2025-07-10
+CUST-02309,"Rio Hartanto","Consumer","Palembang",2023-10-24
+CUST-02310,"PT Mega Media","Corporate","Yogyakarta",2023-10-24
+CUST-02311,"Gita Siregar","Consumer","Palembang",2024-05-01
+CUST-02312,"Tania Santoso","Consumer","Semarang",2025-01-24
+CUST-02313,"Rina Utami","Consumer","Surabaya",2023-01-21
+CUST-02314,"Agus Firmansyah","Consumer","Medan",2022-02-07
+CUST-02315,"Lani Nugroho","Consumer","Surabaya",2024-02-21
+CUST-02316,"CV Kreatif Fajar","Small Business","Bekasi",2023-09-05
+CUST-02317,"PT Bina Karya","Corporate","Denpasar",2023-01-09
+CUST-02318,"CV Jaya Maya","Small Business","Tangerang Selatan",2022-07-24
+CUST-02319,"Dimas Lestari","Consumer","Makassar",2022-01-20
+CUST-02320,"PT Sinar Abadi","Corporate","Bekasi",2024-10-28
+CUST-02321,"CV Kreatif Dina","Small Business","Surabaya",2022-09-07
+CUST-02322,"CV Kreatif Arif","Small Business","Tangerang Selatan",2024-09-04
+CUST-02323,"Citra Utami","Consumer","Bandung",2022-06-16
+CUST-02324,"Reza Kusuma","Consumer","Surabaya",2025-09-19
+CUST-02325,"CV Kreatif Fajar","Small Business","Makassar",2025-01-01
+CUST-02326,"CV Kreatif Hadi","Small Business","Bekasi",2024-08-10
+CUST-02327,"Citra Hidayat","Consumer","Tangerang Selatan",2022-10-11
+CUST-02328,"PT Sinar Makmur","Corporate","Bekasi",2025-05-09
+CUST-02329,"CV Jaya Hadi","Small Business","Semarang",2025-08-10
+CUST-02330,"Arif Gunawan","Consumer","Jakarta Selatan",2025-06-25
+CUST-02331,"Wahyu Utami","Consumer","Bandung",2024-06-11
+CUST-02332,"Agus Saputra","Consumer","Jakarta Selatan",2025-05-22
+CUST-02333,"Hadi Yuliana","Consumer","Yogyakarta",2022-05-12
+CUST-02334,"CV Berkah Rina","Small Business","Yogyakarta",2024-07-12
+CUST-02335,"Gita Nugroho","Consumer","Yogyakarta",2025-01-28
+CUST-02336,"PT Mega Teknologi","Corporate","Denpasar",2023-12-20
+CUST-02337,"Gita Kusuma","Consumer","Jakarta Barat",2024-09-24
+CUST-02338,"Fitri Kusuma","Consumer","Makassar",2023-04-24
+CUST-02339,"PT Mega Media","Corporate","Bandung",2022-12-01
+CUST-02340,"PT Sinar Abadi","Corporate","Jakarta Barat",2023-07-14
+CUST-02341,"Tania Yuliana","Consumer","Tangerang Selatan",2023-01-14
+CUST-02342,"Sarah Santoso","Consumer","Semarang",2023-03-06
+CUST-02343,"Tania Saputra","Consumer","Jakarta Selatan",2024-12-12
+CUST-02344,"Andi Siregar","Consumer","Bandung",2024-03-22
+CUST-02345,"PT Cipta Makmur","Corporate","Surabaya",2023-03-19
+CUST-02346,"PT Nusantara Solusindo","Corporate","Bekasi",2023-02-08
+CUST-02347,"Agus Yuliana","Consumer","Tangerang Selatan",2022-09-25
+CUST-02348,"Gita Wibowo","Consumer","Jakarta Selatan",2024-07-01
+CUST-02349,"Sarah Kusuma","Consumer","Bekasi",2025-11-01
+CUST-02350,"Bella Siregar","Consumer","Tangerang Selatan",2022-01-20
+CUST-02351,"PT Sinar Abadi","Corporate","Medan",2024-12-10
+CUST-02352,"Fajar Lestari","Consumer","Bandung",2024-01-18
+CUST-02353,"Rio Yuliana","Consumer","Surabaya",2023-01-09
+CUST-02354,"PT Cipta Karya","Corporate","Makassar",2024-05-04
+CUST-02355,"Agus Wibowo","Consumer","Bandung",2025-09-02
+CUST-02356,"PT Sentosa Niaga","Corporate","Jakarta Selatan",2022-07-07
+CUST-02357,"Dina Kusuma","Consumer","Denpasar",2022-02-23
+CUST-02358,"Fajar Hidayat","Consumer","Medan",2023-01-10
+CUST-02359,"PT Sinar Solusindo","Corporate","Denpasar",2024-07-15
+CUST-02360,"Rio Gunawan","Consumer","Bekasi",2024-06-21
+CUST-02361,"Citra Yuliana","Consumer","Medan",2025-07-26
+CUST-02362,"Rio Hartanto","Consumer","Palembang",2023-10-15
+CUST-02363,"PT Sentosa Niaga","Corporate","Jakarta Selatan",2025-04-13
+CUST-02364,"CV Mitra Wahyu","Small Business","Bekasi",2023-05-23
+CUST-02365,"Rina Kusuma","Consumer","Yogyakarta",2024-01-18
+CUST-02366,"Citra Hidayat","Consumer","Bandung",2022-07-02
+CUST-02367,"Bella Lestari","Consumer","Medan",2024-07-06
+CUST-02368,"CV Kreatif Fitri","Small Business","Jakarta Selatan",2023-03-04
+CUST-02369,"PT Nusantara Makmur","Corporate","Surabaya",2024-09-10
+CUST-02370,"Andi Saputra","Consumer","Jakarta Selatan",2025-08-13
+CUST-02371,"CV Jaya Bella","Small Business","Surabaya",2023-08-27
+CUST-02372,"Dimas Pranata","Consumer","Denpasar",2025-11-09
+CUST-02373,"CV Maju Wahyu","Small Business","Makassar",2023-05-27
+CUST-02374,"Sarah Santoso","Consumer","Semarang",2023-07-08
+CUST-02375,"PT Cipta Teknologi","Corporate","Yogyakarta",2022-11-18
+CUST-02376,"CV Kreatif Gita","Small Business","Bekasi",2024-11-17
+CUST-02377,"CV Berkah Lani","Small Business","Palembang",2024-08-28
+CUST-02378,"PT Sinar Teknologi","Corporate","Jakarta Selatan",2022-02-27
+CUST-02379,"Rio Kusuma","Consumer","Yogyakarta",2022-03-08
+CUST-02380,"Fitri Firmansyah","Consumer","Yogyakarta",2023-02-28
+CUST-02381,"CV Sukses Eko","Small Business","Bekasi",2024-04-26
+CUST-02382,"Lani Yuliana","Consumer","Yogyakarta",2022-01-10
+CUST-02383,"Sarah Gunawan","Consumer","Makassar",2025-04-22
+CUST-02384,"PT Bina Niaga","Corporate","Jakarta Barat",2025-01-25
+CUST-02385,"PT Mega Teknologi","Corporate","Semarang",2022-07-03
+CUST-02386,"CV Kreatif Wahyu","Small Business","Tangerang Selatan",2023-02-19
+CUST-02387,"Reza Utami","Consumer","Denpasar",2024-01-20
+CUST-02388,"Lani Santoso","Consumer","Jakarta Selatan",2022-01-28
+CUST-02389,"Gita Yuliana","Consumer","Tangerang Selatan",2025-01-05
+CUST-02390,"Agus Siregar","Consumer","Makassar",2025-08-20
+CUST-02391,"Dimas Lestari","Consumer","Jakarta Selatan",2023-10-22
+CUST-02392,"PT Cipta Solusindo","Corporate","Jakarta Selatan",2025-05-21
+CUST-02393,"PT Cipta Karya","Corporate","Tangerang Selatan",2023-03-26
+CUST-02394,"CV Jaya Fitri","Small Business","Medan",2025-11-20
+CUST-02395,"CV Maju Tania","Small Business","Medan",2022-03-14
+CUST-02396,"Dina Utami","Consumer","Yogyakarta",2022-01-19
+CUST-02397,"Rio Surya","Consumer","Jakarta Selatan",2023-06-09
+CUST-02398,"Fajar Santoso","Consumer","Yogyakarta",2022-06-01
+CUST-02399,"Eko Wibowo","Consumer","Makassar",2022-01-09
+CUST-02400,"PT Cipta Teknologi","Corporate","Yogyakarta",2022-10-24
+CUST-02401,"PT Global Karya","Corporate","Medan",2024-12-24
+CUST-02402,"Maya Siregar","Consumer","Bandung",2023-02-06
+CUST-02403,"PT Sinar Makmur","Corporate","Surabaya",2023-07-01
+CUST-02404,"PT Sentosa Teknologi","Corporate","Tangerang Selatan",2023-08-14
+CUST-02405,"Arif Gunawan","Consumer","Denpasar",2023-09-27
+CUST-02406,"CV Maju Citra","Small Business","Medan",2024-02-15
+CUST-02407,"Eko Gunawan","Consumer","Tangerang Selatan",2024-02-10
+CUST-02408,"CV Kreatif Lani","Small Business","Medan",2022-01-15
+CUST-02409,"CV Jaya Fajar","Small Business","Bandung",2025-05-25
+CUST-02410,"CV Mitra Gita","Small Business","Tangerang Selatan",2022-10-14
+CUST-02411,"Agus Hidayat","Consumer","Palembang",2025-05-13
+CUST-02412,"PT Global Abadi","Corporate","Bekasi",2022-04-08
+CUST-02413,"CV Kreatif Agus","Small Business","Surabaya",2022-05-13
+CUST-02414,"Wahyu Gunawan","Consumer","Bekasi",2022-06-24
+CUST-02415,"Fitri Firmansyah","Consumer","Yogyakarta",2024-04-28
+CUST-02416,"CV Maju Dina","Small Business","Jakarta Barat",2022-12-18
+CUST-02417,"CV Kreatif Arif","Small Business","Bekasi",2025-11-09
+CUST-02418,"Reza Lestari","Consumer","Surabaya",2023-08-14
+CUST-02419,"PT Sinar Niaga","Corporate","Yogyakarta",2024-05-28
+CUST-02420,"CV Jaya Lani","Small Business","Jakarta Barat",2023-09-24
+CUST-02421,"Sarah Yuliana","Consumer","Bandung",2023-01-27
+CUST-02422,"Dimas Hartanto","Consumer","Medan",2025-07-16
+CUST-02423,"PT Global Karya","Corporate","Jakarta Selatan",2022-02-12
+CUST-02424,"PT Global Solusindo","Corporate","Surabaya",2023-12-24
+CUST-02425,"Reza Kusuma","Consumer","Palembang",2025-06-17
+CUST-02426,"Dimas Surya","Consumer","Medan",2022-01-26
+CUST-02427,"Dina Kusuma","Consumer","Yogyakarta",2023-06-05
+CUST-02428,"CV Jaya Dimas","Small Business","Medan",2023-11-06
+CUST-02429,"Dina Lestari","Consumer","Jakarta Selatan",2022-11-28
+CUST-02430,"PT Mega Media","Corporate","Palembang",2022-03-06
+CUST-02431,"Bella Utami","Consumer","Semarang",2024-01-25
+CUST-02432,"CV Mitra Eko","Small Business","Yogyakarta",2022-09-25
+CUST-02433,"CV Mitra Lani","Small Business","Bekasi",2023-05-17
+CUST-02434,"Fitri Surya","Consumer","Medan",2023-05-05
+CUST-02435,"CV Maju Fitri","Small Business","Surabaya",2024-06-16
+CUST-02436,"PT Sinar Media","Corporate","Jakarta Barat",2023-12-12
+CUST-02437,"CV Sukses Maya","Small Business","Denpasar",2022-08-08
+CUST-02438,"Maya Lestari","Consumer","Jakarta Selatan",2025-04-25
+CUST-02439,"CV Jaya Gita","Small Business","Yogyakarta",2023-05-09
+CUST-02440,"Eko Surya","Consumer","Bandung",2024-05-10
+CUST-02441,"Sarah Yuliana","Consumer","Jakarta Selatan",2022-01-16
+CUST-02442,"Fitri Saputra","Consumer","Semarang",2023-03-17
+CUST-02443,"Maya Santoso","Consumer","Surabaya",2025-02-04
+CUST-02444,"PT Prima Makmur","Corporate","Surabaya",2024-05-02
+CUST-02445,"Andi Firmansyah","Consumer","Denpasar",2022-04-20
+CUST-02446,"Dina Siregar","Consumer","Jakarta Barat",2023-04-13
+CUST-02447,"CV Berkah Fajar","Small Business","Tangerang Selatan",2022-04-26
+CUST-02448,"Eko Kusuma","Consumer","Medan",2023-04-20
+CUST-02449,"Lani Gunawan","Consumer","Denpasar",2022-07-12
+CUST-02450,"Tania Lestari","Consumer","Bekasi",2023-08-02
+CUST-02451,"Rina Gunawan","Consumer","Bandung",2023-03-18
+CUST-02452,"Citra Firmansyah","Consumer","Yogyakarta",2024-03-26
+CUST-02453,"Maya Nugroho","Consumer","Jakarta Barat",2024-04-20
+CUST-02454,"Fitri Siregar","Consumer","Jakarta Selatan",2024-03-02
+CUST-02455,"PT Sentosa Media","Corporate","Makassar",2022-06-22
+CUST-02456,"CV Kreatif Maya","Small Business","Bandung",2022-05-19
+CUST-02457,"Fajar Surya","Consumer","Jakarta Barat",2025-03-10
+CUST-02458,"Agus Siregar","Consumer","Jakarta Selatan",2022-07-08
+CUST-02459,"CV Berkah Andi","Small Business","Bandung",2024-02-13
+CUST-02460,"Maya Wibowo","Consumer","Jakarta Barat",2025-11-05
+CUST-02461,"Gita Utami","Consumer","Jakarta Selatan",2022-03-05
+CUST-02462,"CV Jaya Tania","Small Business","Bandung",2023-08-26
+CUST-02463,"CV Kreatif Wahyu","Small Business","Medan",2024-05-20
+CUST-02464,"Fitri Surya","Consumer","Makassar",2023-11-06
+CUST-02465,"Gita Yuliana","Consumer","Palembang",2023-09-28
+CUST-02466,"Eko Utami","Consumer","Semarang",2022-10-01
+CUST-02467,"CV Sukses Gita","Small Business","Palembang",2025-11-02
+CUST-02468,"PT Bina Abadi","Corporate","Palembang",2022-01-06
+CUST-02469,"Lani Kusuma","Consumer","Jakarta Selatan",2023-10-24
+CUST-02470,"Dina Wibowo","Consumer","Yogyakarta",2023-09-05
+CUST-02471,"CV Jaya Hadi","Small Business","Medan",2023-05-27
+CUST-02472,"PT Nusantara Teknologi","Corporate","Semarang",2023-10-03
+CUST-02473,"Sarah Santoso","Consumer","Medan",2022-06-15
+CUST-02474,"Fitri Hartanto","Consumer","Semarang",2025-11-12
+CUST-02475,"Maya Saputra","Consumer","Bandung",2022-08-13
+CUST-02476,"PT Sinar Makmur","Corporate","Tangerang Selatan",2022-05-12
+CUST-02477,"Arif Kusuma","Consumer","Palembang",2022-11-04
+CUST-02478,"Hadi Kusuma","Consumer","Medan",2025-06-28
+CUST-02479,"CV Mitra Reza","Small Business","Semarang",2022-12-26
+CUST-02480,"Tania Kusuma","Consumer","Tangerang Selatan",2023-08-05
+CUST-02481,"Maya Pranata","Consumer","Bandung",2025-04-14
+CUST-02482,"Bella Pranata","Consumer","Bekasi",2023-10-04
+CUST-02483,"PT Sentosa Makmur","Corporate","Bandung",2024-02-23
+CUST-02484,"Rina Gunawan","Consumer","Jakarta Selatan",2025-05-18
+CUST-02485,"Fajar Lestari","Consumer","Palembang",2023-10-26
+CUST-02486,"PT Global Niaga","Corporate","Medan",2022-11-27
+CUST-02487,"PT Mega Media","Corporate","Bekasi",2022-06-19
+CUST-02488,"Agus Surya","Consumer","Tangerang Selatan",2023-08-19
+CUST-02489,"PT Mega Karya","Corporate","Tangerang Selatan",2025-03-06
+CUST-02490,"PT Sinar Niaga","Corporate","Yogyakarta",2022-09-11
+CUST-02491,"CV Kreatif Citra","Small Business","Medan",2023-04-17
+CUST-02492,"CV Kreatif Lani","Small Business","Medan",2023-03-26
+CUST-02493,"Bella Pranata","Consumer","Denpasar",2025-04-04
+CUST-02494,"Fajar Hartanto","Consumer","Palembang",2025-04-04
+CUST-02495,"PT Nusantara Media","Corporate","Jakarta Barat",2023-07-01
+CUST-02496,"Arif Gunawan","Consumer","Medan",2024-08-18
+CUST-02497,"Rina Utami","Consumer","Makassar",2025-05-03
+CUST-02498,"Andi Surya","Consumer","Surabaya",2025-09-21
+CUST-02499,"CV Maju Andi","Small Business","Denpasar",2024-12-08
+CUST-02500,"CV Maju Lani","Small Business","Semarang",2023-12-16

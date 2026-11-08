@@ -1,0 +1,385 @@
+MonthKey,DateKey,Year,MonthNum,Category,Channel,TargetRevenue,TargetGrossProfit
+2024-01-01,20240101,2024,1,"Electronics","Offline Retail",128876,36085
+2024-01-01,20240101,2024,1,"Electronics","Online DTC",125386,35108
+2024-01-01,20240101,2024,1,"Electronics","Marketplace",173234,48506
+2024-01-01,20240101,2024,1,"Electronics","B2B Wholesale",219574,61481
+2024-01-01,20240101,2024,1,"Home & Living","Offline Retail",106786,40579
+2024-01-01,20240101,2024,1,"Home & Living","Online DTC",72521,27558
+2024-01-01,20240101,2024,1,"Home & Living","Marketplace",70541,26806
+2024-01-01,20240101,2024,1,"Home & Living","B2B Wholesale",71221,27064
+2024-01-01,20240101,2024,1,"Apparel & Fashion","Offline Retail",67561,35132
+2024-01-01,20240101,2024,1,"Apparel & Fashion","Online DTC",93489,48614
+2024-01-01,20240101,2024,1,"Apparel & Fashion","Marketplace",95625,49725
+2024-01-01,20240101,2024,1,"Apparel & Fashion","B2B Wholesale",65844,34239
+2024-01-01,20240101,2024,1,"Beauty & Wellness","Offline Retail",43909,25467
+2024-01-01,20240101,2024,1,"Beauty & Wellness","Online DTC",87320,50646
+2024-01-01,20240101,2024,1,"Beauty & Wellness","Marketplace",85057,49333
+2024-01-01,20240101,2024,1,"Beauty & Wellness","B2B Wholesale",45805,26567
+2024-02-01,20240201,2024,2,"Electronics","Offline Retail",132451,37086
+2024-02-01,20240201,2024,2,"Electronics","Online DTC",126642,35460
+2024-02-01,20240201,2024,2,"Electronics","Marketplace",185440,51923
+2024-02-01,20240201,2024,2,"Electronics","B2B Wholesale",226533,63429
+2024-02-01,20240201,2024,2,"Home & Living","Offline Retail",111006,42182
+2024-02-01,20240201,2024,2,"Home & Living","Online DTC",70824,26913
+2024-02-01,20240201,2024,2,"Home & Living","Marketplace",70847,26922
+2024-02-01,20240201,2024,2,"Home & Living","B2B Wholesale",72025,27370
+2024-02-01,20240201,2024,2,"Apparel & Fashion","Offline Retail",63193,32860
+2024-02-01,20240201,2024,2,"Apparel & Fashion","Online DTC",94614,49199
+2024-02-01,20240201,2024,2,"Apparel & Fashion","Marketplace",97873,50894
+2024-02-01,20240201,2024,2,"Apparel & Fashion","B2B Wholesale",66171,34409
+2024-02-01,20240201,2024,2,"Beauty & Wellness","Offline Retail",46587,27020
+2024-02-01,20240201,2024,2,"Beauty & Wellness","Online DTC",82055,47592
+2024-02-01,20240201,2024,2,"Beauty & Wellness","Marketplace",82806,48027
+2024-02-01,20240201,2024,2,"Beauty & Wellness","B2B Wholesale",43621,25300
+2024-03-01,20240301,2024,3,"Electronics","Offline Retail",156666,43866
+2024-03-01,20240301,2024,3,"Electronics","Online DTC",166303,46565
+2024-03-01,20240301,2024,3,"Electronics","Marketplace",229724,64323
+2024-03-01,20240301,2024,3,"Electronics","B2B Wholesale",270377,75706
+2024-03-01,20240301,2024,3,"Home & Living","Offline Retail",139582,53041
+2024-03-01,20240301,2024,3,"Home & Living","Online DTC",90122,34246
+2024-03-01,20240301,2024,3,"Home & Living","Marketplace",88632,33680
+2024-03-01,20240301,2024,3,"Home & Living","B2B Wholesale",84480,32102
+2024-03-01,20240301,2024,3,"Apparel & Fashion","Offline Retail",78730,40940
+2024-03-01,20240301,2024,3,"Apparel & Fashion","Online DTC",122848,63881
+2024-03-01,20240301,2024,3,"Apparel & Fashion","Marketplace",120484,62652
+2024-03-01,20240301,2024,3,"Apparel & Fashion","B2B Wholesale",79882,41539
+2024-03-01,20240301,2024,3,"Beauty & Wellness","Offline Retail",57301,33235
+2024-03-01,20240301,2024,3,"Beauty & Wellness","Online DTC",106941,62026
+2024-03-01,20240301,2024,3,"Beauty & Wellness","Marketplace",103882,60252
+2024-03-01,20240301,2024,3,"Beauty & Wellness","B2B Wholesale",55509,32195
+2024-04-01,20240401,2024,4,"Electronics","Offline Retail",168279,47118
+2024-04-01,20240401,2024,4,"Electronics","Online DTC",163541,45791
+2024-04-01,20240401,2024,4,"Electronics","Marketplace",231364,64782
+2024-04-01,20240401,2024,4,"Electronics","B2B Wholesale",272443,76284
+2024-04-01,20240401,2024,4,"Home & Living","Offline Retail",138916,52788
+2024-04-01,20240401,2024,4,"Home & Living","Online DTC",84275,32025
+2024-04-01,20240401,2024,4,"Home & Living","Marketplace",88189,33512
+2024-04-01,20240401,2024,4,"Home & Living","B2B Wholesale",84874,32252
+2024-04-01,20240401,2024,4,"Apparel & Fashion","Offline Retail",79948,41573
+2024-04-01,20240401,2024,4,"Apparel & Fashion","Online DTC",118597,61670
+2024-04-01,20240401,2024,4,"Apparel & Fashion","Marketplace",115995,60317
+2024-04-01,20240401,2024,4,"Apparel & Fashion","B2B Wholesale",79709,41449
+2024-04-01,20240401,2024,4,"Beauty & Wellness","Offline Retail",55114,31966
+2024-04-01,20240401,2024,4,"Beauty & Wellness","Online DTC",103873,60246
+2024-04-01,20240401,2024,4,"Beauty & Wellness","Marketplace",103977,60307
+2024-04-01,20240401,2024,4,"Beauty & Wellness","B2B Wholesale",58154,33729
+2024-05-01,20240501,2024,5,"Electronics","Offline Retail",128867,36083
+2024-05-01,20240501,2024,5,"Electronics","Online DTC",128995,36119
+2024-05-01,20240501,2024,5,"Electronics","Marketplace",185990,52077
+2024-05-01,20240501,2024,5,"Electronics","B2B Wholesale",220888,61849
+2024-05-01,20240501,2024,5,"Home & Living","Offline Retail",105717,40172
+2024-05-01,20240501,2024,5,"Home & Living","Online DTC",68588,26063
+2024-05-01,20240501,2024,5,"Home & Living","Marketplace",68710,26110
+2024-05-01,20240501,2024,5,"Home & Living","B2B Wholesale",72778,27656
+2024-05-01,20240501,2024,5,"Apparel & Fashion","Offline Retail",67154,34920
+2024-05-01,20240501,2024,5,"Apparel & Fashion","Online DTC",93365,48550
+2024-05-01,20240501,2024,5,"Apparel & Fashion","Marketplace",91494,47577
+2024-05-01,20240501,2024,5,"Apparel & Fashion","B2B Wholesale",66309,34481
+2024-05-01,20240501,2024,5,"Beauty & Wellness","Offline Retail",43833,25423
+2024-05-01,20240501,2024,5,"Beauty & Wellness","Online DTC",84494,49007
+2024-05-01,20240501,2024,5,"Beauty & Wellness","Marketplace",83512,48437
+2024-05-01,20240501,2024,5,"Beauty & Wellness","B2B Wholesale",45574,26433
+2024-06-01,20240601,2024,6,"Electronics","Offline Retail",134081,37543
+2024-06-01,20240601,2024,6,"Electronics","Online DTC",130790,36621
+2024-06-01,20240601,2024,6,"Electronics","Marketplace",177629,49736
+2024-06-01,20240601,2024,6,"Electronics","B2B Wholesale",223998,62719
+2024-06-01,20240601,2024,6,"Home & Living","Offline Retail",113881,43275
+2024-06-01,20240601,2024,6,"Home & Living","Online DTC",69453,26392
+2024-06-01,20240601,2024,6,"Home & Living","Marketplace",68041,25856
+2024-06-01,20240601,2024,6,"Home & Living","B2B Wholesale",68502,26031
+2024-06-01,20240601,2024,6,"Apparel & Fashion","Offline Retail",63877,33216
+2024-06-01,20240601,2024,6,"Apparel & Fashion","Online DTC",97093,50488
+2024-06-01,20240601,2024,6,"Apparel & Fashion","Marketplace",93959,48859
+2024-06-01,20240601,2024,6,"Apparel & Fashion","B2B Wholesale",63285,32908
+2024-06-01,20240601,2024,6,"Beauty & Wellness","Offline Retail",44693,25922
+2024-06-01,20240601,2024,6,"Beauty & Wellness","Online DTC",86437,50133
+2024-06-01,20240601,2024,6,"Beauty & Wellness","Marketplace",83687,48538
+2024-06-01,20240601,2024,6,"Beauty & Wellness","B2B Wholesale",46543,26995
+2024-07-01,20240701,2024,7,"Electronics","Offline Retail",127552,35715
+2024-07-01,20240701,2024,7,"Electronics","Online DTC",130001,36400
+2024-07-01,20240701,2024,7,"Electronics","Marketplace",178354,49939
+2024-07-01,20240701,2024,7,"Electronics","B2B Wholesale",220935,61862
+2024-07-01,20240701,2024,7,"Home & Living","Offline Retail",108702,41307
+2024-07-01,20240701,2024,7,"Home & Living","Online DTC",70974,26970
+2024-07-01,20240701,2024,7,"Home & Living","Marketplace",70120,26646
+2024-07-01,20240701,2024,7,"Home & Living","B2B Wholesale",70977,26971
+2024-07-01,20240701,2024,7,"Apparel & Fashion","Offline Retail",62631,32568
+2024-07-01,20240701,2024,7,"Apparel & Fashion","Online DTC",96886,50381
+2024-07-01,20240701,2024,7,"Apparel & Fashion","Marketplace",91339,47496
+2024-07-01,20240701,2024,7,"Apparel & Fashion","B2B Wholesale",63657,33102
+2024-07-01,20240701,2024,7,"Beauty & Wellness","Offline Retail",46366,26892
+2024-07-01,20240701,2024,7,"Beauty & Wellness","Online DTC",86743,50311
+2024-07-01,20240701,2024,7,"Beauty & Wellness","Marketplace",87941,51006
+2024-07-01,20240701,2024,7,"Beauty & Wellness","B2B Wholesale",44852,26014
+2024-08-01,20240801,2024,8,"Electronics","Offline Retail",132054,36975
+2024-08-01,20240801,2024,8,"Electronics","Online DTC",131275,36757
+2024-08-01,20240801,2024,8,"Electronics","Marketplace",177117,49593
+2024-08-01,20240801,2024,8,"Electronics","B2B Wholesale",227936,63822
+2024-08-01,20240801,2024,8,"Home & Living","Offline Retail",109518,41617
+2024-08-01,20240801,2024,8,"Home & Living","Online DTC",72152,27418
+2024-08-01,20240801,2024,8,"Home & Living","Marketplace",67818,25771
+2024-08-01,20240801,2024,8,"Home & Living","B2B Wholesale",68569,26056
+2024-08-01,20240801,2024,8,"Apparel & Fashion","Offline Retail",63055,32789
+2024-08-01,20240801,2024,8,"Apparel & Fashion","Online DTC",97588,50746
+2024-08-01,20240801,2024,8,"Apparel & Fashion","Marketplace",97419,50658
+2024-08-01,20240801,2024,8,"Apparel & Fashion","B2B Wholesale",64592,33588
+2024-08-01,20240801,2024,8,"Beauty & Wellness","Offline Retail",46408,26917
+2024-08-01,20240801,2024,8,"Beauty & Wellness","Online DTC",85676,49692
+2024-08-01,20240801,2024,8,"Beauty & Wellness","Marketplace",83142,48222
+2024-08-01,20240801,2024,8,"Beauty & Wellness","B2B Wholesale",44026,25535
+2024-09-01,20240901,2024,9,"Electronics","Offline Retail",130744,36608
+2024-09-01,20240901,2024,9,"Electronics","Online DTC",134812,37747
+2024-09-01,20240901,2024,9,"Electronics","Marketplace",187100,52388
+2024-09-01,20240901,2024,9,"Electronics","B2B Wholesale",212836,59594
+2024-09-01,20240901,2024,9,"Home & Living","Offline Retail",107960,41025
+2024-09-01,20240901,2024,9,"Home & Living","Online DTC",70499,26790
+2024-09-01,20240901,2024,9,"Home & Living","Marketplace",68104,25880
+2024-09-01,20240901,2024,9,"Home & Living","B2B Wholesale",68889,26178
+2024-09-01,20240901,2024,9,"Apparel & Fashion","Offline Retail",65745,34187
+2024-09-01,20240901,2024,9,"Apparel & Fashion","Online DTC",91513,47587
+2024-09-01,20240901,2024,9,"Apparel & Fashion","Marketplace",93582,48663
+2024-09-01,20240901,2024,9,"Apparel & Fashion","B2B Wholesale",66543,34602
+2024-09-01,20240901,2024,9,"Beauty & Wellness","Offline Retail",44862,26020
+2024-09-01,20240901,2024,9,"Beauty & Wellness","Online DTC",85268,49455
+2024-09-01,20240901,2024,9,"Beauty & Wellness","Marketplace",84064,48757
+2024-09-01,20240901,2024,9,"Beauty & Wellness","B2B Wholesale",44017,25530
+2024-10-01,20241001,2024,10,"Electronics","Offline Retail",129772,36336
+2024-10-01,20241001,2024,10,"Electronics","Online DTC",125581,35163
+2024-10-01,20241001,2024,10,"Electronics","Marketplace",174808,48946
+2024-10-01,20241001,2024,10,"Electronics","B2B Wholesale",218850,61278
+2024-10-01,20241001,2024,10,"Home & Living","Offline Retail",108430,41203
+2024-10-01,20241001,2024,10,"Home & Living","Online DTC",69148,26276
+2024-10-01,20241001,2024,10,"Home & Living","Marketplace",70918,26949
+2024-10-01,20241001,2024,10,"Home & Living","B2B Wholesale",68998,26219
+2024-10-01,20241001,2024,10,"Apparel & Fashion","Offline Retail",65992,34316
+2024-10-01,20241001,2024,10,"Apparel & Fashion","Online DTC",93097,48410
+2024-10-01,20241001,2024,10,"Apparel & Fashion","Marketplace",93851,48803
+2024-10-01,20241001,2024,10,"Apparel & Fashion","B2B Wholesale",66648,34657
+2024-10-01,20241001,2024,10,"Beauty & Wellness","Offline Retail",45045,26126
+2024-10-01,20241001,2024,10,"Beauty & Wellness","Online DTC",84785,49175
+2024-10-01,20241001,2024,10,"Beauty & Wellness","Marketplace",87435,50712
+2024-10-01,20241001,2024,10,"Beauty & Wellness","B2B Wholesale",45444,26358
+2024-11-01,20241101,2024,11,"Electronics","Offline Retail",193784,54260
+2024-11-01,20241101,2024,11,"Electronics","Online DTC",192726,53963
+2024-11-01,20241101,2024,11,"Electronics","Marketplace",252044,70572
+2024-11-01,20241101,2024,11,"Electronics","B2B Wholesale",325293,91082
+2024-11-01,20241101,2024,11,"Home & Living","Offline Retail",159333,60547
+2024-11-01,20241101,2024,11,"Home & Living","Online DTC",101510,38574
+2024-11-01,20241101,2024,11,"Home & Living","Marketplace",97949,37221
+2024-11-01,20241101,2024,11,"Home & Living","B2B Wholesale",98680,37498
+2024-11-01,20241101,2024,11,"Apparel & Fashion","Offline Retail",96817,50345
+2024-11-01,20241101,2024,11,"Apparel & Fashion","Online DTC",133066,69194
+2024-11-01,20241101,2024,11,"Apparel & Fashion","Marketplace",143087,74405
+2024-11-01,20241101,2024,11,"Apparel & Fashion","B2B Wholesale",94353,49064
+2024-11-01,20241101,2024,11,"Beauty & Wellness","Offline Retail",66951,38832
+2024-11-01,20241101,2024,11,"Beauty & Wellness","Online DTC",119663,69405
+2024-11-01,20241101,2024,11,"Beauty & Wellness","Marketplace",120931,70140
+2024-11-01,20241101,2024,11,"Beauty & Wellness","B2B Wholesale",65257,37849
+2024-12-01,20241201,2024,12,"Electronics","Offline Retail",192650,53942
+2024-12-01,20241201,2024,12,"Electronics","Online DTC",191565,53638
+2024-12-01,20241201,2024,12,"Electronics","Marketplace",252223,70622
+2024-12-01,20241201,2024,12,"Electronics","B2B Wholesale",309015,86524
+2024-12-01,20241201,2024,12,"Home & Living","Offline Retail",163255,62037
+2024-12-01,20241201,2024,12,"Home & Living","Online DTC",103149,39197
+2024-12-01,20241201,2024,12,"Home & Living","Marketplace",104055,39541
+2024-12-01,20241201,2024,12,"Home & Living","B2B Wholesale",102363,38898
+2024-12-01,20241201,2024,12,"Apparel & Fashion","Offline Retail",93445,48591
+2024-12-01,20241201,2024,12,"Apparel & Fashion","Online DTC",137722,71615
+2024-12-01,20241201,2024,12,"Apparel & Fashion","Marketplace",137999,71759
+2024-12-01,20241201,2024,12,"Apparel & Fashion","B2B Wholesale",96012,49926
+2024-12-01,20241201,2024,12,"Beauty & Wellness","Offline Retail",64394,37349
+2024-12-01,20241201,2024,12,"Beauty & Wellness","Online DTC",120840,70087
+2024-12-01,20241201,2024,12,"Beauty & Wellness","Marketplace",120562,69926
+2024-12-01,20241201,2024,12,"Beauty & Wellness","B2B Wholesale",62668,36347
+2025-01-01,20250101,2025,1,"Electronics","Offline Retail",156089,43705
+2025-01-01,20250101,2025,1,"Electronics","Online DTC",164568,46079
+2025-01-01,20250101,2025,1,"Electronics","Marketplace",212978,59634
+2025-01-01,20250101,2025,1,"Electronics","B2B Wholesale",268925,75299
+2025-01-01,20250101,2025,1,"Home & Living","Offline Retail",136504,51872
+2025-01-01,20250101,2025,1,"Home & Living","Online DTC",82151,31217
+2025-01-01,20250101,2025,1,"Home & Living","Marketplace",83206,31618
+2025-01-01,20250101,2025,1,"Home & Living","B2B Wholesale",82913,31507
+2025-01-01,20250101,2025,1,"Apparel & Fashion","Offline Retail",81172,42209
+2025-01-01,20250101,2025,1,"Apparel & Fashion","Online DTC",111925,58201
+2025-01-01,20250101,2025,1,"Apparel & Fashion","Marketplace",116675,60671
+2025-01-01,20250101,2025,1,"Apparel & Fashion","B2B Wholesale",80473,41846
+2025-01-01,20250101,2025,1,"Beauty & Wellness","Offline Retail",52786,30616
+2025-01-01,20250101,2025,1,"Beauty & Wellness","Online DTC",107240,62199
+2025-01-01,20250101,2025,1,"Beauty & Wellness","Marketplace",103771,60187
+2025-01-01,20250101,2025,1,"Beauty & Wellness","B2B Wholesale",53948,31290
+2025-02-01,20250201,2025,2,"Electronics","Offline Retail",155262,43473
+2025-02-01,20250201,2025,2,"Electronics","Online DTC",156951,43946
+2025-02-01,20250201,2025,2,"Electronics","Marketplace",216777,60698
+2025-02-01,20250201,2025,2,"Electronics","B2B Wholesale",274403,76833
+2025-02-01,20250201,2025,2,"Home & Living","Offline Retail",130170,49465
+2025-02-01,20250201,2025,2,"Home & Living","Online DTC",85637,32542
+2025-02-01,20250201,2025,2,"Home & Living","Marketplace",84555,32131
+2025-02-01,20250201,2025,2,"Home & Living","B2B Wholesale",86077,32709
+2025-02-01,20250201,2025,2,"Apparel & Fashion","Offline Retail",82028,42655
+2025-02-01,20250201,2025,2,"Apparel & Fashion","Online DTC",117396,61046
+2025-02-01,20250201,2025,2,"Apparel & Fashion","Marketplace",114179,59373
+2025-02-01,20250201,2025,2,"Apparel & Fashion","B2B Wholesale",78412,40774
+2025-02-01,20250201,2025,2,"Beauty & Wellness","Offline Retail",56319,32665
+2025-02-01,20250201,2025,2,"Beauty & Wellness","Online DTC",105304,61076
+2025-02-01,20250201,2025,2,"Beauty & Wellness","Marketplace",102033,59179
+2025-02-01,20250201,2025,2,"Beauty & Wellness","B2B Wholesale",56514,32778
+2025-03-01,20250301,2025,3,"Electronics","Offline Retail",198633,55617
+2025-03-01,20250301,2025,3,"Electronics","Online DTC",191104,53509
+2025-03-01,20250301,2025,3,"Electronics","Marketplace",282741,79167
+2025-03-01,20250301,2025,3,"Electronics","B2B Wholesale",322358,90260
+2025-03-01,20250301,2025,3,"Home & Living","Offline Retail",163800,62244
+2025-03-01,20250301,2025,3,"Home & Living","Online DTC",106902,40623
+2025-03-01,20250301,2025,3,"Home & Living","Marketplace",109116,41464
+2025-03-01,20250301,2025,3,"Home & Living","B2B Wholesale",104615,39754
+2025-03-01,20250301,2025,3,"Apparel & Fashion","Offline Retail",98682,51315
+2025-03-01,20250301,2025,3,"Apparel & Fashion","Online DTC",139488,72534
+2025-03-01,20250301,2025,3,"Apparel & Fashion","Marketplace",150508,78264
+2025-03-01,20250301,2025,3,"Apparel & Fashion","B2B Wholesale",95556,49689
+2025-03-01,20250301,2025,3,"Beauty & Wellness","Offline Retail",68296,39612
+2025-03-01,20250301,2025,3,"Beauty & Wellness","Online DTC",125028,72516
+2025-03-01,20250301,2025,3,"Beauty & Wellness","Marketplace",130332,75593
+2025-03-01,20250301,2025,3,"Beauty & Wellness","B2B Wholesale",67487,39142
+2025-04-01,20250401,2025,4,"Electronics","Offline Retail",202902,56813
+2025-04-01,20250401,2025,4,"Electronics","Online DTC",193291,54121
+2025-04-01,20250401,2025,4,"Electronics","Marketplace",283320,79330
+2025-04-01,20250401,2025,4,"Electronics","B2B Wholesale",324621,90894
+2025-04-01,20250401,2025,4,"Home & Living","Offline Retail",167431,63624
+2025-04-01,20250401,2025,4,"Home & Living","Online DTC",103004,39142
+2025-04-01,20250401,2025,4,"Home & Living","Marketplace",107013,40665
+2025-04-01,20250401,2025,4,"Home & Living","B2B Wholesale",106616,40514
+2025-04-01,20250401,2025,4,"Apparel & Fashion","Offline Retail",102869,53492
+2025-04-01,20250401,2025,4,"Apparel & Fashion","Online DTC",144792,75292
+2025-04-01,20250401,2025,4,"Apparel & Fashion","Marketplace",142290,73991
+2025-04-01,20250401,2025,4,"Apparel & Fashion","B2B Wholesale",95632,49729
+2025-04-01,20250401,2025,4,"Beauty & Wellness","Offline Retail",66815,38753
+2025-04-01,20250401,2025,4,"Beauty & Wellness","Online DTC",131471,76253
+2025-04-01,20250401,2025,4,"Beauty & Wellness","Marketplace",134562,78046
+2025-04-01,20250401,2025,4,"Beauty & Wellness","B2B Wholesale",66148,38366
+2025-05-01,20250501,2025,5,"Electronics","Offline Retail",163469,45771
+2025-05-01,20250501,2025,5,"Electronics","Online DTC",158084,44264
+2025-05-01,20250501,2025,5,"Electronics","Marketplace",215997,60479
+2025-05-01,20250501,2025,5,"Electronics","B2B Wholesale",266115,74512
+2025-05-01,20250501,2025,5,"Home & Living","Offline Retail",135253,51396
+2025-05-01,20250501,2025,5,"Home & Living","Online DTC",84988,32295
+2025-05-01,20250501,2025,5,"Home & Living","Marketplace",85896,32640
+2025-05-01,20250501,2025,5,"Home & Living","B2B Wholesale",88089,33474
+2025-05-01,20250501,2025,5,"Apparel & Fashion","Offline Retail",78328,40731
+2025-05-01,20250501,2025,5,"Apparel & Fashion","Online DTC",113807,59180
+2025-05-01,20250501,2025,5,"Apparel & Fashion","Marketplace",115049,59825
+2025-05-01,20250501,2025,5,"Apparel & Fashion","B2B Wholesale",79524,41352
+2025-05-01,20250501,2025,5,"Beauty & Wellness","Offline Retail",54698,31725
+2025-05-01,20250501,2025,5,"Beauty & Wellness","Online DTC",101436,58833
+2025-05-01,20250501,2025,5,"Beauty & Wellness","Marketplace",104043,60345
+2025-05-01,20250501,2025,5,"Beauty & Wellness","B2B Wholesale",53317,30924
+2025-06-01,20250601,2025,6,"Electronics","Offline Retail",157599,44128
+2025-06-01,20250601,2025,6,"Electronics","Online DTC",161631,45257
+2025-06-01,20250601,2025,6,"Electronics","Marketplace",219562,61477
+2025-06-01,20250601,2025,6,"Electronics","B2B Wholesale",274427,76840
+2025-06-01,20250601,2025,6,"Home & Living","Offline Retail",132506,50352
+2025-06-01,20250601,2025,6,"Home & Living","Online DTC",82111,31202
+2025-06-01,20250601,2025,6,"Home & Living","Marketplace",86927,33032
+2025-06-01,20250601,2025,6,"Home & Living","B2B Wholesale",85154,32359
+2025-06-01,20250601,2025,6,"Apparel & Fashion","Offline Retail",79027,41094
+2025-06-01,20250601,2025,6,"Apparel & Fashion","Online DTC",117643,61174
+2025-06-01,20250601,2025,6,"Apparel & Fashion","Marketplace",119673,62230
+2025-06-01,20250601,2025,6,"Apparel & Fashion","B2B Wholesale",77812,40462
+2025-06-01,20250601,2025,6,"Beauty & Wellness","Offline Retail",53481,31019
+2025-06-01,20250601,2025,6,"Beauty & Wellness","Online DTC",106122,61551
+2025-06-01,20250601,2025,6,"Beauty & Wellness","Marketplace",103671,60129
+2025-06-01,20250601,2025,6,"Beauty & Wellness","B2B Wholesale",53088,30791
+2025-07-01,20250701,2025,7,"Electronics","Offline Retail",157665,44146
+2025-07-01,20250701,2025,7,"Electronics","Online DTC",153146,42881
+2025-07-01,20250701,2025,7,"Electronics","Marketplace",225455,63127
+2025-07-01,20250701,2025,7,"Electronics","B2B Wholesale",260198,72855
+2025-07-01,20250701,2025,7,"Home & Living","Offline Retail",131686,50041
+2025-07-01,20250701,2025,7,"Home & Living","Online DTC",87157,33120
+2025-07-01,20250701,2025,7,"Home & Living","Marketplace",84688,32181
+2025-07-01,20250701,2025,7,"Home & Living","B2B Wholesale",82734,31439
+2025-07-01,20250701,2025,7,"Apparel & Fashion","Offline Retail",77569,40336
+2025-07-01,20250701,2025,7,"Apparel & Fashion","Online DTC",116241,60445
+2025-07-01,20250701,2025,7,"Apparel & Fashion","Marketplace",114671,59629
+2025-07-01,20250701,2025,7,"Apparel & Fashion","B2B Wholesale",76245,39647
+2025-07-01,20250701,2025,7,"Beauty & Wellness","Offline Retail",55807,32368
+2025-07-01,20250701,2025,7,"Beauty & Wellness","Online DTC",103131,59816
+2025-07-01,20250701,2025,7,"Beauty & Wellness","Marketplace",104063,60357
+2025-07-01,20250701,2025,7,"Beauty & Wellness","B2B Wholesale",56139,32561
+2025-08-01,20250801,2025,8,"Electronics","Offline Retail",156972,43952
+2025-08-01,20250801,2025,8,"Electronics","Online DTC",164785,46140
+2025-08-01,20250801,2025,8,"Electronics","Marketplace",212634,59538
+2025-08-01,20250801,2025,8,"Electronics","B2B Wholesale",272481,76295
+2025-08-01,20250801,2025,8,"Home & Living","Offline Retail",135495,51488
+2025-08-01,20250801,2025,8,"Home & Living","Online DTC",85042,32316
+2025-08-01,20250801,2025,8,"Home & Living","Marketplace",86182,32749
+2025-08-01,20250801,2025,8,"Home & Living","B2B Wholesale",83492,31727
+2025-08-01,20250801,2025,8,"Apparel & Fashion","Offline Retail",82144,42715
+2025-08-01,20250801,2025,8,"Apparel & Fashion","Online DTC",114070,59316
+2025-08-01,20250801,2025,8,"Apparel & Fashion","Marketplace",119965,62382
+2025-08-01,20250801,2025,8,"Apparel & Fashion","B2B Wholesale",80148,41677
+2025-08-01,20250801,2025,8,"Beauty & Wellness","Offline Retail",54161,31413
+2025-08-01,20250801,2025,8,"Beauty & Wellness","Online DTC",104878,60829
+2025-08-01,20250801,2025,8,"Beauty & Wellness","Marketplace",103044,59766
+2025-08-01,20250801,2025,8,"Beauty & Wellness","B2B Wholesale",57090,33112
+2025-09-01,20250901,2025,9,"Electronics","Offline Retail",160679,44990
+2025-09-01,20250901,2025,9,"Electronics","Online DTC",153646,43021
+2025-09-01,20250901,2025,9,"Electronics","Marketplace",219347,61417
+2025-09-01,20250901,2025,9,"Electronics","B2B Wholesale",278646,78021
+2025-09-01,20250901,2025,9,"Home & Living","Offline Retail",129461,49195
+2025-09-01,20250901,2025,9,"Home & Living","Online DTC",82292,31271
+2025-09-01,20250901,2025,9,"Home & Living","Marketplace",86339,32809
+2025-09-01,20250901,2025,9,"Home & Living","B2B Wholesale",83663,31792
+2025-09-01,20250901,2025,9,"Apparel & Fashion","Offline Retail",80107,41656
+2025-09-01,20250901,2025,9,"Apparel & Fashion","Online DTC",111446,57952
+2025-09-01,20250901,2025,9,"Apparel & Fashion","Marketplace",117675,61191
+2025-09-01,20250901,2025,9,"Apparel & Fashion","B2B Wholesale",77700,40404
+2025-09-01,20250901,2025,9,"Beauty & Wellness","Offline Retail",54712,31733
+2025-09-01,20250901,2025,9,"Beauty & Wellness","Online DTC",107484,62341
+2025-09-01,20250901,2025,9,"Beauty & Wellness","Marketplace",102509,59455
+2025-09-01,20250901,2025,9,"Beauty & Wellness","B2B Wholesale",53875,31247
+2025-10-01,20251001,2025,10,"Electronics","Offline Retail",158164,44286
+2025-10-01,20251001,2025,10,"Electronics","Online DTC",163543,45792
+2025-10-01,20251001,2025,10,"Electronics","Marketplace",217776,60977
+2025-10-01,20251001,2025,10,"Electronics","B2B Wholesale",273370,76544
+2025-10-01,20251001,2025,10,"Home & Living","Offline Retail",137201,52136
+2025-10-01,20251001,2025,10,"Home & Living","Online DTC",88364,33578
+2025-10-01,20251001,2025,10,"Home & Living","Marketplace",82543,31366
+2025-10-01,20251001,2025,10,"Home & Living","B2B Wholesale",87199,33136
+2025-10-01,20251001,2025,10,"Apparel & Fashion","Offline Retail",81384,42320
+2025-10-01,20251001,2025,10,"Apparel & Fashion","Online DTC",116602,60633
+2025-10-01,20251001,2025,10,"Apparel & Fashion","Marketplace",115799,60215
+2025-10-01,20251001,2025,10,"Apparel & Fashion","B2B Wholesale",80273,41742
+2025-10-01,20251001,2025,10,"Beauty & Wellness","Offline Retail",54162,31414
+2025-10-01,20251001,2025,10,"Beauty & Wellness","Online DTC",101892,59097
+2025-10-01,20251001,2025,10,"Beauty & Wellness","Marketplace",100512,58297
+2025-10-01,20251001,2025,10,"Beauty & Wellness","B2B Wholesale",56574,32813
+2025-11-01,20251101,2025,11,"Electronics","Offline Retail",238389,66749
+2025-11-01,20251101,2025,11,"Electronics","Online DTC",227903,63813
+2025-11-01,20251101,2025,11,"Electronics","Marketplace",317752,88971
+2025-11-01,20251101,2025,11,"Electronics","B2B Wholesale",378072,105860
+2025-11-01,20251101,2025,11,"Home & Living","Offline Retail",187958,71424
+2025-11-01,20251101,2025,11,"Home & Living","Online DTC",126995,48258
+2025-11-01,20251101,2025,11,"Home & Living","Marketplace",123855,47065
+2025-11-01,20251101,2025,11,"Home & Living","B2B Wholesale",122799,46664
+2025-11-01,20251101,2025,11,"Apparel & Fashion","Offline Retail",114582,59583
+2025-11-01,20251101,2025,11,"Apparel & Fashion","Online DTC",166153,86400
+2025-11-01,20251101,2025,11,"Apparel & Fashion","Marketplace",172794,89853
+2025-11-01,20251101,2025,11,"Apparel & Fashion","B2B Wholesale",114859,59727
+2025-11-01,20251101,2025,11,"Beauty & Wellness","Offline Retail",76652,44458
+2025-11-01,20251101,2025,11,"Beauty & Wellness","Online DTC",149288,86587
+2025-11-01,20251101,2025,11,"Beauty & Wellness","Marketplace",155564,90227
+2025-11-01,20251101,2025,11,"Beauty & Wellness","B2B Wholesale",81215,47105
+2025-12-01,20251201,2025,12,"Electronics","Offline Retail",237612,66531
+2025-12-01,20251201,2025,12,"Electronics","Online DTC",227334,63654
+2025-12-01,20251201,2025,12,"Electronics","Marketplace",309984,86796
+2025-12-01,20251201,2025,12,"Electronics","B2B Wholesale",384772,107736
+2025-12-01,20251201,2025,12,"Home & Living","Offline Retail",188835,71757
+2025-12-01,20251201,2025,12,"Home & Living","Online DTC",127036,48274
+2025-12-01,20251201,2025,12,"Home & Living","Marketplace",125892,47839
+2025-12-01,20251201,2025,12,"Home & Living","B2B Wholesale",127658,48510
+2025-12-01,20251201,2025,12,"Apparel & Fashion","Offline Retail",118882,61819
+2025-12-01,20251201,2025,12,"Apparel & Fashion","Online DTC",169285,88028
+2025-12-01,20251201,2025,12,"Apparel & Fashion","Marketplace",164096,85330
+2025-12-01,20251201,2025,12,"Apparel & Fashion","B2B Wholesale",115462,60040
+2025-12-01,20251201,2025,12,"Beauty & Wellness","Offline Retail",79871,46325
+2025-12-01,20251201,2025,12,"Beauty & Wellness","Online DTC",144687,83918
+2025-12-01,20251201,2025,12,"Beauty & Wellness","Marketplace",144868,84023
+2025-12-01,20251201,2025,12,"Beauty & Wellness","B2B Wholesale",78009,45245
