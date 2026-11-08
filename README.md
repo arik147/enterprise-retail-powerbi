@@ -159,16 +159,30 @@ Cross-filtering dimensions against realized margin revealed three structural dri
 
 ---
 
-## 4. Dashboard Implementation
+## 4. Dashboard Implementation & Visual Walkthrough
 
-The Power BI report is organized into three stakeholder-oriented pages:
+The Power BI report is organized into three stakeholder-oriented reporting tiers:
 
-1. **Executive Commercial Performance:**  
-   High-level scorecard tracking Net Revenue, Gross Profit, Target Achievement %, and YoY momentum. Provides immediate visibility into monthly run rates versus budget plans.
-2. **Margin Leakage & Pricing Diagnostics:**  
-   Waterfall bridge charting Gross Revenue $\rightarrow$ Discounts $\rightarrow$ COGS $\rightarrow$ Gross Profit, paired with a discount elasticity scatter plot to flag margin-dilutive SKUs.
-3. **Regional & Store Operations:**  
-   Geographic map of Indonesian territory hubs, store performance leaderboards, and drill-through tables to review SKU mix per store.
+### Page 1: Executive Commercial Performance
+Provides C-Suite leadership with immediate visibility into top-line revenue (\$35.0M), YoY sales pacing (+115.5%), gross margin health (32.2%), category target variances, and omnichannel distribution mix.
+
+<p align="center">
+  <img src="docs/page-1.png" alt="Executive Commercial Performance Dashboard" width="900"/>
+</p>
+
+### Page 2: Margin Leakage & Pricing Diagnostics
+Deconstructs commercial profitability through a category/channel waterfall variance bridge, paired with an empirical discount elasticity scatter plot identifying margin-dilutive SKUs and channel discounting behavior.
+
+<p align="center">
+  <img src="docs/page-2.png" alt="Margin Leakage and Pricing Diagnostics" width="900"/>
+</p>
+
+### Page 3: Regional & Store Operations
+Operational drill-through mapping geographic revenue density across major Indonesian retail hubs (Greater Jakarta, West Java, East Java & Bali, Sumatra) alongside outlet-level sales, margins, and order fulfillment.
+
+<p align="center">
+  <img src="docs/page-3.png" alt="Regional and Store Operations" width="900"/>
+</p>
 
 ---
 
